@@ -1,0 +1,3 @@
+step 5000: train loss 5.2677, val loss 4.7977
+saving checkpoint to out-wikipedia-shards
+iter 5000: loss 5.3894, time 17155.94ms, mfu -100.00%

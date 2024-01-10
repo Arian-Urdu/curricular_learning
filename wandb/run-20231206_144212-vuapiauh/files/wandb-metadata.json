@@ -1,0 +1,130 @@
+{
+    "os": "Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.11.5",
+    "heartbeatAt": "2023-12-06T13:42:14.346618",
+    "startedAt": "2023-12-06T13:42:12.206501",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "config/train_shakespeare_char.py"
+    ],
+    "state": "running",
+    "program": "/home/arian/projects/curricular_learning/nanoGPT/train.py",
+    "codePathLocal": "train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/karpathy/nanoGPT.git",
+        "commit": "eba36e84649f3c6d840a93092cb779a260544d08"
+    },
+    "email": "airan@urdu.de.com",
+    "root": "/home/arian/projects/curricular_learning/nanoGPT",
+    "host": "ArianPC",
+    "username": "arian",
+    "executable": "/home/arian/miniconda3/envs/nanoGPT/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3600.0120000000006,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3600.012,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.012,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.012,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.012,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.012,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.012,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.012,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.012,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.012,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.012,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.012,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.012,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.012,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.012,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.012,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3600.012,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 16.512290954589844
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 2080 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2080 Ti",
+            "memory_total": 11811160064
+        }
+    ],
+    "memory": {
+        "total": 7.717105865478516
+    }
+}

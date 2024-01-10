@@ -1,0 +1,38 @@
+
+step 0: train loss 4.2874, val loss 4.2823
+iter 0: loss 4.2664, time 25989.09ms, mfu -100.00%
+iter 10: loss 3.2446, time 50.93ms, mfu 7.32%
+iter 20: loss 2.7914, time 48.37ms, mfu 7.36%
+iter 30: loss 2.6379, time 51.77ms, mfu 7.34%
+iter 40: loss 2.5754, time 47.76ms, mfu 7.39%
+iter 50: loss 2.5265, time 47.74ms, mfu 7.43%
+iter 60: loss 2.5135, time 47.80ms, mfu 7.46%
+iter 70: loss 2.4943, time 48.17ms, mfu 7.49%
+iter 80: loss 2.4972, time 48.02ms, mfu 7.52%
+iter 90: loss 2.4695, time 47.95ms, mfu 7.54%
+iter 100: loss 2.4635, time 47.91ms, mfu 7.57%
+iter 110: loss 2.4539, time 47.67ms, mfu 7.59%
+iter 120: loss 2.4233, time 49.39ms, mfu 7.59%
+iter 130: loss 2.4194, time 47.92ms, mfu 7.61%
+iter 140: loss 2.3996, time 50.59ms, mfu 7.58%
+iter 150: loss 2.4141, time 48.28ms, mfu 7.60%
+iter 160: loss 2.3718, time 51.07ms, mfu 7.57%
+iter 170: loss 2.3650, time 47.95ms, mfu 7.59%
+iter 180: loss 2.3240, time 51.12ms, mfu 7.56%
+iter 190: loss 2.2616, time 49.93ms, mfu 7.55%
+iter 200: loss 2.2239, time 51.17ms, mfu 7.52%
+iter 210: loss 2.1488, time 47.94ms, mfu 7.55%
+iter 220: loss 2.1400, time 47.83ms, mfu 7.57%
+iter 230: loss 2.0844, time 48.52ms, mfu 7.58%
+iter 240: loss 2.0803, time 47.73ms, mfu 7.60%
+Traceback (most recent call last):
+  File "/home/arian/projects/curricular_learning/nanoGPT/train.py", line 261, in <module>
+    losses = estimate_loss()
+             ^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/projects/curricular_learning/nanoGPT/train.py", line 222, in estimate_loss
+    losses[k] = loss.item()
+                ^^^^^^^^^^^
+KeyboardInterrupt

@@ -1,0 +1,665 @@
+2023-12-21 09:09:46,999 INFO    StreamThr :17525 [internal.py:wandb_internal():86] W&B internal server running at pid: 17525, started at: 2023-12-21 09:09:46.999316
+2023-12-21 09:09:47,001 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status
+2023-12-21 09:09:47,003 INFO    WriterThread:17525 [datastore.py:open_for_write():85] open: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/run-ixfvbqj1.wandb
+2023-12-21 09:09:47,003 DEBUG   SenderThread:17525 [sender.py:send():380] send: header
+2023-12-21 09:09:47,006 DEBUG   SenderThread:17525 [sender.py:send():380] send: run
+2023-12-21 09:09:47,488 INFO    SenderThread:17525 [dir_watcher.py:__init__():211] watching files in: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files
+2023-12-21 09:09:47,488 INFO    SenderThread:17525 [sender.py:_start_run_threads():1124] run started: ixfvbqj1 with start time 1703146187.001608
+2023-12-21 09:09:47,492 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: check_version
+2023-12-21 09:09:47,492 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: check_version
+2023-12-21 09:09:47,631 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: run_start
+2023-12-21 09:09:47,646 DEBUG   HandlerThread:17525 [system_info.py:__init__():32] System info init
+2023-12-21 09:09:47,646 DEBUG   HandlerThread:17525 [system_info.py:__init__():47] System info init done
+2023-12-21 09:09:47,646 INFO    HandlerThread:17525 [system_monitor.py:start():194] Starting system monitor
+2023-12-21 09:09:47,646 INFO    SystemMonitor:17525 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2023-12-21 09:09:47,647 INFO    HandlerThread:17525 [system_monitor.py:probe():214] Collecting system info
+2023-12-21 09:09:47,647 INFO    SystemMonitor:17525 [interfaces.py:start():190] Started cpu monitoring
+2023-12-21 09:09:47,648 INFO    SystemMonitor:17525 [interfaces.py:start():190] Started disk monitoring
+2023-12-21 09:09:47,651 INFO    SystemMonitor:17525 [interfaces.py:start():190] Started gpu monitoring
+2023-12-21 09:09:47,652 INFO    SystemMonitor:17525 [interfaces.py:start():190] Started memory monitoring
+2023-12-21 09:09:47,654 INFO    SystemMonitor:17525 [interfaces.py:start():190] Started network monitoring
+2023-12-21 09:09:47,662 DEBUG   HandlerThread:17525 [system_info.py:probe():196] Probing system
+2023-12-21 09:09:47,675 DEBUG   HandlerThread:17525 [system_info.py:_probe_git():181] Probing git
+2023-12-21 09:09:47,679 DEBUG   HandlerThread:17525 [system_info.py:_probe_git():189] Probing git done
+2023-12-21 09:09:47,679 DEBUG   HandlerThread:17525 [system_info.py:probe():244] Probing system done
+2023-12-21 09:09:47,679 DEBUG   HandlerThread:17525 [system_monitor.py:probe():223] {'os': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35', 'python': '3.11.5', 'heartbeatAt': '2023-12-21T08:09:47.662323', 'startedAt': '2023-12-21T08:09:46.995726', 'docker': None, 'cuda': None, 'args': ('config/train_wikipedia_shards.py',), 'state': 'running', 'program': '/home/arian/projects/curricular_learning/nanoGPT/train.py', 'codePathLocal': 'train.py', 'codePath': 'train.py', 'git': {'remote': 'https://github.com/karpathy/nanoGPT.git', 'commit': 'eba36e84649f3c6d840a93092cb779a260544d08'}, 'email': 'airan@urdu.de.com', 'root': '/home/arian/projects/curricular_learning/nanoGPT', 'host': 'ArianPC', 'username': 'arian', 'executable': '/home/arian/miniconda3/envs/nanoGPT/bin/python', 'cpu_count': 8, 'cpu_count_logical': 16, 'cpu_freq': {'current': 3600.0089999999987, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 3600.009, 'min': 0.0, 'max': 0.0}, {'current': 3600.009, 'min': 0.0, 'max': 0.0}, {'current': 3600.009, 'min': 0.0, 'max': 0.0}, {'current': 3600.009, 'min': 0.0, 'max': 0.0}, {'current': 3600.009, 'min': 0.0, 'max': 0.0}, {'current': 3600.009, 'min': 0.0, 'max': 0.0}, {'current': 3600.009, 'min': 0.0, 'max': 0.0}, {'current': 3600.009, 'min': 0.0, 'max': 0.0}, {'current': 3600.009, 'min': 0.0, 'max': 0.0}, {'current': 3600.009, 'min': 0.0, 'max': 0.0}, {'current': 3600.009, 'min': 0.0, 'max': 0.0}, {'current': 3600.009, 'min': 0.0, 'max': 0.0}, {'current': 3600.009, 'min': 0.0, 'max': 0.0}, {'current': 3600.009, 'min': 0.0, 'max': 0.0}, {'current': 3600.009, 'min': 0.0, 'max': 0.0}, {'current': 3600.009, 'min': 0.0, 'max': 0.0}], 'disk': {'/': {'total': 1006.853931427002, 'used': 31.704139709472656}}, 'gpu': 'NVIDIA GeForce RTX 2080 Ti', 'gpu_count': 1, 'gpu_devices': [{'name': 'NVIDIA GeForce RTX 2080 Ti', 'memory_total': 11811160064}], 'memory': {'total': 7.717109680175781}}
+2023-12-21 09:09:47,679 INFO    HandlerThread:17525 [system_monitor.py:probe():224] Finished collecting system info
+2023-12-21 09:09:47,679 INFO    HandlerThread:17525 [system_monitor.py:probe():227] Publishing system info
+2023-12-21 09:09:47,679 DEBUG   HandlerThread:17525 [system_info.py:_save_pip():52] Saving list of pip packages installed into the current environment
+2023-12-21 09:09:47,679 DEBUG   HandlerThread:17525 [system_info.py:_save_pip():68] Saving pip packages done
+2023-12-21 09:09:47,679 DEBUG   HandlerThread:17525 [system_info.py:_save_conda():75] Saving list of conda packages installed into the current environment
+2023-12-21 09:09:48,488 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_created():271] file/dir created: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/conda-environment.yaml
+2023-12-21 09:09:48,488 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_created():271] file/dir created: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/requirements.txt
+2023-12-21 09:09:49,488 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/conda-environment.yaml
+2023-12-21 09:09:49,517 DEBUG   HandlerThread:17525 [system_info.py:_save_conda():87] Saving conda packages done
+2023-12-21 09:09:49,518 INFO    HandlerThread:17525 [system_monitor.py:probe():229] Finished publishing system info
+2023-12-21 09:09:49,520 DEBUG   SenderThread:17525 [sender.py:send():380] send: files
+2023-12-21 09:09:49,521 INFO    SenderThread:17525 [sender.py:_save_file():1380] saving file wandb-metadata.json with policy now
+2023-12-21 09:09:49,526 DEBUG   SenderThread:17525 [sender.py:send():380] send: telemetry
+2023-12-21 09:09:49,578 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:09:49,579 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:09:49,579 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:09:50,120 INFO    wandb-upload_0:17525 [upload_job.py:push():131] Uploaded file /tmp/tmpt8aq5npgwandb/yprad95a-wandb-metadata.json
+2023-12-21 09:09:50,488 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_created():271] file/dir created: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/wandb-metadata.json
+2023-12-21 09:09:52,814 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:09:57,815 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:09:59,491 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_created():271] file/dir created: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:09:59,573 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: partial_history
+2023-12-21 09:09:59,574 DEBUG   SenderThread:17525 [sender.py:send():380] send: history
+2023-12-21 09:09:59,574 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: summary_record
+2023-12-21 09:09:59,575 INFO    SenderThread:17525 [sender.py:_save_file():1380] saving file wandb-summary.json with policy end
+2023-12-21 09:10:00,492 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_created():271] file/dir created: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/wandb-summary.json
+2023-12-21 09:10:01,492 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:10:03,576 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:10:04,540 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:10:04,542 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:10:04,542 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:10:08,709 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:10:14,609 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:10:15,496 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:10:19,612 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:10:19,960 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:10:19,960 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:10:19,961 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:10:20,497 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/config.yaml
+2023-12-21 09:10:25,113 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:10:30,113 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:10:34,960 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:10:34,960 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:10:34,960 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:10:35,189 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:10:39,501 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:10:40,903 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:10:45,904 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:10:47,654 DEBUG   SystemMonitor:17525 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2023-12-21 09:10:47,655 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:10:49,960 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:10:49,960 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:10:49,961 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:10:51,122 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:10:56,123 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:11:01,124 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:11:03,506 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:11:04,960 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:11:04,960 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:11:04,961 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:11:06,145 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:11:11,146 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:11:16,146 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:11:17,655 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:11:19,960 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:11:19,961 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:11:19,961 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:11:21,174 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:11:26,175 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:11:29,512 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:11:31,504 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:11:34,960 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:11:34,961 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:11:34,961 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:11:37,115 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:11:42,116 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:11:47,117 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:11:47,656 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:11:49,960 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:11:49,961 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:11:49,961 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:11:52,161 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:11:53,518 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:11:57,685 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:12:02,686 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:12:04,960 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:12:04,961 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:12:04,961 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:12:08,208 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:12:13,209 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:12:17,656 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:12:18,778 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:12:19,524 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:12:19,961 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:12:19,961 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:12:19,961 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:12:24,207 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:12:29,208 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:12:34,208 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:12:34,961 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:12:34,961 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:12:34,961 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:12:40,162 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:12:43,529 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:12:45,397 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:12:47,656 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:12:49,961 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:12:49,961 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:12:49,962 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:12:51,125 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:12:56,125 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:13:01,126 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:13:04,961 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:13:04,962 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:13:04,962 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:13:06,181 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:13:09,535 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:13:12,165 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:13:17,166 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:13:17,657 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:13:19,961 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:13:19,962 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:13:19,962 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:13:22,263 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:13:27,263 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:13:32,264 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:13:33,540 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:13:34,961 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:13:34,962 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:13:34,962 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:13:38,168 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:13:43,169 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:13:47,657 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:13:48,658 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:13:49,961 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:13:49,962 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:13:49,962 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:13:54,183 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:13:59,277 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:13:59,546 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:14:04,278 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:14:04,961 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:14:04,962 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:14:04,963 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:14:10,140 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:14:15,140 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:14:17,658 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:14:19,962 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:14:19,962 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:14:19,963 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:14:20,159 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:14:23,552 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:14:25,731 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:14:30,732 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:14:34,962 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:14:34,962 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:14:34,963 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:14:36,211 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:14:41,212 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:14:46,213 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:14:47,658 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:14:49,558 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:14:49,984 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:14:49,984 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:14:49,985 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:14:52,146 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:14:57,147 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:15:02,148 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:15:04,983 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:15:04,984 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:15:05,028 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:15:07,221 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:15:12,221 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:15:15,564 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:15:17,249 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:15:17,659 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:15:20,889 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:15:20,889 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:15:20,890 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:15:23,050 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:15:28,050 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:15:33,051 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:15:35,887 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:15:35,887 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:15:35,928 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:15:38,092 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:15:41,569 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:15:43,179 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:15:47,659 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:15:48,660 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:15:50,887 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:15:50,887 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:15:50,889 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:15:54,119 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:15:59,120 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:16:04,121 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:16:05,888 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:16:05,888 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:16:05,889 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:16:10,082 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:16:15,139 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:16:15,577 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:16:17,660 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:16:20,660 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:16:21,501 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:16:21,502 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:16:21,502 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:16:25,673 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:16:30,674 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:16:35,675 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:16:36,500 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:16:36,500 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:16:36,549 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:16:40,677 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:16:45,584 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:16:45,699 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:16:47,660 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:16:51,500 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:16:51,500 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:16:51,500 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:16:51,763 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:16:56,764 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:17:01,764 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:17:06,500 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:17:06,500 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:17:06,548 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:17:07,692 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:17:11,590 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:17:12,829 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:17:17,661 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:17:18,662 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:17:21,554 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:17:21,555 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:17:21,555 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:17:23,788 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:17:28,789 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:17:33,789 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:17:36,518 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:17:36,518 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:17:36,519 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:17:37,596 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:17:39,703 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:17:44,704 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:17:47,662 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:17:50,662 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:17:51,518 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:17:51,518 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:17:51,519 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:17:55,743 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:18:00,744 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:18:03,602 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:18:06,230 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:18:07,589 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:18:07,589 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:18:07,591 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:18:11,843 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:18:16,844 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:18:17,662 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:18:22,588 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:18:22,589 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:18:22,589 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:18:22,750 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:18:27,607 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:18:28,490 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:18:33,490 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:18:37,588 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:18:37,589 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:18:37,590 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:18:38,753 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:18:43,754 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:18:47,662 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:18:49,663 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:18:53,202 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:18:53,203 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:18:53,203 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:18:53,612 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:18:55,385 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:19:00,386 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:19:05,387 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:19:08,203 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:19:08,203 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:19:08,248 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:19:10,454 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:19:15,455 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:19:17,618 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:19:17,663 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:19:20,664 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:19:23,203 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:19:23,203 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:19:23,204 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:19:26,454 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:19:31,455 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:19:36,456 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:19:38,203 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:19:38,203 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:19:38,248 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:19:42,450 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:19:45,624 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:19:47,659 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:19:47,663 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:19:52,664 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:19:53,288 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:19:53,288 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:19:53,314 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:19:58,494 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:20:03,495 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:20:08,287 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:20:08,288 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:20:08,328 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:20:09,441 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:20:11,630 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:20:15,119 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:20:17,664 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:20:20,664 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:20:23,288 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:20:23,288 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:20:23,289 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:20:26,470 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:20:31,471 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:20:36,689 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:20:37,636 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:20:38,288 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:20:38,288 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:20:38,290 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:20:42,513 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:20:47,513 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:20:47,669 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:20:52,670 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:20:53,288 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:20:53,288 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:20:53,328 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:20:58,485 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:21:03,519 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:21:03,641 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:21:08,288 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:21:08,289 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:21:08,289 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:21:09,447 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:21:14,448 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:21:17,664 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:21:19,665 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:21:23,288 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:21:23,288 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:21:23,328 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:21:25,519 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:21:27,646 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:21:30,959 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:21:35,960 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:21:38,288 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:21:38,289 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:21:38,290 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:21:41,454 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:21:46,454 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:21:47,665 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:21:51,666 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:21:53,288 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:21:53,289 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:21:53,338 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:21:55,652 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:21:57,219 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:22:02,220 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:22:07,221 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:22:08,289 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:22:08,289 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:22:08,289 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:22:12,526 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:22:17,527 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:22:17,665 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:22:19,658 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:22:22,609 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:22:23,425 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:22:23,427 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:22:23,427 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:22:27,669 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:22:32,670 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:22:37,671 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:22:38,402 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:22:38,425 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:22:38,426 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:22:42,672 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:22:47,666 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:22:48,666 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:22:49,664 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:22:53,402 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:22:53,425 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:22:53,426 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:22:54,613 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:22:59,614 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:23:04,615 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:23:09,616 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:23:14,616 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:23:17,667 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:23:19,667 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:23:24,668 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:23:27,734 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:23:27,735 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:23:27,735 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:23:30,141 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:23:35,142 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:23:40,143 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:23:42,733 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:23:42,734 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:23:42,734 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:23:45,984 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:23:47,667 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:23:51,668 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:23:56,669 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:23:57,733 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:23:57,734 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:23:57,734 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:24:01,985 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:24:06,986 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:24:11,987 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:24:12,733 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:24:12,734 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:24:12,734 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:24:17,667 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:24:17,668 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:24:22,669 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:24:27,670 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:24:27,733 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:24:27,734 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:24:27,734 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:24:32,991 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:24:37,992 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:24:42,734 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:24:42,734 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:24:42,734 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:24:43,985 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:24:47,668 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:24:49,669 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:24:54,670 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:24:57,734 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:24:57,734 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:24:57,734 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:24:59,990 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:25:04,991 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:25:09,992 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:25:12,734 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:25:12,734 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:25:12,735 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:25:15,959 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:25:17,668 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:25:21,669 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:25:26,670 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:25:27,734 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:25:27,734 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:25:27,735 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:25:31,946 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:25:36,946 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:25:41,947 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:25:42,734 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:25:42,734 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:25:42,735 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:25:46,979 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:25:47,669 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:25:52,670 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:25:57,671 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:25:57,734 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:25:57,735 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:25:57,735 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:26:02,998 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:26:07,999 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:26:11,718 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:26:12,734 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:26:12,735 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:26:12,735 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:26:13,943 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:26:17,669 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:26:19,670 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:26:24,671 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:26:29,672 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:26:34,673 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:26:39,673 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:26:44,674 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:26:46,043 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: keepalive
+2023-12-21 09:26:46,043 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:26:46,043 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: keepalive
+2023-12-21 09:26:47,670 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:26:50,670 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:26:55,672 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:27:00,673 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:27:01,576 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:27:01,620 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:27:01,620 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:27:05,873 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:27:10,874 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:27:15,875 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:27:16,576 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:27:16,577 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:27:16,577 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:27:17,670 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:27:21,671 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:27:23,737 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:27:27,670 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:27:32,670 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:27:34,172 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: stop_status
+2023-12-21 09:27:34,173 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: stop_status
+2023-12-21 09:27:34,218 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:27:38,321 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:27:43,321 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:27:45,015 DEBUG   SenderThread:17525 [sender.py:send():380] send: exit
+2023-12-21 09:27:45,016 INFO    SenderThread:17525 [sender.py:send_exit():585] handling exit code: 255
+2023-12-21 09:27:45,016 INFO    SenderThread:17525 [sender.py:send_exit():587] handling runtime: 1077
+2023-12-21 09:27:45,016 INFO    SenderThread:17525 [sender.py:_save_file():1380] saving file wandb-summary.json with policy end
+2023-12-21 09:27:45,016 INFO    SenderThread:17525 [sender.py:send_exit():593] send defer
+2023-12-21 09:27:45,016 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: defer
+2023-12-21 09:27:45,016 INFO    HandlerThread:17525 [handler.py:handle_request_defer():172] handle defer: 0
+2023-12-21 09:27:45,016 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: defer
+2023-12-21 09:27:45,017 INFO    SenderThread:17525 [sender.py:send_request_defer():609] handle sender defer: 0
+2023-12-21 09:27:45,017 INFO    SenderThread:17525 [sender.py:transition_state():613] send defer: 1
+2023-12-21 09:27:45,017 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: defer
+2023-12-21 09:27:45,017 INFO    HandlerThread:17525 [handler.py:handle_request_defer():172] handle defer: 1
+2023-12-21 09:27:45,017 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: defer
+2023-12-21 09:27:45,017 INFO    SenderThread:17525 [sender.py:send_request_defer():609] handle sender defer: 1
+2023-12-21 09:27:45,017 INFO    SenderThread:17525 [sender.py:transition_state():613] send defer: 2
+2023-12-21 09:27:45,017 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: defer
+2023-12-21 09:27:45,017 INFO    HandlerThread:17525 [handler.py:handle_request_defer():172] handle defer: 2
+2023-12-21 09:27:45,017 INFO    HandlerThread:17525 [system_monitor.py:finish():203] Stopping system monitor
+2023-12-21 09:27:45,018 DEBUG   SystemMonitor:17525 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2023-12-21 09:27:45,019 INFO    HandlerThread:17525 [interfaces.py:finish():202] Joined cpu monitor
+2023-12-21 09:27:45,019 DEBUG   SystemMonitor:17525 [system_monitor.py:_start():183] Publishing last batch of metrics
+2023-12-21 09:27:45,019 INFO    HandlerThread:17525 [interfaces.py:finish():202] Joined disk monitor
+2023-12-21 09:27:45,031 INFO    HandlerThread:17525 [interfaces.py:finish():202] Joined gpu monitor
+2023-12-21 09:27:45,031 INFO    HandlerThread:17525 [interfaces.py:finish():202] Joined memory monitor
+2023-12-21 09:27:45,031 INFO    HandlerThread:17525 [interfaces.py:finish():202] Joined network monitor
+2023-12-21 09:27:45,032 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: defer
+2023-12-21 09:27:45,032 INFO    SenderThread:17525 [sender.py:send_request_defer():609] handle sender defer: 2
+2023-12-21 09:27:45,032 INFO    SenderThread:17525 [sender.py:transition_state():613] send defer: 3
+2023-12-21 09:27:45,032 DEBUG   SenderThread:17525 [sender.py:send():380] send: stats
+2023-12-21 09:27:45,032 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: defer
+2023-12-21 09:27:45,032 INFO    HandlerThread:17525 [handler.py:handle_request_defer():172] handle defer: 3
+2023-12-21 09:27:45,032 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: defer
+2023-12-21 09:27:45,032 INFO    SenderThread:17525 [sender.py:send_request_defer():609] handle sender defer: 3
+2023-12-21 09:27:45,032 INFO    SenderThread:17525 [sender.py:transition_state():613] send defer: 4
+2023-12-21 09:27:45,032 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: defer
+2023-12-21 09:27:45,032 INFO    HandlerThread:17525 [handler.py:handle_request_defer():172] handle defer: 4
+2023-12-21 09:27:45,033 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: defer
+2023-12-21 09:27:45,033 INFO    SenderThread:17525 [sender.py:send_request_defer():609] handle sender defer: 4
+2023-12-21 09:27:45,033 INFO    SenderThread:17525 [sender.py:transition_state():613] send defer: 5
+2023-12-21 09:27:45,033 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: defer
+2023-12-21 09:27:45,033 INFO    HandlerThread:17525 [handler.py:handle_request_defer():172] handle defer: 5
+2023-12-21 09:27:45,033 DEBUG   SenderThread:17525 [sender.py:send():380] send: summary
+2023-12-21 09:27:45,033 INFO    SenderThread:17525 [sender.py:_save_file():1380] saving file wandb-summary.json with policy end
+2023-12-21 09:27:45,034 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: defer
+2023-12-21 09:27:45,034 INFO    SenderThread:17525 [sender.py:send_request_defer():609] handle sender defer: 5
+2023-12-21 09:27:45,034 INFO    SenderThread:17525 [sender.py:transition_state():613] send defer: 6
+2023-12-21 09:27:45,034 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: defer
+2023-12-21 09:27:45,034 INFO    HandlerThread:17525 [handler.py:handle_request_defer():172] handle defer: 6
+2023-12-21 09:27:45,034 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: defer
+2023-12-21 09:27:45,034 INFO    SenderThread:17525 [sender.py:send_request_defer():609] handle sender defer: 6
+2023-12-21 09:27:45,034 INFO    SenderThread:17525 [sender.py:transition_state():613] send defer: 7
+2023-12-21 09:27:45,034 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: status_report
+2023-12-21 09:27:45,034 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: defer
+2023-12-21 09:27:45,034 INFO    HandlerThread:17525 [handler.py:handle_request_defer():172] handle defer: 7
+2023-12-21 09:27:45,035 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: defer
+2023-12-21 09:27:45,035 INFO    SenderThread:17525 [sender.py:send_request_defer():609] handle sender defer: 7
+2023-12-21 09:27:45,742 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/wandb-summary.json
+2023-12-21 09:27:46,012 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: poll_exit
+2023-12-21 09:27:46,964 INFO    SenderThread:17525 [sender.py:transition_state():613] send defer: 8
+2023-12-21 09:27:46,965 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: poll_exit
+2023-12-21 09:27:46,966 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: defer
+2023-12-21 09:27:46,967 INFO    HandlerThread:17525 [handler.py:handle_request_defer():172] handle defer: 8
+2023-12-21 09:27:46,968 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: defer
+2023-12-21 09:27:46,968 INFO    SenderThread:17525 [sender.py:send_request_defer():609] handle sender defer: 8
+2023-12-21 09:27:46,969 INFO    SenderThread:17525 [job_builder.py:build():298] Attempting to build job artifact
+2023-12-21 09:27:46,970 INFO    SenderThread:17525 [job_builder.py:_get_source_type():428] is repo sourced job
+2023-12-21 09:27:46,984 INFO    SenderThread:17525 [job_builder.py:build():404] adding wandb-job metadata file
+2023-12-21 09:27:46,989 INFO    SenderThread:17525 [sender.py:transition_state():613] send defer: 9
+2023-12-21 09:27:46,989 DEBUG   SenderThread:17525 [sender.py:send():380] send: artifact
+2023-12-21 09:27:46,990 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: defer
+2023-12-21 09:27:46,990 INFO    HandlerThread:17525 [handler.py:handle_request_defer():172] handle defer: 9
+2023-12-21 09:27:47,013 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: poll_exit
+2023-12-21 09:27:47,744 INFO    Thread-12 :17525 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:27:47,786 INFO    SenderThread:17525 [sender.py:send_artifact():1458] sent artifact job-https___github.com_karpathy_nanoGPT.git_train.py - {'id': 'QXJ0aWZhY3Q6NjcxNzEyNjY5', 'state': 'COMMITTED', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjEyNTAxMTUwMg==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NjcxNzEyNjY5', 'versionIndex': 0}}}
+2023-12-21 09:27:47,786 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: defer
+2023-12-21 09:27:47,786 INFO    SenderThread:17525 [sender.py:send_request_defer():609] handle sender defer: 9
+2023-12-21 09:27:47,786 INFO    SenderThread:17525 [dir_watcher.py:finish():358] shutting down directory watcher
+2023-12-21 09:27:48,745 INFO    SenderThread:17525 [dir_watcher.py:finish():388] scan: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files
+2023-12-21 09:27:48,745 INFO    SenderThread:17525 [dir_watcher.py:finish():402] scan save: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/requirements.txt requirements.txt
+2023-12-21 09:27:48,745 INFO    SenderThread:17525 [dir_watcher.py:finish():402] scan save: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/conda-environment.yaml conda-environment.yaml
+2023-12-21 09:27:48,747 INFO    SenderThread:17525 [dir_watcher.py:finish():402] scan save: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/wandb-metadata.json wandb-metadata.json
+2023-12-21 09:27:48,747 INFO    SenderThread:17525 [dir_watcher.py:finish():402] scan save: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/config.yaml config.yaml
+2023-12-21 09:27:48,747 INFO    SenderThread:17525 [dir_watcher.py:finish():402] scan save: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/wandb-summary.json wandb-summary.json
+2023-12-21 09:27:48,748 INFO    SenderThread:17525 [dir_watcher.py:finish():402] scan save: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log output.log
+2023-12-21 09:27:48,748 INFO    SenderThread:17525 [sender.py:transition_state():613] send defer: 10
+2023-12-21 09:27:48,748 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: poll_exit
+2023-12-21 09:27:48,751 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: defer
+2023-12-21 09:27:48,752 INFO    HandlerThread:17525 [handler.py:handle_request_defer():172] handle defer: 10
+2023-12-21 09:27:48,755 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: defer
+2023-12-21 09:27:48,756 INFO    SenderThread:17525 [sender.py:send_request_defer():609] handle sender defer: 10
+2023-12-21 09:27:48,756 INFO    SenderThread:17525 [file_pusher.py:finish():175] shutting down file pusher
+2023-12-21 09:27:49,303 INFO    wandb-upload_0:17525 [upload_job.py:push():131] Uploaded file /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/requirements.txt
+2023-12-21 09:27:49,318 INFO    wandb-upload_2:17525 [upload_job.py:push():131] Uploaded file /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/config.yaml
+2023-12-21 09:27:49,369 INFO    wandb-upload_1:17525 [upload_job.py:push():131] Uploaded file /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/conda-environment.yaml
+2023-12-21 09:27:49,371 INFO    wandb-upload_3:17525 [upload_job.py:push():131] Uploaded file /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/wandb-summary.json
+2023-12-21 09:27:49,372 INFO    wandb-upload_4:17525 [upload_job.py:push():131] Uploaded file /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/files/output.log
+2023-12-21 09:27:49,573 INFO    Thread-11 (_thread_body):17525 [sender.py:transition_state():613] send defer: 11
+2023-12-21 09:27:49,574 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: defer
+2023-12-21 09:27:49,574 INFO    HandlerThread:17525 [handler.py:handle_request_defer():172] handle defer: 11
+2023-12-21 09:27:49,576 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: defer
+2023-12-21 09:27:49,576 INFO    SenderThread:17525 [sender.py:send_request_defer():609] handle sender defer: 11
+2023-12-21 09:27:49,576 INFO    SenderThread:17525 [file_pusher.py:join():181] waiting for file pusher
+2023-12-21 09:27:49,576 INFO    SenderThread:17525 [sender.py:transition_state():613] send defer: 12
+2023-12-21 09:27:49,576 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: defer
+2023-12-21 09:27:49,576 INFO    HandlerThread:17525 [handler.py:handle_request_defer():172] handle defer: 12
+2023-12-21 09:27:49,577 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: defer
+2023-12-21 09:27:49,577 INFO    SenderThread:17525 [sender.py:send_request_defer():609] handle sender defer: 12
+2023-12-21 09:27:49,577 INFO    SenderThread:17525 [file_stream.py:finish():595] file stream finish called
+2023-12-21 09:27:49,819 INFO    SenderThread:17525 [file_stream.py:finish():599] file stream finish is done
+2023-12-21 09:27:49,819 INFO    SenderThread:17525 [sender.py:transition_state():613] send defer: 13
+2023-12-21 09:27:49,820 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: defer
+2023-12-21 09:27:49,820 INFO    HandlerThread:17525 [handler.py:handle_request_defer():172] handle defer: 13
+2023-12-21 09:27:49,821 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: defer
+2023-12-21 09:27:49,821 INFO    SenderThread:17525 [sender.py:send_request_defer():609] handle sender defer: 13
+2023-12-21 09:27:49,822 INFO    SenderThread:17525 [sender.py:transition_state():613] send defer: 14
+2023-12-21 09:27:49,822 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: defer
+2023-12-21 09:27:49,823 INFO    HandlerThread:17525 [handler.py:handle_request_defer():172] handle defer: 14
+2023-12-21 09:27:49,824 DEBUG   SenderThread:17525 [sender.py:send():380] send: final
+2023-12-21 09:27:49,824 DEBUG   SenderThread:17525 [sender.py:send():380] send: footer
+2023-12-21 09:27:49,825 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: defer
+2023-12-21 09:27:49,825 INFO    SenderThread:17525 [sender.py:send_request_defer():609] handle sender defer: 14
+2023-12-21 09:27:49,827 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: poll_exit
+2023-12-21 09:27:49,829 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: poll_exit
+2023-12-21 09:27:49,832 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: server_info
+2023-12-21 09:27:49,833 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: get_summary
+2023-12-21 09:27:49,834 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: sampled_history
+2023-12-21 09:27:49,836 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: internal_messages
+2023-12-21 09:27:49,838 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: server_info
+2023-12-21 09:27:49,844 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: job_info
+2023-12-21 09:27:49,992 DEBUG   SenderThread:17525 [sender.py:send_request():407] send_request: job_info
+2023-12-21 09:27:49,992 INFO    MainThread:17525 [wandb_run.py:_footer_history_summary_info():3760] rendering history
+2023-12-21 09:27:49,993 INFO    MainThread:17525 [wandb_run.py:_footer_history_summary_info():3792] rendering summary
+2023-12-21 09:27:49,993 INFO    MainThread:17525 [wandb_run.py:_footer_sync_info():3719] logging synced files
+2023-12-21 09:27:49,994 DEBUG   HandlerThread:17525 [handler.py:handle_request():146] handle_request: shutdown
+2023-12-21 09:27:49,994 INFO    HandlerThread:17525 [handler.py:finish():866] shutting down handler
+2023-12-21 09:27:50,845 INFO    WriterThread:17525 [datastore.py:close():294] close: /home/arian/projects/curricular_learning/nanoGPT/wandb/run-20231221_090946-ixfvbqj1/run-ixfvbqj1.wandb
+2023-12-21 09:27:50,992 INFO    SenderThread:17525 [sender.py:finish():1536] shutting down sender
+2023-12-21 09:27:50,993 INFO    SenderThread:17525 [file_pusher.py:finish():175] shutting down file pusher
+2023-12-21 09:27:50,993 INFO    SenderThread:17525 [file_pusher.py:join():181] waiting for file pusher

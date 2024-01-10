@@ -1,0 +1,2040 @@
+step 2420: train loss 4.3701, val loss 5.5316
+saving checkpoint to out-wikipedia-shards
+iter 2420: loss 4.3206, time 16146.41ms, mfu -100.00%
+iter 2421: loss 4.1897, time 12.06ms, mfu -100.00%
+iter 2422: loss 4.6192, time 52.09ms, mfu -100.00%
+iter 2423: loss 4.0813, time 51.46ms, mfu -100.00%
+iter 2424: loss 4.7978, time 44.00ms, mfu -100.00%
+iter 2425: loss 4.9926, time 43.28ms, mfu 2.83%
+iter 2426: loss 4.6781, time 43.93ms, mfu 2.83%
+iter 2427: loss 4.8151, time 43.27ms, mfu 2.83%
+iter 2428: loss 4.5286, time 46.54ms, mfu 2.81%
+iter 2429: loss 4.4583, time 40.59ms, mfu 2.83%
+step 2430: train loss 4.3770, val loss 5.3856
+saving checkpoint to out-wikipedia-shards
+iter 2430: loss 4.3778, time 1489.04ms, mfu 2.56%
+iter 2431: loss 4.3768, time 41.76ms, mfu 2.59%
+iter 2432: loss 4.0156, time 41.94ms, mfu 2.63%
+iter 2433: loss 4.3410, time 43.09ms, mfu 2.65%
+iter 2434: loss 4.3004, time 42.16ms, mfu 2.67%
+iter 2435: loss 4.8666, time 42.53ms, mfu 2.69%
+iter 2436: loss 4.3331, time 43.25ms, mfu 2.71%
+iter 2437: loss 4.6649, time 42.50ms, mfu 2.73%
+iter 2438: loss 4.4049, time 42.91ms, mfu 2.74%
+iter 2439: loss 4.2415, time 42.97ms, mfu 2.75%
+step 2440: train loss 4.3235, val loss 5.3850
+saving checkpoint to out-wikipedia-shards
+iter 2440: loss 4.2729, time 1565.11ms, mfu 2.48%
+iter 2441: loss 4.5991, time 42.12ms, mfu 2.53%
+iter 2442: loss 4.1903, time 41.09ms, mfu 2.57%
+iter 2443: loss 4.1669, time 42.50ms, mfu 2.60%
+iter 2444: loss 4.6577, time 43.35ms, mfu 2.63%
+iter 2445: loss 4.5576, time 42.53ms, mfu 2.65%
+iter 2446: loss 4.2342, time 42.56ms, mfu 2.67%
+iter 2447: loss 4.5528, time 43.38ms, mfu 2.69%
+iter 2448: loss 4.2694, time 42.65ms, mfu 2.71%
+iter 2449: loss 4.3170, time 42.66ms, mfu 2.72%
+step 2450: train loss 4.3197, val loss 5.3598
+saving checkpoint to out-wikipedia-shards
+iter 2450: loss 4.4926, time 1471.47ms, mfu 2.46%
+iter 2451: loss 4.8537, time 42.04ms, mfu 2.51%
+iter 2452: loss 4.5061, time 43.28ms, mfu 2.54%
+iter 2453: loss 4.5061, time 45.70ms, mfu 2.55%
+iter 2454: loss 4.7308, time 41.38ms, mfu 2.59%
+iter 2455: loss 4.5893, time 43.06ms, mfu 2.62%
+iter 2456: loss 4.3611, time 43.08ms, mfu 2.64%
+iter 2457: loss 4.8916, time 42.67ms, mfu 2.66%
+iter 2458: loss 4.7684, time 43.28ms, mfu 2.68%
+iter 2459: loss 4.1971, time 42.14ms, mfu 2.70%
+step 2460: train loss 4.3103, val loss 5.3559
+saving checkpoint to out-wikipedia-shards
+iter 2460: loss 4.6482, time 1527.59ms, mfu 2.44%
+iter 2461: loss 4.4238, time 42.59ms, mfu 2.49%
+iter 2462: loss 4.6571, time 46.39ms, mfu 2.50%
+iter 2463: loss 4.2328, time 42.60ms, mfu 2.54%
+iter 2464: loss 4.4350, time 43.10ms, mfu 2.57%
+iter 2465: loss 4.4030, time 43.33ms, mfu 2.59%
+iter 2466: loss 4.2832, time 44.70ms, mfu 2.61%
+iter 2467: loss 4.5500, time 42.16ms, mfu 2.64%
+iter 2468: loss 4.4824, time 44.01ms, mfu 2.65%
+iter 2469: loss 4.1606, time 42.04ms, mfu 2.68%
+step 2470: train loss 4.2548, val loss 5.3065
+saving checkpoint to out-wikipedia-shards
+iter 2470: loss 4.5973, time 1470.40ms, mfu 2.42%
+iter 2471: loss 4.8980, time 41.61ms, mfu 2.47%
+iter 2472: loss 4.3654, time 44.23ms, mfu 2.50%
+iter 2473: loss 4.9301, time 42.91ms, mfu 2.54%
+iter 2474: loss 4.3264, time 43.61ms, mfu 2.57%
+iter 2475: loss 3.9661, time 42.46ms, mfu 2.60%
+iter 2476: loss 4.6039, time 42.58ms, mfu 2.63%
+iter 2477: loss 4.0311, time 43.47ms, mfu 2.64%
+iter 2478: loss 4.8952, time 43.13ms, mfu 2.66%
+iter 2479: loss 4.3650, time 43.29ms, mfu 2.68%
+step 2480: train loss 4.2584, val loss 5.4051
+saving checkpoint to out-wikipedia-shards
+iter 2480: loss 4.2157, time 1473.77ms, mfu 2.42%
+iter 2481: loss 3.8895, time 42.25ms, mfu 2.47%
+iter 2482: loss 4.2697, time 43.85ms, mfu 2.50%
+iter 2483: loss 4.4526, time 41.91ms, mfu 2.54%
+iter 2484: loss 4.2873, time 43.15ms, mfu 2.57%
+iter 2485: loss 3.9262, time 43.09ms, mfu 2.60%
+iter 2486: loss 4.4124, time 42.71ms, mfu 2.63%
+iter 2487: loss 4.3013, time 43.53ms, mfu 2.65%
+iter 2488: loss 4.4775, time 42.06ms, mfu 2.67%
+iter 2489: loss 4.5077, time 43.16ms, mfu 2.69%
+step 2490: train loss 4.2820, val loss 5.3519
+saving checkpoint to out-wikipedia-shards
+iter 2490: loss 4.7424, time 1473.41ms, mfu 2.43%
+iter 2491: loss 4.2749, time 41.36ms, mfu 2.48%
+iter 2492: loss 4.5213, time 43.26ms, mfu 2.52%
+iter 2493: loss 4.8762, time 43.46ms, mfu 2.55%
+iter 2494: loss 4.1838, time 43.32ms, mfu 2.58%
+iter 2495: loss 4.6033, time 42.50ms, mfu 2.61%
+iter 2496: loss 4.1694, time 42.61ms, mfu 2.63%
+iter 2497: loss 4.6655, time 43.10ms, mfu 2.65%
+iter 2498: loss 4.2007, time 42.53ms, mfu 2.68%
+iter 2499: loss 4.1803, time 43.64ms, mfu 2.69%
+step 2500: train loss 4.2131, val loss 5.3829
+saving checkpoint to out-wikipedia-shards
+iter 2500: loss 4.4067, time 1462.60ms, mfu 2.43%
+iter 2501: loss 3.9741, time 42.59ms, mfu 2.47%
+iter 2502: loss 4.1100, time 43.32ms, mfu 2.51%
+iter 2503: loss 3.9284, time 43.78ms, mfu 2.54%
+iter 2504: loss 4.3937, time 43.26ms, mfu 2.57%
+iter 2505: loss 4.4842, time 42.27ms, mfu 2.60%
+iter 2506: loss 4.7130, time 42.32ms, mfu 2.63%
+iter 2507: loss 4.2605, time 43.81ms, mfu 2.65%
+iter 2508: loss 4.2182, time 42.02ms, mfu 2.67%
+iter 2509: loss 4.8442, time 43.29ms, mfu 2.69%
+step 2510: train loss 4.2534, val loss 5.3564
+saving checkpoint to out-wikipedia-shards
+iter 2510: loss 4.1203, time 1454.13ms, mfu 2.43%
+iter 2511: loss 4.4261, time 39.76ms, mfu 2.49%
+iter 2512: loss 4.5908, time 42.46ms, mfu 2.53%
+iter 2513: loss 4.6821, time 43.17ms, mfu 2.56%
+iter 2514: loss 3.5528, time 42.74ms, mfu 2.59%
+iter 2515: loss 4.2110, time 42.16ms, mfu 2.63%
+iter 2516: loss 3.8406, time 43.16ms, mfu 2.65%
+iter 2517: loss 4.5266, time 42.95ms, mfu 2.67%
+iter 2518: loss 4.7763, time 43.83ms, mfu 2.68%
+iter 2519: loss 4.1541, time 42.10ms, mfu 2.70%
+step 2520: train loss 4.2269, val loss 5.3309
+saving checkpoint to out-wikipedia-shards
+iter 2520: loss 4.8659, time 1466.56ms, mfu 2.44%
+iter 2521: loss 4.1590, time 42.29ms, mfu 2.49%
+iter 2522: loss 3.8274, time 43.69ms, mfu 2.52%
+iter 2523: loss 4.6430, time 42.60ms, mfu 2.56%
+iter 2524: loss 4.0542, time 43.13ms, mfu 2.58%
+iter 2525: loss 3.8217, time 42.49ms, mfu 2.61%
+iter 2526: loss 4.7009, time 42.61ms, mfu 2.64%
+iter 2527: loss 4.8631, time 43.37ms, mfu 2.66%
+iter 2528: loss 3.6112, time 43.16ms, mfu 2.68%
+iter 2529: loss 3.9384, time 42.81ms, mfu 2.70%
+step 2530: train loss 4.1974, val loss 5.2609
+saving checkpoint to out-wikipedia-shards
+iter 2530: loss 4.0021, time 1480.23ms, mfu 2.43%
+iter 2531: loss 4.4008, time 42.19ms, mfu 2.48%
+iter 2532: loss 4.3894, time 43.74ms, mfu 2.51%
+iter 2533: loss 4.6215, time 44.05ms, mfu 2.54%
+iter 2534: loss 4.5431, time 42.78ms, mfu 2.57%
+iter 2535: loss 4.5702, time 43.22ms, mfu 2.60%
+iter 2536: loss 4.1034, time 42.32ms, mfu 2.63%
+iter 2537: loss 3.8676, time 43.53ms, mfu 2.65%
+iter 2538: loss 4.2220, time 42.95ms, mfu 2.67%
+iter 2539: loss 4.4931, time 42.30ms, mfu 2.69%
+step 2540: train loss 4.2117, val loss 5.4112
+saving checkpoint to out-wikipedia-shards
+iter 2540: loss 4.1728, time 1477.57ms, mfu 2.43%
+iter 2541: loss 4.2166, time 42.28ms, mfu 2.48%
+iter 2542: loss 4.0282, time 43.74ms, mfu 2.51%
+iter 2543: loss 4.4470, time 42.81ms, mfu 2.54%
+iter 2544: loss 4.0701, time 42.59ms, mfu 2.58%
+iter 2545: loss 4.0068, time 42.96ms, mfu 2.61%
+iter 2546: loss 4.3502, time 43.21ms, mfu 2.63%
+iter 2547: loss 4.7622, time 42.64ms, mfu 2.65%
+iter 2548: loss 4.1836, time 43.32ms, mfu 2.67%
+iter 2549: loss 4.2449, time 42.19ms, mfu 2.69%
+step 2550: train loss 4.2359, val loss 5.2725
+saving checkpoint to out-wikipedia-shards
+iter 2550: loss 4.2161, time 1466.57ms, mfu 2.43%
+iter 2551: loss 4.4726, time 43.54ms, mfu 2.47%
+iter 2552: loss 4.6799, time 43.15ms, mfu 2.51%
+iter 2553: loss 3.8590, time 43.51ms, mfu 2.54%
+iter 2554: loss 4.1818, time 42.14ms, mfu 2.58%
+iter 2555: loss 4.3135, time 44.39ms, mfu 2.59%
+iter 2556: loss 4.3371, time 42.33ms, mfu 2.62%
+iter 2557: loss 4.5663, time 42.13ms, mfu 2.65%
+iter 2558: loss 4.0318, time 42.83ms, mfu 2.67%
+iter 2559: loss 4.3434, time 43.68ms, mfu 2.69%
+step 2560: train loss 4.2289, val loss 5.3753
+saving checkpoint to out-wikipedia-shards
+iter 2560: loss 4.4269, time 1481.34ms, mfu 2.43%
+iter 2561: loss 4.5185, time 41.89ms, mfu 2.48%
+iter 2562: loss 4.2106, time 44.82ms, mfu 2.50%
+iter 2563: loss 4.2029, time 43.25ms, mfu 2.54%
+iter 2564: loss 4.4794, time 42.08ms, mfu 2.57%
+iter 2565: loss 3.9431, time 42.23ms, mfu 2.61%
+iter 2566: loss 4.4018, time 42.84ms, mfu 2.63%
+iter 2567: loss 3.9058, time 42.89ms, mfu 2.65%
+iter 2568: loss 4.3090, time 43.51ms, mfu 2.67%
+iter 2569: loss 4.2861, time 42.80ms, mfu 2.69%
+step 2570: train loss 4.2001, val loss 5.2718
+saving checkpoint to out-wikipedia-shards
+iter 2570: loss 4.4500, time 1468.60ms, mfu 2.43%
+iter 2571: loss 4.0643, time 42.83ms, mfu 2.47%
+iter 2572: loss 4.2157, time 43.85ms, mfu 2.50%
+iter 2573: loss 4.0740, time 42.96ms, mfu 2.54%
+iter 2574: loss 4.2736, time 42.37ms, mfu 2.57%
+iter 2575: loss 4.1526, time 43.11ms, mfu 2.60%
+iter 2576: loss 4.3520, time 43.23ms, mfu 2.62%
+iter 2577: loss 4.2252, time 41.94ms, mfu 2.65%
+iter 2578: loss 4.3166, time 43.59ms, mfu 2.67%
+iter 2579: loss 4.6662, time 43.04ms, mfu 2.69%
+step 2580: train loss 4.2104, val loss 5.2644
+saving checkpoint to out-wikipedia-shards
+iter 2580: loss 4.9882, time 1471.57ms, mfu 2.43%
+iter 2581: loss 3.8662, time 42.81ms, mfu 2.47%
+iter 2582: loss 4.7330, time 43.72ms, mfu 2.50%
+iter 2583: loss 3.7145, time 43.13ms, mfu 2.54%
+iter 2584: loss 4.4600, time 42.50ms, mfu 2.57%
+iter 2585: loss 4.4961, time 43.01ms, mfu 2.60%
+iter 2586: loss 4.0320, time 43.11ms, mfu 2.62%
+iter 2587: loss 3.9367, time 42.99ms, mfu 2.65%
+iter 2588: loss 4.0881, time 42.69ms, mfu 2.67%
+iter 2589: loss 4.3085, time 42.56ms, mfu 2.69%
+step 2590: train loss 4.1770, val loss 5.2602
+saving checkpoint to out-wikipedia-shards
+iter 2590: loss 3.7786, time 1470.60ms, mfu 2.43%
+iter 2591: loss 4.7367, time 41.85ms, mfu 2.48%
+iter 2592: loss 4.5041, time 44.10ms, mfu 2.51%
+iter 2593: loss 3.5703, time 42.82ms, mfu 2.54%
+iter 2594: loss 4.4627, time 42.61ms, mfu 2.58%
+iter 2595: loss 3.9370, time 42.93ms, mfu 2.61%
+iter 2596: loss 4.2585, time 42.82ms, mfu 2.63%
+iter 2597: loss 3.8911, time 43.38ms, mfu 2.65%
+iter 2598: loss 4.5742, time 43.72ms, mfu 2.67%
+iter 2599: loss 3.7981, time 43.00ms, mfu 2.68%
+step 2600: train loss 4.1724, val loss 5.2681
+saving checkpoint to out-wikipedia-shards
+iter 2600: loss 4.0028, time 1465.36ms, mfu 2.42%
+iter 2601: loss 4.1616, time 43.59ms, mfu 2.46%
+iter 2602: loss 4.1547, time 43.35ms, mfu 2.50%
+iter 2603: loss 4.4882, time 43.10ms, mfu 2.53%
+iter 2604: loss 4.4040, time 42.39ms, mfu 2.57%
+iter 2605: loss 4.2727, time 43.35ms, mfu 2.60%
+iter 2606: loss 4.4738, time 42.30ms, mfu 2.63%
+iter 2607: loss 4.2202, time 43.04ms, mfu 2.65%
+iter 2608: loss 3.8974, time 42.84ms, mfu 2.67%
+iter 2609: loss 3.9328, time 42.55ms, mfu 2.69%
+step 2610: train loss 4.1439, val loss 5.3139
+saving checkpoint to out-wikipedia-shards
+iter 2610: loss 4.1805, time 1472.81ms, mfu 2.43%
+iter 2611: loss 4.4206, time 44.46ms, mfu 2.46%
+iter 2612: loss 4.0545, time 48.33ms, mfu 2.47%
+iter 2613: loss 4.3814, time 47.64ms, mfu 2.48%
+iter 2614: loss 4.5970, time 47.48ms, mfu 2.49%
+iter 2615: loss 3.8262, time 45.80ms, mfu 2.51%
+iter 2616: loss 4.4176, time 43.16ms, mfu 2.54%
+iter 2617: loss 4.6737, time 48.57ms, mfu 2.54%
+iter 2618: loss 3.9518, time 48.94ms, mfu 2.54%
+iter 2619: loss 4.1446, time 46.62ms, mfu 2.55%
+step 2620: train loss 4.1200, val loss 5.2519
+saving checkpoint to out-wikipedia-shards
+iter 2620: loss 4.2115, time 2207.35ms, mfu 2.30%
+iter 2621: loss 4.1025, time 47.07ms, mfu 2.33%
+iter 2622: loss 4.4706, time 47.34ms, mfu 2.35%
+iter 2623: loss 4.1920, time 46.30ms, mfu 2.38%
+iter 2624: loss 4.4163, time 46.25ms, mfu 2.41%
+iter 2625: loss 4.4056, time 47.00ms, mfu 2.43%
+iter 2626: loss 4.7670, time 42.86ms, mfu 2.47%
+iter 2627: loss 4.4801, time 48.06ms, mfu 2.48%
+iter 2628: loss 3.8150, time 46.10ms, mfu 2.50%
+iter 2629: loss 3.6507, time 46.90ms, mfu 2.51%
+step 2630: train loss 4.1585, val loss 5.2094
+saving checkpoint to out-wikipedia-shards
+iter 2630: loss 4.3482, time 2198.11ms, mfu 2.26%
+iter 2631: loss 4.1270, time 45.85ms, mfu 2.31%
+iter 2632: loss 4.3576, time 45.45ms, mfu 2.34%
+iter 2633: loss 3.9725, time 46.05ms, mfu 2.38%
+iter 2634: loss 3.7299, time 44.10ms, mfu 2.42%
+iter 2635: loss 4.4486, time 43.57ms, mfu 2.46%
+iter 2636: loss 4.7121, time 44.63ms, mfu 2.48%
+iter 2637: loss 4.4709, time 44.40ms, mfu 2.51%
+iter 2638: loss 4.0699, time 45.01ms, mfu 2.53%
+iter 2639: loss 3.9982, time 45.69ms, mfu 2.55%
+step 2640: train loss 4.1498, val loss 5.3139
+saving checkpoint to out-wikipedia-shards
+iter 2640: loss 4.8120, time 1616.22ms, mfu 2.30%
+iter 2641: loss 3.8658, time 47.46ms, mfu 2.33%
+iter 2642: loss 4.1166, time 47.79ms, mfu 2.35%
+iter 2643: loss 4.3465, time 45.72ms, mfu 2.39%
+iter 2644: loss 3.7071, time 46.89ms, mfu 2.41%
+iter 2645: loss 3.8107, time 46.33ms, mfu 2.43%
+iter 2646: loss 4.7313, time 47.61ms, mfu 2.45%
+iter 2647: loss 3.5122, time 46.94ms, mfu 2.46%
+iter 2648: loss 4.3069, time 47.23ms, mfu 2.48%
+iter 2649: loss 3.9544, time 45.76ms, mfu 2.50%
+step 2650: train loss 4.1188, val loss 5.2871
+saving checkpoint to out-wikipedia-shards
+iter 2650: loss 4.1485, time 2206.47ms, mfu 2.25%
+iter 2651: loss 3.8540, time 46.84ms, mfu 2.29%
+iter 2652: loss 3.7333, time 48.93ms, mfu 2.31%
+iter 2653: loss 4.6294, time 46.11ms, mfu 2.34%
+iter 2654: loss 4.1709, time 46.59ms, mfu 2.37%
+iter 2655: loss 4.6198, time 47.76ms, mfu 2.39%
+iter 2656: loss 4.1398, time 46.33ms, mfu 2.42%
+iter 2657: loss 4.1508, time 46.41ms, mfu 2.44%
+iter 2658: loss 4.6373, time 46.98ms, mfu 2.46%
+iter 2659: loss 3.9892, time 47.24ms, mfu 2.47%
+step 2660: train loss 4.1029, val loss 5.2082
+saving checkpoint to out-wikipedia-shards
+iter 2660: loss 4.1891, time 2227.02ms, mfu 2.23%
+iter 2661: loss 3.8981, time 45.76ms, mfu 2.27%
+iter 2662: loss 4.3649, time 49.45ms, mfu 2.29%
+iter 2663: loss 3.5494, time 47.47ms, mfu 2.32%
+iter 2664: loss 4.5766, time 45.59ms, mfu 2.36%
+iter 2665: loss 4.4862, time 46.99ms, mfu 2.38%
+iter 2666: loss 4.2676, time 48.12ms, mfu 2.40%
+iter 2667: loss 4.2653, time 39.76ms, mfu 2.47%
+iter 2668: loss 4.6136, time 47.93ms, mfu 2.48%
+iter 2669: loss 4.4464, time 46.95ms, mfu 2.49%
+step 2670: train loss 4.1318, val loss 5.2430
+saving checkpoint to out-wikipedia-shards
+iter 2670: loss 4.3472, time 2215.17ms, mfu 2.25%
+iter 2671: loss 4.1220, time 45.67ms, mfu 2.29%
+iter 2672: loss 4.2156, time 45.79ms, mfu 2.33%
+iter 2673: loss 4.8637, time 45.09ms, mfu 2.37%
+iter 2674: loss 3.3664, time 45.44ms, mfu 2.40%
+iter 2675: loss 4.5770, time 45.26ms, mfu 2.43%
+iter 2676: loss 4.3031, time 44.81ms, mfu 2.46%
+iter 2677: loss 4.2506, time 44.01ms, mfu 2.49%
+iter 2678: loss 4.3573, time 44.91ms, mfu 2.52%
+iter 2679: loss 4.7117, time 41.92ms, mfu 2.56%
+step 2680: train loss 4.1597, val loss 5.1946
+saving checkpoint to out-wikipedia-shards
+iter 2680: loss 4.0843, time 1895.39ms, mfu 2.31%
+iter 2681: loss 4.1578, time 46.64ms, mfu 2.34%
+iter 2682: loss 3.9559, time 44.76ms, mfu 2.38%
+iter 2683: loss 4.3034, time 46.73ms, mfu 2.40%
+iter 2684: loss 4.1025, time 46.17ms, mfu 2.43%
+iter 2685: loss 4.5304, time 48.89ms, mfu 2.44%
+iter 2686: loss 4.4377, time 45.24ms, mfu 2.46%
+iter 2687: loss 3.9694, time 47.53ms, mfu 2.48%
+iter 2688: loss 4.5899, time 46.10ms, mfu 2.49%
+iter 2689: loss 4.1641, time 50.06ms, mfu 2.49%
+step 2690: train loss 4.0696, val loss 5.2150
+saving checkpoint to out-wikipedia-shards
+iter 2690: loss 4.0064, time 2123.56ms, mfu 2.25%
+iter 2691: loss 4.1407, time 54.67ms, mfu 2.25%
+iter 2692: loss 3.8612, time 47.34ms, mfu 2.28%
+iter 2693: loss 4.0570, time 54.33ms, mfu 2.28%
+iter 2694: loss 4.1516, time 52.20ms, mfu 2.28%
+iter 2695: loss 3.9394, time 52.55ms, mfu 2.29%
+iter 2696: loss 4.6651, time 45.12ms, mfu 2.33%
+iter 2697: loss 4.4297, time 54.09ms, mfu 2.33%
+iter 2698: loss 3.9077, time 52.74ms, mfu 2.33%
+iter 2699: loss 4.0909, time 48.90ms, mfu 2.34%
+step 2700: train loss 4.1098, val loss 5.2558
+saving checkpoint to out-wikipedia-shards
+iter 2700: loss 4.2423, time 2019.59ms, mfu 2.12%
+iter 2701: loss 4.5236, time 42.39ms, mfu 2.19%
+iter 2702: loss 3.6434, time 49.33ms, mfu 2.22%
+iter 2703: loss 4.5699, time 48.76ms, mfu 2.25%
+iter 2704: loss 4.6308, time 44.98ms, mfu 2.30%
+iter 2705: loss 4.0520, time 40.91ms, mfu 2.37%
+iter 2706: loss 4.0196, time 43.35ms, mfu 2.41%
+iter 2707: loss 3.9795, time 43.04ms, mfu 2.46%
+iter 2708: loss 3.7637, time 42.79ms, mfu 2.50%
+iter 2709: loss 4.1286, time 43.40ms, mfu 2.53%
+step 2710: train loss 4.1349, val loss 5.2493
+saving checkpoint to out-wikipedia-shards
+iter 2710: loss 4.2264, time 1565.64ms, mfu 2.29%
+iter 2711: loss 4.5609, time 41.72ms, mfu 2.35%
+iter 2712: loss 4.8475, time 42.76ms, mfu 2.40%
+iter 2713: loss 4.0639, time 42.58ms, mfu 2.45%
+iter 2714: loss 4.3956, time 43.08ms, mfu 2.49%
+iter 2715: loss 4.1999, time 43.27ms, mfu 2.52%
+iter 2716: loss 3.6706, time 42.34ms, mfu 2.56%
+iter 2717: loss 3.8193, time 45.25ms, mfu 2.58%
+iter 2718: loss 4.0993, time 48.85ms, mfu 2.57%
+iter 2719: loss 3.7988, time 48.07ms, mfu 2.57%
+step 2720: train loss 4.1294, val loss 5.1753
+saving checkpoint to out-wikipedia-shards
+iter 2720: loss 4.4621, time 2017.58ms, mfu 2.32%
+iter 2721: loss 3.6464, time 45.58ms, mfu 2.35%
+iter 2722: loss 4.6070, time 41.53ms, mfu 2.41%
+iter 2723: loss 3.9708, time 42.84ms, mfu 2.46%
+iter 2724: loss 4.5600, time 42.26ms, mfu 2.50%
+iter 2725: loss 4.4834, time 44.58ms, mfu 2.53%
+iter 2726: loss 4.2510, time 46.95ms, mfu 2.54%
+iter 2727: loss 4.3480, time 42.06ms, mfu 2.57%
+iter 2728: loss 4.2131, time 43.29ms, mfu 2.60%
+iter 2729: loss 3.9488, time 42.84ms, mfu 2.63%
+step 2730: train loss 4.0924, val loss 5.2892
+saving checkpoint to out-wikipedia-shards
+iter 2730: loss 3.9073, time 1504.28ms, mfu 2.37%
+iter 2731: loss 4.1193, time 42.81ms, mfu 2.42%
+iter 2732: loss 4.8740, time 42.19ms, mfu 2.47%
+iter 2733: loss 4.0547, time 44.04ms, mfu 2.50%
+iter 2734: loss 4.2747, time 46.60ms, mfu 2.51%
+iter 2735: loss 4.3690, time 42.11ms, mfu 2.55%
+iter 2736: loss 4.6524, time 43.31ms, mfu 2.58%
+iter 2737: loss 4.0468, time 43.28ms, mfu 2.61%
+iter 2738: loss 4.2804, time 43.01ms, mfu 2.63%
+iter 2739: loss 4.1785, time 42.36ms, mfu 2.66%
+step 2740: train loss 4.0869, val loss 5.2352
+saving checkpoint to out-wikipedia-shards
+iter 2740: loss 4.0097, time 1525.82ms, mfu 2.40%
+iter 2741: loss 4.1307, time 38.09ms, mfu 2.48%
+iter 2742: loss 4.4825, time 47.38ms, mfu 2.49%
+iter 2743: loss 3.8811, time 46.65ms, mfu 2.50%
+iter 2744: loss 4.1382, time 45.37ms, mfu 2.52%
+iter 2745: loss 4.4007, time 46.08ms, mfu 2.54%
+iter 2746: loss 3.7724, time 48.72ms, mfu 2.54%
+iter 2747: loss 4.2744, time 49.56ms, mfu 2.53%
+iter 2748: loss 4.3335, time 48.05ms, mfu 2.53%
+iter 2749: loss 4.0851, time 49.54ms, mfu 2.53%
+step 2750: train loss 4.0897, val loss 5.2167
+saving checkpoint to out-wikipedia-shards
+iter 2750: loss 4.7601, time 1701.34ms, mfu 2.28%
+iter 2751: loss 3.9775, time 46.96ms, mfu 2.31%
+iter 2752: loss 4.0597, time 49.42ms, mfu 2.33%
+iter 2753: loss 3.9144, time 48.84ms, mfu 2.35%
+iter 2754: loss 4.3652, time 49.23ms, mfu 2.36%
+iter 2755: loss 4.0433, time 49.25ms, mfu 2.37%
+iter 2756: loss 4.1349, time 48.39ms, mfu 2.39%
+iter 2757: loss 4.3286, time 48.63ms, mfu 2.40%
+iter 2758: loss 4.2100, time 50.20ms, mfu 2.41%
+iter 2759: loss 4.1815, time 55.07ms, mfu 2.39%
+step 2760: train loss 4.0246, val loss 5.1399
+saving checkpoint to out-wikipedia-shards
+iter 2760: loss 3.9586, time 1527.99ms, mfu 2.16%
+iter 2761: loss 3.6955, time 42.80ms, mfu 2.23%
+iter 2762: loss 4.4785, time 42.90ms, mfu 2.29%
+iter 2763: loss 3.8041, time 42.53ms, mfu 2.35%
+iter 2764: loss 4.5810, time 42.62ms, mfu 2.40%
+iter 2765: loss 4.3517, time 42.27ms, mfu 2.45%
+iter 2766: loss 4.0820, time 43.06ms, mfu 2.49%
+iter 2767: loss 4.0648, time 42.62ms, mfu 2.53%
+iter 2768: loss 3.9985, time 42.13ms, mfu 2.57%
+iter 2769: loss 4.2109, time 42.82ms, mfu 2.60%
+step 2770: train loss 4.1388, val loss 5.2164
+saving checkpoint to out-wikipedia-shards
+iter 2770: loss 4.5387, time 1467.05ms, mfu 2.35%
+iter 2771: loss 4.0474, time 43.48ms, mfu 2.39%
+iter 2772: loss 4.6258, time 43.18ms, mfu 2.44%
+iter 2773: loss 4.1702, time 44.16ms, mfu 2.47%
+iter 2774: loss 4.5140, time 41.46ms, mfu 2.52%
+iter 2775: loss 4.0205, time 44.12ms, mfu 2.55%
+iter 2776: loss 4.2849, time 41.85ms, mfu 2.58%
+iter 2777: loss 3.9773, time 42.38ms, mfu 2.61%
+iter 2778: loss 4.3700, time 42.96ms, mfu 2.64%
+iter 2779: loss 4.1455, time 42.37ms, mfu 2.66%
+step 2780: train loss 4.0606, val loss 5.2227
+saving checkpoint to out-wikipedia-shards
+iter 2780: loss 4.7303, time 1478.47ms, mfu 2.41%
+iter 2781: loss 4.1212, time 43.03ms, mfu 2.45%
+iter 2782: loss 4.1376, time 45.55ms, mfu 2.47%
+iter 2783: loss 3.5034, time 42.86ms, mfu 2.51%
+iter 2784: loss 3.9607, time 43.30ms, mfu 2.54%
+iter 2785: loss 4.5111, time 43.45ms, mfu 2.57%
+iter 2786: loss 4.0067, time 41.90ms, mfu 2.61%
+iter 2787: loss 3.7699, time 43.20ms, mfu 2.63%
+iter 2788: loss 4.4099, time 42.85ms, mfu 2.65%
+iter 2789: loss 4.3922, time 41.40ms, mfu 2.68%
+step 2790: train loss 4.0409, val loss 5.2145
+saving checkpoint to out-wikipedia-shards
+iter 2790: loss 3.8304, time 1476.23ms, mfu 2.42%
+iter 2791: loss 3.8366, time 42.09ms, mfu 2.47%
+iter 2792: loss 4.2338, time 41.67ms, mfu 2.52%
+iter 2793: loss 4.6149, time 43.18ms, mfu 2.55%
+iter 2794: loss 4.3085, time 43.10ms, mfu 2.58%
+iter 2795: loss 4.2661, time 42.19ms, mfu 2.61%
+iter 2796: loss 3.9155, time 42.10ms, mfu 2.64%
+iter 2797: loss 4.2157, time 43.06ms, mfu 2.66%
+iter 2798: loss 4.0012, time 42.71ms, mfu 2.68%
+iter 2799: loss 3.9972, time 43.81ms, mfu 2.70%
+step 2800: train loss 4.0270, val loss 5.2656
+saving checkpoint to out-wikipedia-shards
+iter 2800: loss 4.1592, time 1724.05ms, mfu 2.43%
+iter 2801: loss 4.4191, time 46.57ms, mfu 2.45%
+iter 2802: loss 3.9049, time 46.34ms, mfu 2.47%
+iter 2803: loss 4.5245, time 47.35ms, mfu 2.48%
+iter 2804: loss 3.7617, time 49.28ms, mfu 2.48%
+iter 2805: loss 4.2731, time 46.89ms, mfu 2.50%
+iter 2806: loss 4.0648, time 47.35ms, mfu 2.51%
+iter 2807: loss 4.4504, time 46.91ms, mfu 2.52%
+iter 2808: loss 4.3474, time 47.52ms, mfu 2.52%
+iter 2809: loss 3.9212, time 48.99ms, mfu 2.52%
+step 2810: train loss 4.0119, val loss 5.2299
+saving checkpoint to out-wikipedia-shards
+iter 2810: loss 4.2559, time 1589.85ms, mfu 2.28%
+iter 2811: loss 4.6537, time 41.65ms, mfu 2.34%
+iter 2812: loss 4.1472, time 43.06ms, mfu 2.39%
+iter 2813: loss 4.0674, time 43.12ms, mfu 2.44%
+iter 2814: loss 4.2581, time 42.48ms, mfu 2.48%
+iter 2815: loss 3.7403, time 41.95ms, mfu 2.53%
+iter 2816: loss 3.9701, time 43.20ms, mfu 2.56%
+iter 2817: loss 3.7134, time 43.30ms, mfu 2.58%
+iter 2818: loss 4.3207, time 45.05ms, mfu 2.60%
+iter 2819: loss 3.9633, time 41.57ms, mfu 2.63%
+step 2820: train loss 4.0065, val loss 5.2148
+saving checkpoint to out-wikipedia-shards
+iter 2820: loss 4.1375, time 1471.67ms, mfu 2.38%
+iter 2821: loss 3.9334, time 42.22ms, mfu 2.43%
+iter 2822: loss 4.6306, time 43.48ms, mfu 2.47%
+iter 2823: loss 4.3882, time 44.69ms, mfu 2.50%
+iter 2824: loss 4.1980, time 41.14ms, mfu 2.55%
+iter 2825: loss 3.7923, time 42.10ms, mfu 2.58%
+iter 2826: loss 3.6733, time 43.07ms, mfu 2.61%
+iter 2827: loss 3.7850, time 42.15ms, mfu 2.64%
+iter 2828: loss 4.0966, time 42.38ms, mfu 2.66%
+iter 2829: loss 3.8722, time 42.83ms, mfu 2.68%
+step 2830: train loss 4.0102, val loss 5.2956
+saving checkpoint to out-wikipedia-shards
+iter 2830: loss 3.8815, time 1475.07ms, mfu 2.42%
+iter 2831: loss 4.3099, time 42.24ms, mfu 2.47%
+iter 2832: loss 3.8478, time 42.11ms, mfu 2.52%
+iter 2833: loss 4.2210, time 43.58ms, mfu 2.54%
+iter 2834: loss 3.7735, time 44.15ms, mfu 2.57%
+iter 2835: loss 4.1293, time 42.41ms, mfu 2.60%
+iter 2836: loss 3.8457, time 41.97ms, mfu 2.63%
+iter 2837: loss 3.6342, time 44.30ms, mfu 2.65%
+iter 2838: loss 3.4214, time 42.24ms, mfu 2.67%
+iter 2839: loss 3.9240, time 42.74ms, mfu 2.69%
+step 2840: train loss 4.0230, val loss 5.1887
+saving checkpoint to out-wikipedia-shards
+iter 2840: loss 4.4237, time 1486.98ms, mfu 2.43%
+iter 2841: loss 4.6099, time 42.02ms, mfu 2.48%
+iter 2842: loss 4.4652, time 42.68ms, mfu 2.52%
+iter 2843: loss 4.0053, time 42.70ms, mfu 2.55%
+iter 2844: loss 3.5298, time 43.76ms, mfu 2.58%
+iter 2845: loss 4.0075, time 42.19ms, mfu 2.61%
+iter 2846: loss 4.4537, time 42.65ms, mfu 2.64%
+iter 2847: loss 4.1255, time 42.95ms, mfu 2.66%
+iter 2848: loss 4.2993, time 42.22ms, mfu 2.68%
+iter 2849: loss 4.5553, time 43.19ms, mfu 2.70%
+step 2850: train loss 3.9716, val loss 5.2196
+saving checkpoint to out-wikipedia-shards
+iter 2850: loss 4.1414, time 1479.05ms, mfu 2.44%
+iter 2851: loss 4.1894, time 42.45ms, mfu 2.48%
+iter 2852: loss 3.8309, time 42.35ms, mfu 2.52%
+iter 2853: loss 4.1879, time 43.10ms, mfu 2.56%
+iter 2854: loss 4.0728, time 43.15ms, mfu 2.58%
+iter 2855: loss 3.9608, time 42.34ms, mfu 2.61%
+iter 2856: loss 4.0660, time 48.93ms, mfu 2.60%
+iter 2857: loss 3.9029, time 39.05ms, mfu 2.66%
+iter 2858: loss 4.5578, time 43.08ms, mfu 2.68%
+iter 2859: loss 3.4888, time 46.12ms, mfu 2.67%
+step 2860: train loss 3.9532, val loss 5.1609
+saving checkpoint to out-wikipedia-shards
+iter 2860: loss 4.3396, time 1655.88ms, mfu 2.41%
+iter 2861: loss 4.1415, time 46.78ms, mfu 2.43%
+iter 2862: loss 3.6194, time 47.34ms, mfu 2.45%
+iter 2863: loss 4.0740, time 47.46ms, mfu 2.46%
+iter 2864: loss 4.3210, time 47.24ms, mfu 2.48%
+iter 2865: loss 4.5599, time 46.57ms, mfu 2.49%
+iter 2866: loss 4.3514, time 47.51ms, mfu 2.50%
+iter 2867: loss 3.7390, time 47.23ms, mfu 2.51%
+iter 2868: loss 4.1318, time 47.82ms, mfu 2.52%
+iter 2869: loss 4.0467, time 48.45ms, mfu 2.52%
+step 2870: train loss 4.0075, val loss 5.1660
+saving checkpoint to out-wikipedia-shards
+iter 2870: loss 4.2719, time 1560.53ms, mfu 2.27%
+iter 2871: loss 3.9571, time 44.89ms, mfu 2.32%
+iter 2872: loss 4.3448, time 42.12ms, mfu 2.38%
+iter 2873: loss 4.3630, time 42.44ms, mfu 2.43%
+iter 2874: loss 3.6102, time 42.11ms, mfu 2.48%
+iter 2875: loss 4.2713, time 42.42ms, mfu 2.52%
+iter 2876: loss 4.1497, time 43.18ms, mfu 2.55%
+iter 2877: loss 4.0817, time 43.01ms, mfu 2.58%
+iter 2878: loss 4.4963, time 42.74ms, mfu 2.61%
+iter 2879: loss 4.4468, time 44.41ms, mfu 2.62%
+step 2880: train loss 3.9803, val loss 5.2228
+saving checkpoint to out-wikipedia-shards
+iter 2880: loss 4.2817, time 1465.77ms, mfu 2.37%
+iter 2881: loss 4.1133, time 42.92ms, mfu 2.42%
+iter 2882: loss 4.2988, time 41.96ms, mfu 2.47%
+iter 2883: loss 4.0330, time 42.29ms, mfu 2.51%
+iter 2884: loss 3.8199, time 42.62ms, mfu 2.55%
+iter 2885: loss 3.9849, time 42.29ms, mfu 2.58%
+iter 2886: loss 4.0142, time 43.50ms, mfu 2.61%
+iter 2887: loss 4.3751, time 43.58ms, mfu 2.63%
+iter 2888: loss 4.2145, time 41.82ms, mfu 2.66%
+iter 2889: loss 3.6749, time 42.60ms, mfu 2.68%
+step 2890: train loss 4.0015, val loss 5.2168
+saving checkpoint to out-wikipedia-shards
+iter 2890: loss 4.0955, time 1473.16ms, mfu 2.42%
+iter 2891: loss 4.3381, time 42.93ms, mfu 2.46%
+iter 2892: loss 3.8761, time 42.04ms, mfu 2.51%
+iter 2893: loss 4.1802, time 42.22ms, mfu 2.55%
+iter 2894: loss 4.0105, time 42.32ms, mfu 2.58%
+iter 2895: loss 3.7560, time 42.74ms, mfu 2.61%
+iter 2896: loss 4.0917, time 44.33ms, mfu 2.63%
+iter 2897: loss 3.1064, time 46.99ms, mfu 2.62%
+iter 2898: loss 3.0151, time 40.66ms, mfu 2.66%
+iter 2899: loss 3.5011, time 43.02ms, mfu 2.68%
+step 2900: train loss 3.9862, val loss 5.1315
+saving checkpoint to out-wikipedia-shards
+iter 2900: loss 3.5861, time 1489.12ms, mfu 2.42%
+iter 2901: loss 3.8160, time 45.77ms, mfu 2.45%
+iter 2902: loss 4.2728, time 43.28ms, mfu 2.49%
+iter 2903: loss 4.0146, time 42.04ms, mfu 2.53%
+iter 2904: loss 4.1140, time 42.76ms, mfu 2.56%
+iter 2905: loss 3.7804, time 42.45ms, mfu 2.60%
+iter 2906: loss 3.9763, time 42.91ms, mfu 2.62%
+iter 2907: loss 4.2640, time 44.19ms, mfu 2.64%
+iter 2908: loss 4.4053, time 42.52ms, mfu 2.66%
+iter 2909: loss 4.0042, time 42.00ms, mfu 2.69%
+step 2910: train loss 3.9909, val loss 5.2005
+saving checkpoint to out-wikipedia-shards
+iter 2910: loss 4.4293, time 1547.38ms, mfu 2.43%
+iter 2911: loss 3.9144, time 45.89ms, mfu 2.45%
+iter 2912: loss 5.0020, time 47.22ms, mfu 2.46%
+iter 2913: loss 4.3645, time 46.69ms, mfu 2.48%
+iter 2914: loss 3.8275, time 47.75ms, mfu 2.49%
+iter 2915: loss 4.2573, time 47.16ms, mfu 2.50%
+iter 2916: loss 4.0557, time 47.28ms, mfu 2.51%
+iter 2917: loss 3.8871, time 46.37ms, mfu 2.52%
+iter 2918: loss 4.6840, time 47.20ms, mfu 2.53%
+iter 2919: loss 3.8915, time 48.40ms, mfu 2.53%
+step 2920: train loss 3.9846, val loss 5.2845
+saving checkpoint to out-wikipedia-shards
+iter 2920: loss 3.8724, time 1652.95ms, mfu 2.28%
+iter 2921: loss 4.0636, time 46.20ms, mfu 2.32%
+iter 2922: loss 4.1538, time 44.70ms, mfu 2.36%
+iter 2923: loss 4.5804, time 42.61ms, mfu 2.41%
+iter 2924: loss 3.7669, time 42.67ms, mfu 2.46%
+iter 2925: loss 4.1411, time 42.68ms, mfu 2.50%
+iter 2926: loss 4.2524, time 42.77ms, mfu 2.54%
+iter 2927: loss 4.4982, time 42.04ms, mfu 2.58%
+iter 2928: loss 4.2074, time 42.93ms, mfu 2.60%
+iter 2929: loss 4.2704, time 42.71ms, mfu 2.63%
+step 2930: train loss 3.9405, val loss 5.1617
+saving checkpoint to out-wikipedia-shards
+iter 2930: loss 4.6369, time 1694.11ms, mfu 2.37%
+iter 2931: loss 4.0751, time 43.92ms, mfu 2.42%
+iter 2932: loss 3.8939, time 43.02ms, mfu 2.46%
+iter 2933: loss 4.2789, time 42.03ms, mfu 2.51%
+iter 2934: loss 4.1321, time 42.15ms, mfu 2.55%
+iter 2935: loss 4.2573, time 43.41ms, mfu 2.57%
+iter 2936: loss 4.4350, time 42.15ms, mfu 2.61%
+iter 2937: loss 3.9093, time 43.65ms, mfu 2.63%
+iter 2938: loss 3.7237, time 42.19ms, mfu 2.65%
+iter 2939: loss 4.3637, time 42.12ms, mfu 2.68%
+step 2940: train loss 3.9340, val loss 5.2065
+saving checkpoint to out-wikipedia-shards
+iter 2940: loss 3.8394, time 1475.68ms, mfu 2.42%
+iter 2941: loss 4.4129, time 41.55ms, mfu 2.47%
+iter 2942: loss 4.2061, time 42.63ms, mfu 2.51%
+iter 2943: loss 3.9613, time 43.34ms, mfu 2.54%
+iter 2944: loss 3.8936, time 42.07ms, mfu 2.58%
+iter 2945: loss 3.8772, time 43.14ms, mfu 2.61%
+iter 2946: loss 4.0250, time 43.02ms, mfu 2.63%
+iter 2947: loss 4.2389, time 41.55ms, mfu 2.66%
+iter 2948: loss 3.9466, time 42.47ms, mfu 2.69%
+iter 2949: loss 4.1900, time 43.82ms, mfu 2.70%
+step 2950: train loss 3.9554, val loss 5.1412
+saving checkpoint to out-wikipedia-shards
+iter 2950: loss 3.9470, time 1486.07ms, mfu 2.44%
+iter 2951: loss 3.3806, time 43.67ms, mfu 2.47%
+iter 2952: loss 4.0867, time 43.25ms, mfu 2.51%
+iter 2953: loss 3.8419, time 41.66ms, mfu 2.55%
+iter 2954: loss 4.0229, time 43.86ms, mfu 2.58%
+iter 2955: loss 4.3920, time 42.86ms, mfu 2.60%
+iter 2956: loss 4.2472, time 42.15ms, mfu 2.63%
+iter 2957: loss 3.6772, time 43.25ms, mfu 2.65%
+iter 2958: loss 4.2212, time 41.79ms, mfu 2.68%
+iter 2959: loss 4.1331, time 43.53ms, mfu 2.70%
+step 2960: train loss 3.9412, val loss 5.0579
+saving checkpoint to out-wikipedia-shards
+iter 2960: loss 4.2665, time 1537.42ms, mfu 2.43%
+iter 2961: loss 4.0341, time 46.25ms, mfu 2.46%
+iter 2962: loss 4.1156, time 49.20ms, mfu 2.46%
+iter 2963: loss 3.8606, time 47.01ms, mfu 2.47%
+iter 2964: loss 4.0210, time 47.89ms, mfu 2.48%
+iter 2965: loss 4.1088, time 47.33ms, mfu 2.49%
+iter 2966: loss 3.9889, time 52.29ms, mfu 2.48%
+iter 2967: loss 4.3313, time 47.16ms, mfu 2.49%
+iter 2968: loss 3.8921, time 46.30ms, mfu 2.51%
+iter 2969: loss 4.0609, time 46.57ms, mfu 2.52%
+step 2970: train loss 3.9579, val loss 5.1772
+saving checkpoint to out-wikipedia-shards
+iter 2970: loss 3.8943, time 1660.96ms, mfu 2.27%
+iter 2971: loss 3.7713, time 47.44ms, mfu 2.31%
+iter 2972: loss 4.2624, time 46.29ms, mfu 2.34%
+iter 2973: loss 4.1157, time 47.70ms, mfu 2.36%
+iter 2974: loss 3.8334, time 47.91ms, mfu 2.38%
+iter 2975: loss 3.7194, time 47.58ms, mfu 2.40%
+iter 2976: loss 3.6017, time 47.84ms, mfu 2.42%
+iter 2977: loss 3.9684, time 47.39ms, mfu 2.43%
+iter 2978: loss 4.1279, time 47.86ms, mfu 2.45%
+iter 2979: loss 4.1038, time 51.44ms, mfu 2.44%
+step 2980: train loss 4.0041, val loss 5.1902
+saving checkpoint to out-wikipedia-shards
+iter 2980: loss 4.2410, time 1709.64ms, mfu 2.20%
+iter 2981: loss 3.7749, time 42.79ms, mfu 2.27%
+iter 2982: loss 3.6209, time 42.50ms, mfu 2.33%
+iter 2983: loss 4.2187, time 43.96ms, mfu 2.38%
+iter 2984: loss 3.8303, time 42.12ms, mfu 2.43%
+iter 2985: loss 3.9544, time 42.21ms, mfu 2.48%
+iter 2986: loss 3.7611, time 42.83ms, mfu 2.52%
+iter 2987: loss 4.3077, time 43.14ms, mfu 2.55%
+iter 2988: loss 4.3184, time 44.11ms, mfu 2.57%
+iter 2989: loss 4.1188, time 41.52ms, mfu 2.61%
+step 2990: train loss 3.9879, val loss 5.1295
+saving checkpoint to out-wikipedia-shards
+iter 2990: loss 4.2478, time 1493.53ms, mfu 2.36%
+iter 2991: loss 3.6619, time 42.67ms, mfu 2.41%
+iter 2992: loss 4.1790, time 42.78ms, mfu 2.45%
+iter 2993: loss 3.7513, time 42.95ms, mfu 2.49%
+iter 2994: loss 3.7245, time 42.59ms, mfu 2.53%
+iter 2995: loss 3.9728, time 43.26ms, mfu 2.56%
+iter 2996: loss 3.1602, time 42.79ms, mfu 2.59%
+iter 2997: loss 4.1765, time 42.58ms, mfu 2.62%
+iter 2998: loss 4.1890, time 43.26ms, mfu 2.64%
+iter 2999: loss 4.0396, time 43.09ms, mfu 2.66%
+step 3000: train loss 3.9399, val loss 5.1921
+saving checkpoint to out-wikipedia-shards
+iter 3000: loss 4.0556, time 1490.80ms, mfu 2.40%
+iter 3001: loss 3.9562, time 39.85ms, mfu 2.47%
+iter 3002: loss 3.4046, time 43.11ms, mfu 2.51%
+iter 3003: loss 3.9259, time 41.95ms, mfu 2.55%
+iter 3004: loss 4.2660, time 42.12ms, mfu 2.59%
+iter 3005: loss 4.0794, time 42.99ms, mfu 2.61%
+iter 3006: loss 4.1620, time 43.08ms, mfu 2.64%
+iter 3007: loss 4.6818, time 42.14ms, mfu 2.66%
+iter 3008: loss 4.1631, time 42.80ms, mfu 2.68%
+iter 3009: loss 3.6652, time 42.91ms, mfu 2.70%
+step 3010: train loss 4.0035, val loss 5.1481
+saving checkpoint to out-wikipedia-shards
+iter 3010: loss 3.7889, time 1477.79ms, mfu 2.44%
+iter 3011: loss 4.2085, time 42.91ms, mfu 2.48%
+iter 3012: loss 4.0225, time 41.73ms, mfu 2.53%
+iter 3013: loss 3.9737, time 43.87ms, mfu 2.55%
+iter 3014: loss 3.7958, time 43.56ms, mfu 2.58%
+iter 3015: loss 4.1114, time 47.92ms, mfu 2.58%
+iter 3016: loss 3.8916, time 50.55ms, mfu 2.56%
+iter 3017: loss 3.6888, time 46.76ms, mfu 2.57%
+iter 3018: loss 3.8697, time 48.02ms, mfu 2.57%
+iter 3019: loss 4.0080, time 50.05ms, mfu 2.55%
+step 3020: train loss 3.9286, val loss 5.2159
+saving checkpoint to out-wikipedia-shards
+iter 3020: loss 4.1158, time 1725.10ms, mfu 2.31%
+iter 3021: loss 3.6943, time 48.15ms, mfu 2.33%
+iter 3022: loss 4.2473, time 49.33ms, mfu 2.35%
+iter 3023: loss 3.9314, time 53.33ms, mfu 2.34%
+iter 3024: loss 4.4407, time 44.51ms, mfu 2.38%
+iter 3025: loss 3.9833, time 49.28ms, mfu 2.39%
+iter 3026: loss 3.9053, time 48.89ms, mfu 2.40%
+iter 3027: loss 4.1007, time 49.72ms, mfu 2.41%
+iter 3028: loss 4.2020, time 49.69ms, mfu 2.42%
+iter 3029: loss 4.1106, time 49.27ms, mfu 2.42%
+step 3030: train loss 3.9317, val loss 5.1294
+saving checkpoint to out-wikipedia-shards
+iter 3030: loss 4.0913, time 1587.07ms, mfu 2.19%
+iter 3031: loss 3.4784, time 42.06ms, mfu 2.26%
+iter 3032: loss 3.9120, time 41.99ms, mfu 2.33%
+iter 3033: loss 4.1738, time 43.16ms, mfu 2.38%
+iter 3034: loss 4.3551, time 42.55ms, mfu 2.43%
+iter 3035: loss 4.3086, time 43.30ms, mfu 2.47%
+iter 3036: loss 4.2017, time 41.86ms, mfu 2.51%
+iter 3037: loss 3.8316, time 42.93ms, mfu 2.55%
+iter 3038: loss 4.2466, time 42.59ms, mfu 2.58%
+iter 3039: loss 4.1459, time 42.05ms, mfu 2.61%
+step 3040: train loss 3.9218, val loss 5.1255
+saving checkpoint to out-wikipedia-shards
+iter 3040: loss 4.0013, time 1473.11ms, mfu 2.36%
+iter 3041: loss 4.4312, time 41.97ms, mfu 2.42%
+iter 3042: loss 4.1299, time 43.38ms, mfu 2.46%
+iter 3043: loss 3.6191, time 42.02ms, mfu 2.50%
+iter 3044: loss 3.8596, time 42.23ms, mfu 2.54%
+iter 3045: loss 4.3380, time 42.38ms, mfu 2.58%
+iter 3046: loss 4.7087, time 42.77ms, mfu 2.61%
+iter 3047: loss 4.1591, time 42.33ms, mfu 2.64%
+iter 3048: loss 4.2158, time 42.77ms, mfu 2.66%
+iter 3049: loss 2.9641, time 42.63ms, mfu 2.68%
+step 3050: train loss 3.9635, val loss 5.0723
+saving checkpoint to out-wikipedia-shards
+iter 3050: loss 4.0838, time 1471.47ms, mfu 2.42%
+iter 3051: loss 3.4526, time 43.53ms, mfu 2.46%
+iter 3052: loss 3.7991, time 42.82ms, mfu 2.50%
+iter 3053: loss 3.9948, time 43.70ms, mfu 2.53%
+iter 3054: loss 3.8755, time 43.01ms, mfu 2.56%
+iter 3055: loss 4.4145, time 42.91ms, mfu 2.59%
+iter 3056: loss 3.8882, time 42.84ms, mfu 2.62%
+iter 3057: loss 4.0994, time 43.32ms, mfu 2.64%
+iter 3058: loss 4.1040, time 43.25ms, mfu 2.66%
+iter 3059: loss 3.8975, time 43.22ms, mfu 2.68%
+step 3060: train loss 3.8934, val loss 5.1522
+saving checkpoint to out-wikipedia-shards
+iter 3060: loss 3.2783, time 1500.35ms, mfu 2.42%
+iter 3061: loss 3.8981, time 42.44ms, mfu 2.46%
+iter 3062: loss 4.3104, time 43.61ms, mfu 2.50%
+iter 3063: loss 3.8447, time 42.51ms, mfu 2.54%
+iter 3064: loss 4.0481, time 42.99ms, mfu 2.57%
+iter 3065: loss 4.5085, time 42.74ms, mfu 2.60%
+iter 3066: loss 3.8708, time 43.46ms, mfu 2.62%
+iter 3067: loss 3.9762, time 42.60ms, mfu 2.65%
+iter 3068: loss 4.5856, time 46.96ms, mfu 2.64%
+iter 3069: loss 4.5711, time 39.62ms, mfu 2.69%
+step 3070: train loss 3.8732, val loss 5.1221
+saving checkpoint to out-wikipedia-shards
+iter 3070: loss 4.0074, time 1701.94ms, mfu 2.43%
+iter 3071: loss 4.0430, time 46.94ms, mfu 2.44%
+iter 3072: loss 4.4601, time 49.35ms, mfu 2.45%
+iter 3073: loss 4.5537, time 49.48ms, mfu 2.45%
+iter 3074: loss 3.8718, time 49.40ms, mfu 2.45%
+iter 3075: loss 4.1302, time 50.20ms, mfu 2.45%
+iter 3076: loss 4.3097, time 54.89ms, mfu 2.43%
+iter 3077: loss 4.0654, time 44.66ms, mfu 2.46%
+iter 3078: loss 3.8983, time 49.73ms, mfu 2.46%
+iter 3079: loss 4.4829, time 49.43ms, mfu 2.46%
+step 3080: train loss 3.9200, val loss 5.1300
+saving checkpoint to out-wikipedia-shards
+iter 3080: loss 3.9426, time 1671.28ms, mfu 2.23%
+iter 3081: loss 3.9829, time 42.53ms, mfu 2.29%
+iter 3082: loss 4.0020, time 42.59ms, mfu 2.35%
+iter 3083: loss 5.0117, time 43.88ms, mfu 2.39%
+iter 3084: loss 4.2188, time 42.04ms, mfu 2.45%
+iter 3085: loss 3.6706, time 42.58ms, mfu 2.49%
+iter 3086: loss 3.7653, time 44.90ms, mfu 2.51%
+iter 3087: loss 3.8648, time 41.10ms, mfu 2.56%
+iter 3088: loss 4.4273, time 43.14ms, mfu 2.59%
+iter 3089: loss 4.0448, time 42.96ms, mfu 2.61%
+step 3090: train loss 3.8584, val loss 5.1488
+saving checkpoint to out-wikipedia-shards
+iter 3090: loss 4.4509, time 1482.24ms, mfu 2.36%
+iter 3091: loss 3.6957, time 42.73ms, mfu 2.41%
+iter 3092: loss 4.0901, time 42.83ms, mfu 2.46%
+iter 3093: loss 3.9196, time 43.68ms, mfu 2.49%
+iter 3094: loss 3.9697, time 42.85ms, mfu 2.53%
+iter 3095: loss 3.6941, time 42.55ms, mfu 2.56%
+iter 3096: loss 4.2905, time 42.46ms, mfu 2.60%
+iter 3097: loss 4.2832, time 43.24ms, mfu 2.62%
+iter 3098: loss 3.4203, time 42.01ms, mfu 2.65%
+iter 3099: loss 3.9371, time 42.69ms, mfu 2.67%
+step 3100: train loss 3.9294, val loss 5.1146
+saving checkpoint to out-wikipedia-shards
+iter 3100: loss 4.3739, time 1481.98ms, mfu 2.41%
+iter 3101: loss 3.7580, time 43.04ms, mfu 2.46%
+iter 3102: loss 4.1233, time 41.92ms, mfu 2.50%
+iter 3103: loss 4.7503, time 42.50ms, mfu 2.54%
+iter 3104: loss 4.1812, time 43.54ms, mfu 2.57%
+iter 3105: loss 3.8273, time 41.90ms, mfu 2.60%
+iter 3106: loss 4.2437, time 42.96ms, mfu 2.63%
+iter 3107: loss 4.4738, time 42.50ms, mfu 2.65%
+iter 3108: loss 3.8548, time 42.97ms, mfu 2.67%
+iter 3109: loss 3.8319, time 43.27ms, mfu 2.69%
+step 3110: train loss 3.9202, val loss 5.0973
+saving checkpoint to out-wikipedia-shards
+iter 3110: loss 3.6956, time 1498.29ms, mfu 2.43%
+iter 3111: loss 4.5435, time 42.14ms, mfu 2.48%
+iter 3112: loss 3.5141, time 42.76ms, mfu 2.52%
+iter 3113: loss 3.9341, time 48.06ms, mfu 2.52%
+iter 3114: loss 4.2899, time 41.69ms, mfu 2.56%
+iter 3115: loss 4.1358, time 42.82ms, mfu 2.59%
+iter 3116: loss 4.4220, time 42.52ms, mfu 2.62%
+iter 3117: loss 4.1999, time 41.98ms, mfu 2.65%
+iter 3118: loss 3.8390, time 42.57ms, mfu 2.67%
+iter 3119: loss 4.0854, time 43.08ms, mfu 2.69%
+step 3120: train loss 3.8563, val loss 5.1121
+saving checkpoint to out-wikipedia-shards
+iter 3120: loss 4.1086, time 1583.15ms, mfu 2.43%
+iter 3121: loss 4.2607, time 49.09ms, mfu 2.44%
+iter 3122: loss 4.1224, time 51.68ms, mfu 2.43%
+iter 3123: loss 3.9698, time 50.84ms, mfu 2.43%
+iter 3124: loss 3.9048, time 52.28ms, mfu 2.42%
+iter 3125: loss 3.6014, time 49.40ms, mfu 2.43%
+iter 3126: loss 3.5412, time 50.97ms, mfu 2.42%
+iter 3127: loss 3.7495, time 49.61ms, mfu 2.43%
+iter 3128: loss 3.7277, time 47.64ms, mfu 2.44%
+iter 3129: loss 4.3181, time 50.01ms, mfu 2.44%
+step 3130: train loss 3.9224, val loss 5.1226
+saving checkpoint to out-wikipedia-shards
+iter 3130: loss 3.9889, time 1769.68ms, mfu 2.21%
+iter 3131: loss 3.9521, time 48.08ms, mfu 2.24%
+iter 3132: loss 3.8785, time 49.34ms, mfu 2.26%
+iter 3133: loss 3.7902, time 41.32ms, mfu 2.33%
+iter 3134: loss 4.0894, time 42.79ms, mfu 2.39%
+iter 3135: loss 4.1151, time 42.28ms, mfu 2.44%
+iter 3136: loss 3.9774, time 43.32ms, mfu 2.48%
+iter 3137: loss 4.2031, time 47.89ms, mfu 2.49%
+iter 3138: loss 4.6089, time 41.21ms, mfu 2.53%
+iter 3139: loss 4.1141, time 42.99ms, mfu 2.57%
+step 3140: train loss 3.9301, val loss 5.1287
+saving checkpoint to out-wikipedia-shards
+iter 3140: loss 4.3325, time 1506.48ms, mfu 2.32%
+iter 3141: loss 4.6258, time 47.41ms, mfu 2.34%
+iter 3142: loss 4.1032, time 46.29ms, mfu 2.37%
+iter 3143: loss 3.4632, time 42.06ms, mfu 2.43%
+iter 3144: loss 4.5033, time 48.18ms, mfu 2.44%
+iter 3145: loss 4.2331, time 45.99ms, mfu 2.46%
+iter 3146: loss 3.7648, time 46.19ms, mfu 2.48%
+iter 3147: loss 4.1702, time 46.53ms, mfu 2.50%
+iter 3148: loss 3.9096, time 47.01ms, mfu 2.51%
+iter 3149: loss 4.2653, time 47.02ms, mfu 2.52%
+step 3150: train loss 3.9027, val loss 5.0458
+saving checkpoint to out-wikipedia-shards
+iter 3150: loss 4.1169, time 2010.06ms, mfu 2.27%
+iter 3151: loss 3.3373, time 40.10ms, mfu 2.35%
+iter 3152: loss 3.8632, time 49.26ms, mfu 2.36%
+iter 3153: loss 3.5356, time 46.35ms, mfu 2.39%
+iter 3154: loss 3.8960, time 47.77ms, mfu 2.41%
+iter 3155: loss 4.2724, time 47.25ms, mfu 2.43%
+iter 3156: loss 4.1743, time 46.40ms, mfu 2.45%
+iter 3157: loss 4.4397, time 46.73ms, mfu 2.47%
+iter 3158: loss 3.6931, time 47.87ms, mfu 2.48%
+iter 3159: loss 3.8611, time 47.12ms, mfu 2.49%
+step 3160: train loss 3.8885, val loss 5.0578
+saving checkpoint to out-wikipedia-shards
+iter 3160: loss 4.3506, time 1975.62ms, mfu 2.25%
+iter 3161: loss 3.7976, time 45.56ms, mfu 2.29%
+iter 3162: loss 3.9030, time 45.34ms, mfu 2.33%
+iter 3163: loss 3.8672, time 45.37ms, mfu 2.37%
+iter 3164: loss 4.5273, time 44.68ms, mfu 2.41%
+iter 3165: loss 4.0911, time 45.34ms, mfu 2.44%
+iter 3166: loss 3.9352, time 45.34ms, mfu 2.46%
+iter 3167: loss 4.5309, time 44.44ms, mfu 2.49%
+iter 3168: loss 3.7438, time 45.46ms, mfu 2.51%
+iter 3169: loss 4.3426, time 44.91ms, mfu 2.53%
+step 3170: train loss 3.8513, val loss 5.1283
+saving checkpoint to out-wikipedia-shards
+iter 3170: loss 4.3435, time 1609.28ms, mfu 2.29%
+iter 3171: loss 4.3056, time 45.99ms, mfu 2.33%
+iter 3172: loss 4.5886, time 48.36ms, mfu 2.35%
+iter 3173: loss 4.6155, time 44.38ms, mfu 2.39%
+iter 3174: loss 4.4042, time 44.74ms, mfu 2.42%
+iter 3175: loss 4.3613, time 45.18ms, mfu 2.45%
+iter 3176: loss 4.0240, time 43.47ms, mfu 2.49%
+iter 3177: loss 4.1022, time 45.33ms, mfu 2.51%
+iter 3178: loss 4.1339, time 47.65ms, mfu 2.52%
+iter 3179: loss 3.6293, time 46.28ms, mfu 2.53%
+step 3180: train loss 3.9171, val loss 5.0781
+saving checkpoint to out-wikipedia-shards
+iter 3180: loss 4.1538, time 1800.77ms, mfu 2.28%
+iter 3181: loss 3.6508, time 47.22ms, mfu 2.31%
+iter 3182: loss 4.1858, time 48.99ms, mfu 2.33%
+iter 3183: loss 3.5565, time 50.35ms, mfu 2.34%
+iter 3184: loss 4.1661, time 46.73ms, mfu 2.37%
+iter 3185: loss 3.8667, time 50.66ms, mfu 2.38%
+iter 3186: loss 4.0963, time 52.71ms, mfu 2.37%
+iter 3187: loss 3.9974, time 47.10ms, mfu 2.39%
+iter 3188: loss 3.9440, time 46.82ms, mfu 2.42%
+iter 3189: loss 4.0647, time 49.21ms, mfu 2.42%
+step 3190: train loss 3.8625, val loss 5.1080
+saving checkpoint to out-wikipedia-shards
+iter 3190: loss 3.5213, time 2030.18ms, mfu 2.19%
+iter 3191: loss 4.0807, time 41.73ms, mfu 2.26%
+iter 3192: loss 3.9937, time 43.09ms, mfu 2.32%
+iter 3193: loss 4.1657, time 44.41ms, mfu 2.36%
+iter 3194: loss 4.0731, time 42.99ms, mfu 2.41%
+iter 3195: loss 3.9510, time 43.27ms, mfu 2.46%
+iter 3196: loss 4.2098, time 43.95ms, mfu 2.49%
+iter 3197: loss 3.7361, time 43.03ms, mfu 2.52%
+iter 3198: loss 4.0205, time 43.45ms, mfu 2.55%
+iter 3199: loss 4.1159, time 43.40ms, mfu 2.58%
+step 3200: train loss 3.9081, val loss 5.0748
+saving checkpoint to out-wikipedia-shards
+iter 3200: loss 3.9312, time 1520.03ms, mfu 2.33%
+iter 3201: loss 4.0800, time 43.82ms, mfu 2.38%
+iter 3202: loss 3.8840, time 44.31ms, mfu 2.42%
+iter 3203: loss 3.9709, time 42.72ms, mfu 2.46%
+iter 3204: loss 4.2521, time 43.83ms, mfu 2.50%
+iter 3205: loss 3.9734, time 43.13ms, mfu 2.53%
+iter 3206: loss 3.8862, time 43.19ms, mfu 2.56%
+iter 3207: loss 3.3753, time 43.00ms, mfu 2.59%
+iter 3208: loss 3.5133, time 43.17ms, mfu 2.61%
+iter 3209: loss 4.1738, time 43.59ms, mfu 2.63%
+step 3210: train loss 3.8767, val loss 5.1466
+saving checkpoint to out-wikipedia-shards
+iter 3210: loss 4.5315, time 1782.57ms, mfu 2.38%
+iter 3211: loss 3.8413, time 41.84ms, mfu 2.43%
+iter 3212: loss 3.6894, time 45.54ms, mfu 2.46%
+iter 3213: loss 4.1098, time 42.96ms, mfu 2.50%
+iter 3214: loss 4.0006, time 43.34ms, mfu 2.53%
+iter 3215: loss 4.1892, time 56.83ms, mfu 2.49%
+iter 3216: loss 3.8899, time 44.27ms, mfu 2.52%
+iter 3217: loss 4.1326, time 48.23ms, mfu 2.52%
+iter 3218: loss 3.3476, time 50.99ms, mfu 2.51%
+iter 3219: loss 3.5822, time 54.01ms, mfu 2.49%
+step 3220: train loss 3.8970, val loss 5.0839
+saving checkpoint to out-wikipedia-shards
+iter 3220: loss 4.1281, time 1730.72ms, mfu 2.25%
+iter 3221: loss 3.7728, time 48.86ms, mfu 2.27%
+iter 3222: loss 4.1273, time 49.27ms, mfu 2.29%
+iter 3223: loss 3.8009, time 47.14ms, mfu 2.32%
+iter 3224: loss 3.9644, time 49.60ms, mfu 2.34%
+iter 3225: loss 4.2495, time 51.79ms, mfu 2.34%
+iter 3226: loss 4.3907, time 48.02ms, mfu 2.36%
+iter 3227: loss 4.3578, time 53.84ms, mfu 2.35%
+iter 3228: loss 4.1441, time 45.62ms, mfu 2.39%
+iter 3229: loss 3.6698, time 47.01ms, mfu 2.41%
+step 3230: train loss 3.8393, val loss 5.0747
+saving checkpoint to out-wikipedia-shards
+iter 3230: loss 4.1094, time 1650.93ms, mfu 2.18%
+iter 3231: loss 4.4354, time 39.65ms, mfu 2.27%
+iter 3232: loss 4.0574, time 43.40ms, mfu 2.32%
+iter 3233: loss 4.0366, time 42.68ms, mfu 2.38%
+iter 3234: loss 3.5418, time 43.24ms, mfu 2.42%
+iter 3235: loss 4.0390, time 42.38ms, mfu 2.47%
+iter 3236: loss 3.5563, time 45.10ms, mfu 2.49%
+iter 3237: loss 3.4854, time 46.56ms, mfu 2.51%
+iter 3238: loss 3.2730, time 46.03ms, mfu 2.52%
+iter 3239: loss 4.4437, time 51.07ms, mfu 2.51%
+step 3240: train loss 3.9032, val loss 5.1514
+saving checkpoint to out-wikipedia-shards
+iter 3240: loss 4.0498, time 1586.85ms, mfu 2.27%
+iter 3241: loss 4.1524, time 46.14ms, mfu 2.31%
+iter 3242: loss 3.4956, time 51.52ms, mfu 2.31%
+iter 3243: loss 4.5015, time 48.94ms, mfu 2.33%
+iter 3244: loss 4.0378, time 43.09ms, mfu 2.38%
+iter 3245: loss 3.2452, time 44.40ms, mfu 2.42%
+iter 3246: loss 3.7726, time 43.49ms, mfu 2.46%
+iter 3247: loss 4.0353, time 44.17ms, mfu 2.49%
+iter 3248: loss 3.5061, time 44.98ms, mfu 2.52%
+iter 3249: loss 3.6962, time 44.64ms, mfu 2.54%
+step 3250: train loss 3.8575, val loss 5.0734
+saving checkpoint to out-wikipedia-shards
+iter 3250: loss 3.9267, time 1519.88ms, mfu 2.29%
+iter 3251: loss 3.8097, time 49.38ms, mfu 2.31%
+iter 3252: loss 4.5545, time 40.20ms, mfu 2.39%
+iter 3253: loss 4.0148, time 42.77ms, mfu 2.43%
+iter 3254: loss 3.9283, time 42.75ms, mfu 2.48%
+iter 3255: loss 4.7560, time 43.08ms, mfu 2.51%
+iter 3256: loss 4.3686, time 41.57ms, mfu 2.56%
+iter 3257: loss 3.6549, time 45.21ms, mfu 2.57%
+iter 3258: loss 4.2199, time 42.71ms, mfu 2.60%
+iter 3259: loss 4.1162, time 45.21ms, mfu 2.61%
+step 3260: train loss 3.8165, val loss 5.0710
+saving checkpoint to out-wikipedia-shards
+iter 3260: loss 3.4935, time 1542.40ms, mfu 2.36%
+iter 3261: loss 4.0627, time 42.26ms, mfu 2.41%
+iter 3262: loss 3.6100, time 42.96ms, mfu 2.46%
+iter 3263: loss 3.7439, time 42.89ms, mfu 2.50%
+iter 3264: loss 3.8906, time 43.00ms, mfu 2.53%
+iter 3265: loss 4.3753, time 42.26ms, mfu 2.57%
+iter 3266: loss 4.0663, time 43.63ms, mfu 2.59%
+iter 3267: loss 3.8951, time 42.60ms, mfu 2.62%
+iter 3268: loss 3.8820, time 43.52ms, mfu 2.64%
+iter 3269: loss 4.4566, time 41.70ms, mfu 2.67%
+step 3270: train loss 3.8815, val loss 5.1278
+saving checkpoint to out-wikipedia-shards
+iter 3270: loss 4.2757, time 1715.61ms, mfu 2.41%
+iter 3271: loss 3.9153, time 48.77ms, mfu 2.42%
+iter 3272: loss 4.1618, time 47.24ms, mfu 2.44%
+iter 3273: loss 3.4160, time 46.56ms, mfu 2.46%
+iter 3274: loss 3.7812, time 50.10ms, mfu 2.46%
+iter 3275: loss 3.5769, time 49.15ms, mfu 2.46%
+iter 3276: loss 3.8234, time 54.97ms, mfu 2.44%
+iter 3277: loss 3.7297, time 53.29ms, mfu 2.42%
+iter 3278: loss 4.0054, time 53.35ms, mfu 2.41%
+iter 3279: loss 4.2825, time 52.87ms, mfu 2.40%
+step 3280: train loss 3.8223, val loss 5.0639
+saving checkpoint to out-wikipedia-shards
+iter 3280: loss 4.1091, time 2078.43ms, mfu 2.17%
+iter 3281: loss 4.2077, time 47.38ms, mfu 2.21%
+iter 3282: loss 4.2070, time 48.21ms, mfu 2.24%
+iter 3283: loss 3.7339, time 44.91ms, mfu 2.29%
+iter 3284: loss 3.9587, time 43.02ms, mfu 2.35%
+iter 3285: loss 3.7982, time 47.96ms, mfu 2.37%
+iter 3286: loss 4.2477, time 46.81ms, mfu 2.39%
+iter 3287: loss 3.1560, time 45.76ms, mfu 2.42%
+iter 3288: loss 4.4728, time 46.79ms, mfu 2.44%
+iter 3289: loss 3.9184, time 46.33ms, mfu 2.46%
+step 3290: train loss 3.8373, val loss 5.0858
+saving checkpoint to out-wikipedia-shards
+iter 3290: loss 3.8349, time 2010.65ms, mfu 2.22%
+iter 3291: loss 3.7707, time 42.06ms, mfu 2.29%
+iter 3292: loss 4.2689, time 42.00ms, mfu 2.35%
+iter 3293: loss 4.2717, time 42.70ms, mfu 2.41%
+iter 3294: loss 4.3290, time 42.83ms, mfu 2.45%
+iter 3295: loss 4.0554, time 43.08ms, mfu 2.49%
+iter 3296: loss 3.7669, time 43.76ms, mfu 2.52%
+iter 3297: loss 3.4437, time 42.94ms, mfu 2.55%
+iter 3298: loss 3.7691, time 42.54ms, mfu 2.59%
+iter 3299: loss 4.6909, time 42.20ms, mfu 2.62%
+step 3300: train loss 3.8214, val loss 4.9931
+saving checkpoint to out-wikipedia-shards
+iter 3300: loss 3.8588, time 1487.41ms, mfu 2.37%
+iter 3301: loss 4.2433, time 42.38ms, mfu 2.42%
+iter 3302: loss 3.6575, time 44.02ms, mfu 2.45%
+iter 3303: loss 4.1095, time 41.50ms, mfu 2.50%
+iter 3304: loss 3.4373, time 43.34ms, mfu 2.54%
+iter 3305: loss 4.1592, time 42.83ms, mfu 2.57%
+iter 3306: loss 4.1728, time 42.53ms, mfu 2.60%
+iter 3307: loss 4.0345, time 42.96ms, mfu 2.63%
+iter 3308: loss 3.8962, time 43.37ms, mfu 2.65%
+iter 3309: loss 4.2979, time 42.96ms, mfu 2.67%
+step 3310: train loss 3.8295, val loss 5.0599
+saving checkpoint to out-wikipedia-shards
+iter 3310: loss 3.6330, time 1507.53ms, mfu 2.41%
+iter 3311: loss 4.0506, time 45.93ms, mfu 2.43%
+iter 3312: loss 4.1093, time 48.96ms, mfu 2.44%
+iter 3313: loss 4.6191, time 48.20ms, mfu 2.45%
+iter 3314: loss 4.2326, time 47.27ms, mfu 2.47%
+iter 3315: loss 3.9092, time 48.42ms, mfu 2.47%
+iter 3316: loss 3.7833, time 47.94ms, mfu 2.48%
+iter 3317: loss 4.0976, time 47.53ms, mfu 2.49%
+iter 3318: loss 4.0934, time 47.66ms, mfu 2.50%
+iter 3319: loss 4.3595, time 46.91ms, mfu 2.51%
+step 3320: train loss 3.8792, val loss 5.0568
+saving checkpoint to out-wikipedia-shards
+iter 3320: loss 3.9859, time 1670.62ms, mfu 2.27%
+iter 3321: loss 3.5798, time 46.37ms, mfu 2.30%
+iter 3322: loss 3.7426, time 48.31ms, mfu 2.33%
+iter 3323: loss 4.0561, time 46.66ms, mfu 2.36%
+iter 3324: loss 4.2166, time 46.90ms, mfu 2.38%
+iter 3325: loss 3.6652, time 46.98ms, mfu 2.41%
+iter 3326: loss 3.9365, time 47.33ms, mfu 2.42%
+iter 3327: loss 4.2617, time 47.97ms, mfu 2.44%
+iter 3328: loss 4.0591, time 47.29ms, mfu 2.45%
+iter 3329: loss 3.9715, time 47.99ms, mfu 2.46%
+step 3330: train loss 3.7944, val loss 5.0340
+saving checkpoint to out-wikipedia-shards
+iter 3330: loss 4.0111, time 1549.49ms, mfu 2.22%
+iter 3331: loss 4.3862, time 42.77ms, mfu 2.29%
+iter 3332: loss 4.1236, time 43.08ms, mfu 2.34%
+iter 3333: loss 4.0990, time 42.62ms, mfu 2.40%
+iter 3334: loss 3.4987, time 42.41ms, mfu 2.45%
+iter 3335: loss 3.7017, time 42.33ms, mfu 2.49%
+iter 3336: loss 3.2436, time 42.65ms, mfu 2.53%
+iter 3337: loss 3.7971, time 42.66ms, mfu 2.56%
+iter 3338: loss 3.6393, time 43.66ms, mfu 2.59%
+iter 3339: loss 3.9642, time 43.52ms, mfu 2.61%
+step 3340: train loss 3.8010, val loss 5.1057
+saving checkpoint to out-wikipedia-shards
+iter 3340: loss 2.9678, time 1491.54ms, mfu 2.36%
+iter 3341: loss 3.7175, time 42.16ms, mfu 2.41%
+iter 3342: loss 3.8293, time 43.67ms, mfu 2.45%
+iter 3343: loss 4.0192, time 43.04ms, mfu 2.49%
+iter 3344: loss 3.6838, time 41.46ms, mfu 2.54%
+iter 3345: loss 4.2989, time 43.31ms, mfu 2.57%
+iter 3346: loss 3.9486, time 42.20ms, mfu 2.60%
+iter 3347: loss 3.9262, time 42.65ms, mfu 2.63%
+iter 3348: loss 4.2775, time 43.85ms, mfu 2.64%
+iter 3349: loss 4.1568, time 42.57ms, mfu 2.67%
+step 3350: train loss 3.8322, val loss 5.0435
+saving checkpoint to out-wikipedia-shards
+iter 3350: loss 4.1286, time 1489.69ms, mfu 2.41%
+iter 3351: loss 4.6683, time 42.97ms, mfu 2.45%
+iter 3352: loss 3.9691, time 41.61ms, mfu 2.50%
+iter 3353: loss 4.2784, time 42.26ms, mfu 2.54%
+iter 3354: loss 4.0601, time 43.41ms, mfu 2.57%
+iter 3355: loss 3.7142, time 42.22ms, mfu 2.60%
+iter 3356: loss 4.0285, time 42.75ms, mfu 2.63%
+iter 3357: loss 3.8460, time 42.84ms, mfu 2.65%
+iter 3358: loss 3.9493, time 42.49ms, mfu 2.68%
+iter 3359: loss 3.4131, time 42.66ms, mfu 2.70%
+step 3360: train loss 3.8216, val loss 5.1488
+saving checkpoint to out-wikipedia-shards
+iter 3360: loss 3.4710, time 1503.76ms, mfu 2.43%
+iter 3361: loss 4.1263, time 45.76ms, mfu 2.46%
+iter 3362: loss 3.7174, time 40.20ms, mfu 2.52%
+iter 3363: loss 4.3358, time 41.60ms, mfu 2.56%
+iter 3364: loss 4.3489, time 43.56ms, mfu 2.59%
+iter 3365: loss 4.1360, time 42.07ms, mfu 2.62%
+iter 3366: loss 3.7468, time 42.08ms, mfu 2.65%
+iter 3367: loss 4.0109, time 42.47ms, mfu 2.67%
+iter 3368: loss 3.7114, time 42.96ms, mfu 2.69%
+iter 3369: loss 3.4369, time 42.65ms, mfu 2.71%
+step 3370: train loss 3.8303, val loss 5.1116
+saving checkpoint to out-wikipedia-shards
+iter 3370: loss 3.6382, time 1701.63ms, mfu 2.44%
+iter 3371: loss 3.1420, time 46.95ms, mfu 2.46%
+iter 3372: loss 4.3285, time 48.19ms, mfu 2.47%
+iter 3373: loss 4.0257, time 46.60ms, mfu 2.49%
+iter 3374: loss 3.9480, time 47.12ms, mfu 2.50%
+iter 3375: loss 3.9170, time 47.98ms, mfu 2.50%
+iter 3376: loss 3.7444, time 47.05ms, mfu 2.51%
+iter 3377: loss 3.6000, time 48.18ms, mfu 2.52%
+iter 3378: loss 3.4486, time 47.08ms, mfu 2.52%
+iter 3379: loss 4.1799, time 47.20ms, mfu 2.53%
+step 3380: train loss 3.7546, val loss 5.0833
+saving checkpoint to out-wikipedia-shards
+iter 3380: loss 3.5623, time 1619.92ms, mfu 2.29%
+iter 3381: loss 3.9961, time 43.33ms, mfu 2.34%
+iter 3382: loss 3.8760, time 41.78ms, mfu 2.40%
+iter 3383: loss 4.3663, time 42.97ms, mfu 2.45%
+iter 3384: loss 3.8524, time 43.31ms, mfu 2.48%
+iter 3385: loss 3.6058, time 42.02ms, mfu 2.53%
+iter 3386: loss 4.3276, time 42.66ms, mfu 2.56%
+iter 3387: loss 3.3910, time 42.34ms, mfu 2.59%
+iter 3388: loss 3.5827, time 42.62ms, mfu 2.62%
+iter 3389: loss 4.0105, time 42.79ms, mfu 2.65%
+step 3390: train loss 3.8208, val loss 5.0498
+saving checkpoint to out-wikipedia-shards
+iter 3390: loss 4.5301, time 1509.88ms, mfu 2.39%
+iter 3391: loss 4.1628, time 42.52ms, mfu 2.44%
+iter 3392: loss 3.8844, time 41.66ms, mfu 2.49%
+iter 3393: loss 4.0094, time 47.63ms, mfu 2.50%
+iter 3394: loss 4.1772, time 38.86ms, mfu 2.56%
+iter 3395: loss 3.8382, time 42.97ms, mfu 2.59%
+iter 3396: loss 4.1946, time 42.73ms, mfu 2.62%
+iter 3397: loss 3.9385, time 41.92ms, mfu 2.65%
+iter 3398: loss 3.8423, time 42.71ms, mfu 2.67%
+iter 3399: loss 4.1754, time 42.34ms, mfu 2.69%
+step 3400: train loss 3.8291, val loss 5.0850
+saving checkpoint to out-wikipedia-shards
+iter 3400: loss 3.9956, time 1502.93ms, mfu 2.43%
+iter 3401: loss 3.7274, time 42.40ms, mfu 2.48%
+iter 3402: loss 3.4569, time 42.50ms, mfu 2.52%
+iter 3403: loss 3.4788, time 42.38ms, mfu 2.56%
+iter 3404: loss 3.6964, time 42.69ms, mfu 2.59%
+iter 3405: loss 4.1435, time 46.78ms, mfu 2.59%
+iter 3406: loss 4.3833, time 42.23ms, mfu 2.62%
+iter 3407: loss 3.7897, time 43.08ms, mfu 2.64%
+iter 3408: loss 3.9204, time 42.02ms, mfu 2.67%
+iter 3409: loss 4.0407, time 42.99ms, mfu 2.69%
+step 3410: train loss 3.8104, val loss 5.1184
+saving checkpoint to out-wikipedia-shards
+iter 3410: loss 3.6679, time 1507.11ms, mfu 2.43%
+iter 3411: loss 3.8529, time 41.66ms, mfu 2.48%
+iter 3412: loss 3.6512, time 43.02ms, mfu 2.52%
+iter 3413: loss 3.9980, time 42.75ms, mfu 2.55%
+iter 3414: loss 3.7175, time 42.34ms, mfu 2.59%
+iter 3415: loss 3.6566, time 42.38ms, mfu 2.62%
+iter 3416: loss 4.0769, time 42.88ms, mfu 2.64%
+iter 3417: loss 4.0057, time 41.92ms, mfu 2.67%
+iter 3418: loss 4.2083, time 42.88ms, mfu 2.69%
+iter 3419: loss 3.7183, time 43.18ms, mfu 2.70%
+step 3420: train loss 3.8106, val loss 5.1093
+saving checkpoint to out-wikipedia-shards
+iter 3420: loss 4.1671, time 1603.03ms, mfu 2.44%
+iter 3421: loss 3.8113, time 48.49ms, mfu 2.45%
+iter 3422: loss 4.0031, time 54.19ms, mfu 2.43%
+iter 3423: loss 4.1355, time 44.76ms, mfu 2.46%
+iter 3424: loss 3.9574, time 47.90ms, mfu 2.47%
+iter 3425: loss 4.1017, time 49.29ms, mfu 2.47%
+iter 3426: loss 3.9070, time 48.81ms, mfu 2.48%
+iter 3427: loss 3.9100, time 49.74ms, mfu 2.48%
+iter 3428: loss 3.9541, time 49.61ms, mfu 2.47%
+iter 3429: loss 4.4684, time 48.42ms, mfu 2.48%
+step 3430: train loss 3.7718, val loss 4.9958
+saving checkpoint to out-wikipedia-shards
+iter 3430: loss 3.9361, time 1749.69ms, mfu 2.24%
+iter 3431: loss 3.7100, time 41.68ms, mfu 2.31%
+iter 3432: loss 3.6888, time 42.69ms, mfu 2.37%
+iter 3433: loss 3.9160, time 42.69ms, mfu 2.42%
+iter 3434: loss 4.0171, time 42.94ms, mfu 2.46%
+iter 3435: loss 3.7236, time 42.46ms, mfu 2.50%
+iter 3436: loss 4.0121, time 42.27ms, mfu 2.54%
+iter 3437: loss 3.6948, time 42.63ms, mfu 2.58%
+iter 3438: loss 4.4940, time 42.69ms, mfu 2.60%
+iter 3439: loss 3.5904, time 43.32ms, mfu 2.63%
+step 3440: train loss 3.8086, val loss 5.0174
+saving checkpoint to out-wikipedia-shards
+iter 3440: loss 3.3435, time 1500.89ms, mfu 2.37%
+iter 3441: loss 3.8209, time 42.58ms, mfu 2.42%
+iter 3442: loss 3.4643, time 43.69ms, mfu 2.46%
+iter 3443: loss 3.8016, time 42.56ms, mfu 2.50%
+iter 3444: loss 3.7353, time 42.95ms, mfu 2.54%
+iter 3445: loss 4.1130, time 41.90ms, mfu 2.58%
+iter 3446: loss 3.8323, time 42.75ms, mfu 2.61%
+iter 3447: loss 4.3118, time 42.97ms, mfu 2.63%
+iter 3448: loss 3.8273, time 42.46ms, mfu 2.66%
+iter 3449: loss 4.2688, time 43.07ms, mfu 2.68%
+step 3450: train loss 3.7706, val loss 5.0090
+saving checkpoint to out-wikipedia-shards
+iter 3450: loss 4.0026, time 1492.00ms, mfu 2.42%
+iter 3451: loss 4.0864, time 42.28ms, mfu 2.46%
+iter 3452: loss 3.8688, time 43.72ms, mfu 2.50%
+iter 3453: loss 3.5377, time 43.33ms, mfu 2.53%
+iter 3454: loss 3.7897, time 41.93ms, mfu 2.57%
+iter 3455: loss 3.7565, time 42.76ms, mfu 2.60%
+iter 3456: loss 3.3518, time 42.35ms, mfu 2.63%
+iter 3457: loss 3.6732, time 42.47ms, mfu 2.65%
+iter 3458: loss 3.9636, time 42.89ms, mfu 2.68%
+iter 3459: loss 3.7840, time 42.13ms, mfu 2.70%
+step 3460: train loss 3.7771, val loss 5.0547
+saving checkpoint to out-wikipedia-shards
+iter 3460: loss 4.0723, time 1500.11ms, mfu 2.44%
+iter 3461: loss 3.4865, time 40.16ms, mfu 2.50%
+iter 3462: loss 3.8976, time 41.97ms, mfu 2.54%
+iter 3463: loss 3.9296, time 42.41ms, mfu 2.58%
+iter 3464: loss 3.5275, time 42.67ms, mfu 2.61%
+iter 3465: loss 3.6846, time 42.20ms, mfu 2.64%
+iter 3466: loss 3.8845, time 42.81ms, mfu 2.66%
+iter 3467: loss 3.7995, time 42.50ms, mfu 2.68%
+iter 3468: loss 4.2447, time 46.61ms, mfu 2.68%
+iter 3469: loss 3.5967, time 39.08ms, mfu 2.72%
+step 3470: train loss 3.7721, val loss 5.0621
+saving checkpoint to out-wikipedia-shards
+iter 3470: loss 3.6078, time 1541.59ms, mfu 2.46%
+iter 3471: loss 3.9651, time 45.78ms, mfu 2.48%
+iter 3472: loss 3.9455, time 42.81ms, mfu 2.52%
+iter 3473: loss 4.0221, time 47.65ms, mfu 2.52%
+iter 3474: loss 3.9958, time 48.07ms, mfu 2.53%
+iter 3475: loss 4.0454, time 47.65ms, mfu 2.53%
+iter 3476: loss 3.9916, time 46.02ms, mfu 2.54%
+iter 3477: loss 3.7169, time 46.53ms, mfu 2.55%
+iter 3478: loss 3.8421, time 47.25ms, mfu 2.56%
+iter 3479: loss 4.2835, time 47.21ms, mfu 2.56%
+step 3480: train loss 3.8243, val loss 5.0277
+saving checkpoint to out-wikipedia-shards
+iter 3480: loss 3.6788, time 1669.58ms, mfu 2.31%
+iter 3481: loss 3.9349, time 46.95ms, mfu 2.34%
+iter 3482: loss 4.1494, time 48.27ms, mfu 2.36%
+iter 3483: loss 4.0789, time 46.38ms, mfu 2.39%
+iter 3484: loss 3.5577, time 47.57ms, mfu 2.41%
+iter 3485: loss 3.9190, time 47.17ms, mfu 2.43%
+iter 3486: loss 3.6275, time 48.20ms, mfu 2.44%
+iter 3487: loss 4.3929, time 47.73ms, mfu 2.45%
+iter 3488: loss 4.2870, time 49.57ms, mfu 2.45%
+iter 3489: loss 3.5577, time 49.29ms, mfu 2.46%
+step 3490: train loss 3.7589, val loss 5.0745
+saving checkpoint to out-wikipedia-shards
+iter 3490: loss 3.9758, time 1522.45ms, mfu 2.22%
+iter 3491: loss 3.6318, time 42.84ms, mfu 2.28%
+iter 3492: loss 3.6443, time 41.73ms, mfu 2.35%
+iter 3493: loss 4.0232, time 42.00ms, mfu 2.41%
+iter 3494: loss 3.6634, time 43.34ms, mfu 2.45%
+iter 3495: loss 3.4396, time 42.65ms, mfu 2.49%
+iter 3496: loss 3.6474, time 42.21ms, mfu 2.53%
+iter 3497: loss 4.5266, time 42.74ms, mfu 2.57%
+iter 3498: loss 3.7344, time 43.60ms, mfu 2.59%
+iter 3499: loss 3.6497, time 42.72ms, mfu 2.62%
+step 3500: train loss 3.8007, val loss 5.1877
+saving checkpoint to out-wikipedia-shards
+iter 3500: loss 3.8633, time 1498.12ms, mfu 2.36%
+iter 3501: loss 3.7373, time 42.73ms, mfu 2.41%
+iter 3502: loss 3.6598, time 42.91ms, mfu 2.46%
+iter 3503: loss 3.6494, time 41.76ms, mfu 2.51%
+iter 3504: loss 4.6860, time 42.87ms, mfu 2.54%
+iter 3505: loss 4.1319, time 42.56ms, mfu 2.58%
+iter 3506: loss 3.7563, time 42.99ms, mfu 2.60%
+iter 3507: loss 4.0571, time 42.54ms, mfu 2.63%
+iter 3508: loss 3.9274, time 43.97ms, mfu 2.65%
+iter 3509: loss 3.9563, time 42.85ms, mfu 2.67%
+step 3510: train loss 3.8258, val loss 5.0861
+saving checkpoint to out-wikipedia-shards
+iter 3510: loss 3.9106, time 1526.90ms, mfu 2.41%
+iter 3511: loss 3.5524, time 42.52ms, mfu 2.46%
+iter 3512: loss 4.0074, time 44.12ms, mfu 2.49%
+iter 3513: loss 3.4553, time 41.72ms, mfu 2.53%
+iter 3514: loss 3.8099, time 43.09ms, mfu 2.56%
+iter 3515: loss 3.2717, time 42.39ms, mfu 2.60%
+iter 3516: loss 4.2268, time 43.08ms, mfu 2.62%
+iter 3517: loss 3.6952, time 48.46ms, mfu 2.61%
+iter 3518: loss 4.2780, time 39.93ms, mfu 2.66%
+iter 3519: loss 4.3540, time 42.43ms, mfu 2.68%
+step 3520: train loss 3.7820, val loss 5.0358
+saving checkpoint to out-wikipedia-shards
+iter 3520: loss 4.2216, time 1530.85ms, mfu 2.42%
+iter 3521: loss 4.2998, time 47.23ms, mfu 2.44%
+iter 3522: loss 4.1675, time 41.52ms, mfu 2.49%
+iter 3523: loss 4.0217, time 42.77ms, mfu 2.53%
+iter 3524: loss 3.8658, time 43.99ms, mfu 2.55%
+iter 3525: loss 4.0485, time 43.11ms, mfu 2.58%
+iter 3526: loss 4.0292, time 43.52ms, mfu 2.61%
+iter 3527: loss 3.6050, time 48.12ms, mfu 2.60%
+iter 3528: loss 3.7342, time 49.27ms, mfu 2.59%
+iter 3529: loss 4.0241, time 49.09ms, mfu 2.58%
+step 3530: train loss 3.7189, val loss 5.0181
+saving checkpoint to out-wikipedia-shards
+iter 3530: loss 3.6425, time 1782.71ms, mfu 2.33%
+iter 3531: loss 3.7388, time 48.73ms, mfu 2.35%
+iter 3532: loss 4.2841, time 52.52ms, mfu 2.35%
+iter 3533: loss 3.8139, time 45.05ms, mfu 2.38%
+iter 3534: loss 4.0926, time 48.07ms, mfu 2.40%
+iter 3535: loss 3.8782, time 48.73ms, mfu 2.41%
+iter 3536: loss 3.7797, time 48.74ms, mfu 2.42%
+iter 3537: loss 3.9545, time 49.23ms, mfu 2.43%
+iter 3538: loss 3.6761, time 48.28ms, mfu 2.44%
+iter 3539: loss 4.2255, time 48.22ms, mfu 2.45%
+step 3540: train loss 3.7479, val loss 5.0519
+saving checkpoint to out-wikipedia-shards
+iter 3540: loss 3.2928, time 1595.55ms, mfu 2.21%
+iter 3541: loss 3.7856, time 42.39ms, mfu 2.28%
+iter 3542: loss 3.8269, time 42.08ms, mfu 2.34%
+iter 3543: loss 4.1628, time 42.96ms, mfu 2.39%
+iter 3544: loss 4.1612, time 42.63ms, mfu 2.44%
+iter 3545: loss 3.9165, time 42.68ms, mfu 2.49%
+iter 3546: loss 4.0218, time 42.81ms, mfu 2.52%
+iter 3547: loss 3.9076, time 43.03ms, mfu 2.56%
+iter 3548: loss 3.6239, time 42.80ms, mfu 2.59%
+iter 3549: loss 4.3392, time 42.84ms, mfu 2.61%
+step 3550: train loss 3.7672, val loss 5.0787
+saving checkpoint to out-wikipedia-shards
+iter 3550: loss 3.8453, time 1502.86ms, mfu 2.36%
+iter 3551: loss 3.8598, time 41.42ms, mfu 2.42%
+iter 3552: loss 3.6134, time 43.34ms, mfu 2.46%
+iter 3553: loss 3.2730, time 42.45ms, mfu 2.50%
+iter 3554: loss 4.1768, time 43.25ms, mfu 2.54%
+iter 3555: loss 3.6323, time 42.28ms, mfu 2.57%
+iter 3556: loss 3.6102, time 42.92ms, mfu 2.60%
+iter 3557: loss 3.2985, time 43.75ms, mfu 2.62%
+iter 3558: loss 3.8273, time 42.40ms, mfu 2.65%
+iter 3559: loss 3.4233, time 44.66ms, mfu 2.66%
+step 3560: train loss 3.7297, val loss 5.0668
+saving checkpoint to out-wikipedia-shards
+iter 3560: loss 3.6022, time 1517.54ms, mfu 2.40%
+iter 3561: loss 3.7225, time 41.76ms, mfu 2.45%
+iter 3562: loss 4.4293, time 42.62ms, mfu 2.50%
+iter 3563: loss 3.7654, time 42.40ms, mfu 2.54%
+iter 3564: loss 3.7303, time 42.77ms, mfu 2.57%
+iter 3565: loss 3.8215, time 43.19ms, mfu 2.60%
+iter 3566: loss 4.0458, time 42.74ms, mfu 2.62%
+iter 3567: loss 4.3209, time 42.81ms, mfu 2.65%
+iter 3568: loss 3.9018, time 43.02ms, mfu 2.67%
+iter 3569: loss 3.7145, time 43.09ms, mfu 2.68%
+step 3570: train loss 3.7411, val loss 4.9850
+saving checkpoint to out-wikipedia-shards
+iter 3570: loss 4.2108, time 1506.39ms, mfu 2.42%
+iter 3571: loss 3.6012, time 42.47ms, mfu 2.47%
+iter 3572: loss 4.0810, time 43.19ms, mfu 2.51%
+iter 3573: loss 4.3088, time 42.84ms, mfu 2.54%
+iter 3574: loss 3.7759, time 42.01ms, mfu 2.58%
+iter 3575: loss 4.0113, time 42.44ms, mfu 2.61%
+iter 3576: loss 3.4354, time 42.77ms, mfu 2.64%
+iter 3577: loss 3.7811, time 43.11ms, mfu 2.66%
+iter 3578: loss 4.3575, time 43.85ms, mfu 2.67%
+iter 3579: loss 3.4444, time 42.21ms, mfu 2.69%
+step 3580: train loss 3.6838, val loss 5.0285
+saving checkpoint to out-wikipedia-shards
+iter 3580: loss 3.8898, time 1586.64ms, mfu 2.43%
+iter 3581: loss 3.6841, time 46.49ms, mfu 2.45%
+iter 3582: loss 3.3728, time 44.02ms, mfu 2.49%
+iter 3583: loss 3.8770, time 55.03ms, mfu 2.46%
+iter 3584: loss 4.0220, time 40.03ms, mfu 2.52%
+iter 3585: loss 3.9589, time 45.17ms, mfu 2.54%
+iter 3586: loss 4.0383, time 45.24ms, mfu 2.56%
+iter 3587: loss 3.6976, time 43.91ms, mfu 2.58%
+iter 3588: loss 4.0637, time 45.77ms, mfu 2.59%
+iter 3589: loss 4.2600, time 44.17ms, mfu 2.61%
+step 3590: train loss 3.7439, val loss 4.9529
+saving checkpoint to out-wikipedia-shards
+iter 3590: loss 4.2489, time 1889.55ms, mfu 2.35%
+iter 3591: loss 3.7635, time 49.51ms, mfu 2.37%
+iter 3592: loss 4.2457, time 51.70ms, mfu 2.37%
+iter 3593: loss 3.8919, time 50.47ms, mfu 2.37%
+iter 3594: loss 4.1743, time 50.49ms, mfu 2.38%
+iter 3595: loss 3.7941, time 51.04ms, mfu 2.38%
+iter 3596: loss 3.9325, time 49.92ms, mfu 2.39%
+iter 3597: loss 3.9226, time 51.28ms, mfu 2.39%
+iter 3598: loss 3.3281, time 51.10ms, mfu 2.39%
+iter 3599: loss 4.0331, time 53.92ms, mfu 2.38%
+step 3600: train loss 3.7706, val loss 4.9373
+saving checkpoint to out-wikipedia-shards
+iter 3600: loss 4.2312, time 1534.42ms, mfu 2.15%
+iter 3601: loss 3.0596, time 48.24ms, mfu 2.19%
+iter 3602: loss 3.3193, time 47.85ms, mfu 2.22%
+iter 3603: loss 4.3140, time 45.04ms, mfu 2.27%
+iter 3604: loss 3.4992, time 46.14ms, mfu 2.31%
+iter 3605: loss 3.7370, time 47.20ms, mfu 2.34%
+iter 3606: loss 4.7247, time 46.69ms, mfu 2.37%
+iter 3607: loss 3.8082, time 48.06ms, mfu 2.39%
+iter 3608: loss 3.6617, time 45.63ms, mfu 2.42%
+iter 3609: loss 3.9645, time 41.12ms, mfu 2.47%
+step 3610: train loss 3.7732, val loss 5.0376
+saving checkpoint to out-wikipedia-shards
+iter 3610: loss 3.9317, time 2297.77ms, mfu 2.23%
+iter 3611: loss 3.7139, time 43.75ms, mfu 2.29%
+iter 3612: loss 4.0831, time 48.84ms, mfu 2.31%
+iter 3613: loss 4.0966, time 46.81ms, mfu 2.34%
+iter 3614: loss 4.0270, time 47.95ms, mfu 2.36%
+iter 3615: loss 3.5695, time 46.47ms, mfu 2.39%
+iter 3616: loss 3.6472, time 46.10ms, mfu 2.42%
+iter 3617: loss 4.3414, time 46.05ms, mfu 2.44%
+iter 3618: loss 3.8770, time 46.63ms, mfu 2.46%
+iter 3619: loss 3.8063, time 48.79ms, mfu 2.47%
+step 3620: train loss 3.7413, val loss 5.0280
+saving checkpoint to out-wikipedia-shards
+iter 3620: loss 3.7789, time 1974.33ms, mfu 2.23%
+iter 3621: loss 3.9474, time 47.77ms, mfu 2.26%
+iter 3622: loss 4.1291, time 50.89ms, mfu 2.27%
+iter 3623: loss 3.9971, time 48.82ms, mfu 2.30%
+iter 3624: loss 4.0495, time 50.51ms, mfu 2.31%
+iter 3625: loss 3.7766, time 49.53ms, mfu 2.33%
+iter 3626: loss 3.8734, time 47.85ms, mfu 2.35%
+iter 3627: loss 3.9417, time 45.12ms, mfu 2.39%
+iter 3628: loss 3.6412, time 44.57ms, mfu 2.42%
+iter 3629: loss 3.4997, time 45.50ms, mfu 2.45%
+step 3630: train loss 3.7121, val loss 5.0386
+saving checkpoint to out-wikipedia-shards
+iter 3630: loss 4.3459, time 1711.63ms, mfu 2.21%
+iter 3631: loss 3.9755, time 47.62ms, mfu 2.25%
+iter 3632: loss 3.8658, time 48.62ms, mfu 2.28%
+iter 3633: loss 4.1308, time 48.62ms, mfu 2.30%
+iter 3634: loss 4.3659, time 49.83ms, mfu 2.32%
+iter 3635: loss 3.8653, time 49.81ms, mfu 2.33%
+iter 3636: loss 4.3624, time 49.05ms, mfu 2.35%
+iter 3637: loss 3.5141, time 49.20ms, mfu 2.36%
+iter 3638: loss 3.6419, time 52.03ms, mfu 2.36%
+iter 3639: loss 3.8243, time 49.98ms, mfu 2.37%
+step 3640: train loss 3.7773, val loss 4.9755
+saving checkpoint to out-wikipedia-shards
+iter 3640: loss 3.8370, time 1495.58ms, mfu 2.14%
+iter 3641: loss 3.8660, time 42.59ms, mfu 2.22%
+iter 3642: loss 3.3001, time 43.63ms, mfu 2.27%
+iter 3643: loss 3.7618, time 41.93ms, mfu 2.34%
+iter 3644: loss 3.5545, time 42.29ms, mfu 2.40%
+iter 3645: loss 3.5555, time 42.75ms, mfu 2.44%
+iter 3646: loss 4.1263, time 43.18ms, mfu 2.48%
+iter 3647: loss 3.4559, time 42.65ms, mfu 2.52%
+iter 3648: loss 4.0582, time 44.11ms, mfu 2.55%
+iter 3649: loss 4.3011, time 43.85ms, mfu 2.57%
+step 3650: train loss 3.7715, val loss 5.0514
+saving checkpoint to out-wikipedia-shards
+iter 3650: loss 3.7618, time 1618.43ms, mfu 2.32%
+iter 3651: loss 3.6005, time 42.76ms, mfu 2.38%
+iter 3652: loss 4.1408, time 43.10ms, mfu 2.42%
+iter 3653: loss 3.8567, time 43.08ms, mfu 2.47%
+iter 3654: loss 3.5859, time 41.94ms, mfu 2.51%
+iter 3655: loss 3.9959, time 45.04ms, mfu 2.53%
+iter 3656: loss 3.9567, time 43.77ms, mfu 2.56%
+iter 3657: loss 3.8813, time 44.85ms, mfu 2.58%
+iter 3658: loss 3.8474, time 46.26ms, mfu 2.58%
+iter 3659: loss 3.6393, time 45.67ms, mfu 2.59%
+step 3660: train loss 3.7922, val loss 5.0026
+saving checkpoint to out-wikipedia-shards
+iter 3660: loss 4.0523, time 1547.21ms, mfu 2.34%
+iter 3661: loss 3.7172, time 43.18ms, mfu 2.39%
+iter 3662: loss 3.4595, time 42.82ms, mfu 2.44%
+iter 3663: loss 3.4884, time 42.61ms, mfu 2.48%
+iter 3664: loss 3.9064, time 43.14ms, mfu 2.52%
+iter 3665: loss 3.4988, time 42.48ms, mfu 2.55%
+iter 3666: loss 4.0074, time 42.80ms, mfu 2.59%
+iter 3667: loss 3.6491, time 44.17ms, mfu 2.60%
+iter 3668: loss 3.1990, time 44.91ms, mfu 2.62%
+iter 3669: loss 3.7210, time 46.94ms, mfu 2.62%
+step 3670: train loss 3.7654, val loss 5.0346
+saving checkpoint to out-wikipedia-shards
+iter 3670: loss 3.9350, time 1871.08ms, mfu 2.36%
+iter 3671: loss 3.9940, time 45.35ms, mfu 2.40%
+iter 3672: loss 3.6300, time 48.27ms, mfu 2.41%
+iter 3673: loss 3.7311, time 49.19ms, mfu 2.42%
+iter 3674: loss 4.0602, time 47.45ms, mfu 2.43%
+iter 3675: loss 3.7298, time 47.15ms, mfu 2.45%
+iter 3676: loss 3.5587, time 49.49ms, mfu 2.45%
+iter 3677: loss 3.9277, time 47.08ms, mfu 2.47%
+iter 3678: loss 4.4163, time 48.69ms, mfu 2.47%
+iter 3679: loss 3.9894, time 49.69ms, mfu 2.47%
+step 3680: train loss 3.7450, val loss 4.9610
+saving checkpoint to out-wikipedia-shards
+iter 3680: loss 3.7477, time 1743.30ms, mfu 2.23%
+iter 3681: loss 3.8535, time 44.17ms, mfu 2.29%
+iter 3682: loss 3.8143, time 47.11ms, mfu 2.32%
+iter 3683: loss 3.7384, time 47.14ms, mfu 2.35%
+iter 3684: loss 3.9956, time 50.46ms, mfu 2.35%
+iter 3685: loss 3.8767, time 49.98ms, mfu 2.36%
+iter 3686: loss 3.8091, time 52.37ms, mfu 2.36%
+iter 3687: loss 4.0465, time 48.13ms, mfu 2.38%
+iter 3688: loss 4.3484, time 49.84ms, mfu 2.39%
+iter 3689: loss 4.5073, time 49.34ms, mfu 2.40%
+step 3690: train loss 3.7056, val loss 5.0466
+saving checkpoint to out-wikipedia-shards
+iter 3690: loss 3.8864, time 1501.63ms, mfu 2.17%
+iter 3691: loss 4.2464, time 42.65ms, mfu 2.24%
+iter 3692: loss 3.3113, time 47.23ms, mfu 2.27%
+iter 3693: loss 3.9100, time 43.37ms, mfu 2.33%
+iter 3694: loss 3.6533, time 45.27ms, mfu 2.37%
+iter 3695: loss 4.1411, time 44.17ms, mfu 2.41%
+iter 3696: loss 3.6314, time 44.44ms, mfu 2.44%
+iter 3697: loss 4.3736, time 44.54ms, mfu 2.47%
+iter 3698: loss 4.3430, time 45.08ms, mfu 2.50%
+iter 3699: loss 4.2219, time 44.71ms, mfu 2.52%
+step 3700: train loss 3.7446, val loss 4.9836
+saving checkpoint to out-wikipedia-shards
+iter 3700: loss 3.8937, time 1532.28ms, mfu 2.28%
+iter 3701: loss 4.0264, time 48.70ms, mfu 2.30%
+iter 3702: loss 3.9454, time 45.58ms, mfu 2.34%
+iter 3703: loss 4.3266, time 47.31ms, mfu 2.37%
+iter 3704: loss 4.1231, time 45.29ms, mfu 2.40%
+iter 3705: loss 3.7661, time 42.01ms, mfu 2.45%
+iter 3706: loss 3.8672, time 46.94ms, mfu 2.47%
+iter 3707: loss 4.3184, time 46.84ms, mfu 2.48%
+iter 3708: loss 3.8068, time 48.49ms, mfu 2.49%
+iter 3709: loss 4.2781, time 45.39ms, mfu 2.51%
+step 3710: train loss 3.7026, val loss 5.0376
+saving checkpoint to out-wikipedia-shards
+iter 3710: loss 3.6542, time 2213.20ms, mfu 2.26%
+iter 3711: loss 3.3357, time 47.97ms, mfu 2.29%
+iter 3712: loss 3.3001, time 49.02ms, mfu 2.31%
+iter 3713: loss 3.8313, time 46.02ms, mfu 2.35%
+iter 3714: loss 3.5455, time 48.52ms, mfu 2.37%
+iter 3715: loss 4.1094, time 42.81ms, mfu 2.42%
+iter 3716: loss 3.6706, time 47.67ms, mfu 2.43%
+iter 3717: loss 3.8469, time 48.63ms, mfu 2.44%
+iter 3718: loss 3.7092, time 46.81ms, mfu 2.46%
+iter 3719: loss 3.6369, time 46.11ms, mfu 2.48%
+step 3720: train loss 3.7201, val loss 5.0221
+saving checkpoint to out-wikipedia-shards
+iter 3720: loss 4.0376, time 1965.21ms, mfu 2.24%
+iter 3721: loss 3.8664, time 51.51ms, mfu 2.25%
+iter 3722: loss 3.8007, time 52.70ms, mfu 2.26%
+iter 3723: loss 4.2866, time 49.49ms, mfu 2.28%
+iter 3724: loss 4.1064, time 50.36ms, mfu 2.30%
+iter 3725: loss 4.1267, time 51.69ms, mfu 2.30%
+iter 3726: loss 4.3849, time 51.63ms, mfu 2.31%
+iter 3727: loss 3.8254, time 48.93ms, mfu 2.33%
+iter 3728: loss 4.0363, time 51.80ms, mfu 2.33%
+iter 3729: loss 3.7250, time 52.54ms, mfu 2.33%
+step 3730: train loss 3.7044, val loss 5.0178
+saving checkpoint to out-wikipedia-shards
+iter 3730: loss 3.4111, time 1927.06ms, mfu 2.11%
+iter 3731: loss 4.3846, time 42.62ms, mfu 2.18%
+iter 3732: loss 4.0054, time 48.74ms, mfu 2.22%
+iter 3733: loss 4.1169, time 39.25ms, mfu 2.31%
+iter 3734: loss 4.1418, time 41.91ms, mfu 2.37%
+iter 3735: loss 4.0129, time 42.23ms, mfu 2.42%
+iter 3736: loss 3.1418, time 43.53ms, mfu 2.46%
+iter 3737: loss 3.9436, time 43.34ms, mfu 2.50%
+iter 3738: loss 3.9812, time 44.38ms, mfu 2.52%
+iter 3739: loss 3.7901, time 45.53ms, mfu 2.54%
+step 3740: train loss 3.6874, val loss 5.0051
+saving checkpoint to out-wikipedia-shards
+iter 3740: loss 3.4230, time 1496.30ms, mfu 2.30%
+iter 3741: loss 3.6363, time 48.10ms, mfu 2.32%
+iter 3742: loss 3.6767, time 38.12ms, mfu 2.41%
+iter 3743: loss 3.7709, time 42.86ms, mfu 2.45%
+iter 3744: loss 3.5036, time 43.69ms, mfu 2.49%
+iter 3745: loss 4.0283, time 41.90ms, mfu 2.53%
+iter 3746: loss 3.6884, time 42.50ms, mfu 2.57%
+iter 3747: loss 3.7077, time 42.35ms, mfu 2.60%
+iter 3748: loss 3.8131, time 42.86ms, mfu 2.63%
+iter 3749: loss 3.8492, time 43.37ms, mfu 2.65%
+step 3750: train loss 3.6457, val loss 5.0317
+saving checkpoint to out-wikipedia-shards
+iter 3750: loss 4.0162, time 2009.46ms, mfu 2.39%
+iter 3751: loss 3.9990, time 42.74ms, mfu 2.44%
+iter 3752: loss 3.6761, time 41.80ms, mfu 2.49%
+iter 3753: loss 3.4539, time 42.56ms, mfu 2.52%
+iter 3754: loss 3.6269, time 42.66ms, mfu 2.56%
+iter 3755: loss 3.6717, time 42.55ms, mfu 2.59%
+iter 3756: loss 3.7303, time 42.90ms, mfu 2.62%
+iter 3757: loss 4.2724, time 42.94ms, mfu 2.64%
+iter 3758: loss 3.4290, time 42.54ms, mfu 2.67%
+iter 3759: loss 4.1618, time 43.97ms, mfu 2.68%
+step 3760: train loss 3.7286, val loss 5.0516
+saving checkpoint to out-wikipedia-shards
+iter 3760: loss 3.9456, time 1507.57ms, mfu 2.42%
+iter 3761: loss 3.3204, time 41.26ms, mfu 2.47%
+iter 3762: loss 4.1314, time 43.09ms, mfu 2.51%
+iter 3763: loss 4.1054, time 42.80ms, mfu 2.55%
+iter 3764: loss 4.0621, time 42.45ms, mfu 2.58%
+iter 3765: loss 3.9488, time 43.35ms, mfu 2.60%
+iter 3766: loss 3.5443, time 42.19ms, mfu 2.63%
+iter 3767: loss 3.8035, time 44.89ms, mfu 2.64%
+iter 3768: loss 3.6848, time 42.84ms, mfu 2.67%
+iter 3769: loss 4.0668, time 45.05ms, mfu 2.67%
+step 3770: train loss 3.6975, val loss 5.0141
+saving checkpoint to out-wikipedia-shards
+iter 3770: loss 3.5479, time 1814.58ms, mfu 2.41%
+iter 3771: loss 3.4358, time 40.54ms, mfu 2.47%
+iter 3772: loss 3.7894, time 42.59ms, mfu 2.51%
+iter 3773: loss 4.1462, time 42.23ms, mfu 2.55%
+iter 3774: loss 3.9476, time 43.76ms, mfu 2.58%
+iter 3775: loss 3.9939, time 43.53ms, mfu 2.60%
+iter 3776: loss 3.9958, time 42.21ms, mfu 2.63%
+iter 3777: loss 4.4205, time 43.50ms, mfu 2.65%
+iter 3778: loss 3.8928, time 41.67ms, mfu 2.68%
+iter 3779: loss 3.3031, time 42.80ms, mfu 2.70%
+step 3780: train loss 3.7039, val loss 4.9753
+saving checkpoint to out-wikipedia-shards
+iter 3780: loss 3.9872, time 1512.52ms, mfu 2.44%
+iter 3781: loss 3.9223, time 40.10ms, mfu 2.50%
+iter 3782: loss 3.8657, time 42.39ms, mfu 2.54%
+iter 3783: loss 4.0889, time 42.79ms, mfu 2.57%
+iter 3784: loss 3.4524, time 43.27ms, mfu 2.60%
+iter 3785: loss 3.8199, time 42.13ms, mfu 2.63%
+iter 3786: loss 3.8324, time 42.79ms, mfu 2.65%
+iter 3787: loss 4.1213, time 47.73ms, mfu 2.64%
+iter 3788: loss 4.1124, time 41.31ms, mfu 2.68%
+iter 3789: loss 3.9507, time 42.84ms, mfu 2.69%
+step 3790: train loss 3.6921, val loss 5.0424
+saving checkpoint to out-wikipedia-shards
+iter 3790: loss 4.0988, time 1510.90ms, mfu 2.43%
+iter 3791: loss 3.8328, time 42.40ms, mfu 2.48%
+iter 3792: loss 3.7027, time 43.81ms, mfu 2.51%
+iter 3793: loss 3.8898, time 42.02ms, mfu 2.55%
+iter 3794: loss 3.5213, time 42.35ms, mfu 2.59%
+iter 3795: loss 3.9785, time 42.52ms, mfu 2.61%
+iter 3796: loss 3.8947, time 42.95ms, mfu 2.64%
+iter 3797: loss 4.3141, time 42.43ms, mfu 2.66%
+iter 3798: loss 4.0314, time 42.72ms, mfu 2.68%
+iter 3799: loss 3.8403, time 42.65ms, mfu 2.70%
+step 3800: train loss 3.6713, val loss 4.9646
+saving checkpoint to out-wikipedia-shards
+iter 3800: loss 4.1970, time 1501.60ms, mfu 2.44%
+iter 3801: loss 3.6657, time 43.39ms, mfu 2.48%
+iter 3802: loss 3.8188, time 43.92ms, mfu 2.51%
+iter 3803: loss 3.6799, time 41.06ms, mfu 2.56%
+iter 3804: loss 3.6561, time 43.03ms, mfu 2.59%
+iter 3805: loss 3.8654, time 42.85ms, mfu 2.61%
+iter 3806: loss 4.6302, time 43.62ms, mfu 2.63%
+iter 3807: loss 4.2699, time 42.47ms, mfu 2.66%
+iter 3808: loss 2.9341, time 44.82ms, mfu 2.67%
+iter 3809: loss 3.7533, time 46.91ms, mfu 2.66%
+step 3810: train loss 3.7029, val loss 4.9338
+saving checkpoint to out-wikipedia-shards
+iter 3810: loss 4.0169, time 1518.87ms, mfu 2.40%
+iter 3811: loss 3.7925, time 42.39ms, mfu 2.45%
+iter 3812: loss 3.3542, time 42.46ms, mfu 2.50%
+iter 3813: loss 3.4461, time 43.56ms, mfu 2.53%
+iter 3814: loss 3.8138, time 43.03ms, mfu 2.56%
+iter 3815: loss 3.8725, time 42.55ms, mfu 2.59%
+iter 3816: loss 3.2565, time 43.94ms, mfu 2.61%
+iter 3817: loss 3.5008, time 44.90ms, mfu 2.62%
+iter 3818: loss 3.9288, time 43.38ms, mfu 2.64%
+iter 3819: loss 3.8617, time 44.32ms, mfu 2.66%
+step 3820: train loss 3.7057, val loss 5.0203
+saving checkpoint to out-wikipedia-shards
+iter 3820: loss 3.8168, time 1622.26ms, mfu 2.40%
+iter 3821: loss 4.1417, time 47.38ms, mfu 2.42%
+iter 3822: loss 3.2773, time 54.66ms, mfu 2.40%
+iter 3823: loss 4.2142, time 44.22ms, mfu 2.44%
+iter 3824: loss 4.0887, time 49.31ms, mfu 2.44%
+iter 3825: loss 3.9389, time 47.66ms, mfu 2.45%
+iter 3826: loss 4.1752, time 53.30ms, mfu 2.44%
+iter 3827: loss 3.7734, time 46.58ms, mfu 2.46%
+iter 3828: loss 4.1283, time 49.34ms, mfu 2.46%
+iter 3829: loss 3.2913, time 49.21ms, mfu 2.46%
+step 3830: train loss 3.6642, val loss 5.0573
+saving checkpoint to out-wikipedia-shards
+iter 3830: loss 3.7136, time 1737.99ms, mfu 2.22%
+iter 3831: loss 3.8159, time 41.62ms, mfu 2.30%
+iter 3832: loss 3.9214, time 42.97ms, mfu 2.35%
+iter 3833: loss 3.9108, time 42.64ms, mfu 2.40%
+iter 3834: loss 3.3437, time 42.99ms, mfu 2.45%
+iter 3835: loss 3.5076, time 42.79ms, mfu 2.49%
+iter 3836: loss 4.5959, time 43.17ms, mfu 2.53%
+iter 3837: loss 3.9918, time 44.19ms, mfu 2.55%
+iter 3838: loss 3.7992, time 41.78ms, mfu 2.59%
+iter 3839: loss 3.4108, time 43.97ms, mfu 2.61%
+step 3840: train loss 3.7226, val loss 4.9330
+saving checkpoint to out-wikipedia-shards
+iter 3840: loss 3.7063, time 1494.88ms, mfu 2.36%
+iter 3841: loss 3.6276, time 43.58ms, mfu 2.40%
+iter 3842: loss 4.1609, time 42.88ms, mfu 2.45%
+iter 3843: loss 3.6842, time 43.07ms, mfu 2.49%
+iter 3844: loss 3.4674, time 42.91ms, mfu 2.52%
+iter 3845: loss 3.6650, time 41.97ms, mfu 2.56%
+iter 3846: loss 3.8320, time 42.48ms, mfu 2.60%
+iter 3847: loss 3.5949, time 42.46ms, mfu 2.62%
+iter 3848: loss 3.3726, time 44.53ms, mfu 2.64%
+iter 3849: loss 3.8031, time 46.07ms, mfu 2.64%
+step 3850: train loss 3.6917, val loss 4.9072
+saving checkpoint to out-wikipedia-shards
+iter 3850: loss 3.8046, time 1493.50ms, mfu 2.38%
+iter 3851: loss 3.5693, time 42.15ms, mfu 2.44%
+iter 3852: loss 4.2015, time 43.17ms, mfu 2.48%
+iter 3853: loss 3.9034, time 42.21ms, mfu 2.52%
+iter 3854: loss 3.4699, time 42.64ms, mfu 2.55%
+iter 3855: loss 3.4352, time 42.67ms, mfu 2.59%
+iter 3856: loss 3.8318, time 43.36ms, mfu 2.61%
+iter 3857: loss 4.3022, time 42.45ms, mfu 2.64%
+iter 3858: loss 3.4220, time 42.59ms, mfu 2.66%
+iter 3859: loss 4.4678, time 42.47ms, mfu 2.68%
+step 3860: train loss 3.7038, val loss 4.9947
+saving checkpoint to out-wikipedia-shards
+iter 3860: loss 3.4546, time 1497.15ms, mfu 2.42%
+iter 3861: loss 3.7934, time 42.71ms, mfu 2.47%
+iter 3862: loss 3.4966, time 42.41ms, mfu 2.51%
+iter 3863: loss 3.4517, time 44.22ms, mfu 2.54%
+iter 3864: loss 3.6943, time 42.48ms, mfu 2.57%
+iter 3865: loss 3.8340, time 42.83ms, mfu 2.60%
+iter 3866: loss 3.5386, time 42.29ms, mfu 2.63%
+iter 3867: loss 3.9909, time 43.33ms, mfu 2.65%
+iter 3868: loss 4.3391, time 42.38ms, mfu 2.67%
+iter 3869: loss 3.7193, time 43.20ms, mfu 2.69%
+step 3870: train loss 3.6890, val loss 4.9553
+saving checkpoint to out-wikipedia-shards
+iter 3870: loss 4.1014, time 1555.08ms, mfu 2.43%
+iter 3871: loss 3.9411, time 48.70ms, mfu 2.44%
+iter 3872: loss 3.9567, time 48.01ms, mfu 2.45%
+iter 3873: loss 3.8563, time 49.68ms, mfu 2.45%
+iter 3874: loss 3.7339, time 49.05ms, mfu 2.46%
+iter 3875: loss 3.6678, time 49.07ms, mfu 2.46%
+iter 3876: loss 3.7099, time 48.98ms, mfu 2.46%
+iter 3877: loss 3.8750, time 49.10ms, mfu 2.47%
+iter 3878: loss 4.3551, time 49.78ms, mfu 2.47%
+iter 3879: loss 3.6947, time 51.94ms, mfu 2.46%
+step 3880: train loss 3.7265, val loss 4.9833
+saving checkpoint to out-wikipedia-shards
+iter 3880: loss 3.8396, time 1702.56ms, mfu 2.22%
+iter 3881: loss 3.5729, time 46.98ms, mfu 2.26%
+iter 3882: loss 3.6882, time 47.89ms, mfu 2.29%
+iter 3883: loss 3.6547, time 46.22ms, mfu 2.32%
+iter 3884: loss 4.1739, time 47.19ms, mfu 2.35%
+iter 3885: loss 3.9199, time 48.36ms, mfu 2.37%
+iter 3886: loss 3.3628, time 48.12ms, mfu 2.39%
+iter 3887: loss 3.8001, time 52.23ms, mfu 2.38%
+iter 3888: loss 3.7648, time 51.95ms, mfu 2.38%
+iter 3889: loss 4.2833, time 50.90ms, mfu 2.38%
+step 3890: train loss 3.6801, val loss 5.0442
+saving checkpoint to out-wikipedia-shards
+iter 3890: loss 4.1647, time 1533.41ms, mfu 2.15%
+iter 3891: loss 3.8160, time 43.29ms, mfu 2.22%
+iter 3892: loss 3.7143, time 43.93ms, mfu 2.28%
+iter 3893: loss 3.6948, time 44.08ms, mfu 2.33%
+iter 3894: loss 3.3782, time 42.62ms, mfu 2.38%
+iter 3895: loss 3.7588, time 42.51ms, mfu 2.43%
+iter 3896: loss 3.9358, time 42.85ms, mfu 2.48%
+iter 3897: loss 3.9054, time 42.86ms, mfu 2.51%
+iter 3898: loss 4.0210, time 42.70ms, mfu 2.55%
+iter 3899: loss 4.2193, time 42.89ms, mfu 2.58%
+step 3900: train loss 3.6957, val loss 5.0361
+saving checkpoint to out-wikipedia-shards
+iter 3900: loss 3.4955, time 1507.16ms, mfu 2.33%
+iter 3901: loss 3.4151, time 42.64ms, mfu 2.38%
+iter 3902: loss 3.6681, time 42.95ms, mfu 2.43%
+iter 3903: loss 3.5852, time 42.35ms, mfu 2.48%
+iter 3904: loss 4.3125, time 42.84ms, mfu 2.52%
+iter 3905: loss 4.1109, time 42.51ms, mfu 2.55%
+iter 3906: loss 3.8651, time 42.95ms, mfu 2.58%
+iter 3907: loss 3.5924, time 45.24ms, mfu 2.60%
+iter 3908: loss 3.9377, time 47.04ms, mfu 2.60%
+iter 3909: loss 3.7628, time 45.42ms, mfu 2.61%
+step 3910: train loss 3.7427, val loss 5.0236
+saving checkpoint to out-wikipedia-shards
+iter 3910: loss 3.8107, time 1513.19ms, mfu 2.35%
+iter 3911: loss 4.0482, time 42.67ms, mfu 2.41%
+iter 3912: loss 3.6450, time 43.02ms, mfu 2.45%
+iter 3913: loss 4.1559, time 43.53ms, mfu 2.49%
+iter 3914: loss 3.3124, time 42.67ms, mfu 2.53%
+iter 3915: loss 4.3782, time 42.56ms, mfu 2.56%
+iter 3916: loss 3.6207, time 42.68ms, mfu 2.59%
+iter 3917: loss 3.2355, time 42.83ms, mfu 2.62%
+iter 3918: loss 3.5101, time 42.90ms, mfu 2.64%
+iter 3919: loss 3.8349, time 42.37ms, mfu 2.67%
+step 3920: train loss 3.6606, val loss 4.9959
+saving checkpoint to out-wikipedia-shards
+iter 3920: loss 3.9683, time 1506.31ms, mfu 2.41%
+iter 3921: loss 3.7658, time 41.41ms, mfu 2.46%
+iter 3922: loss 4.1773, time 42.98ms, mfu 2.50%
+iter 3923: loss 3.8147, time 44.88ms, mfu 2.53%
+iter 3924: loss 3.5852, time 47.70ms, mfu 2.53%
+iter 3925: loss 3.7793, time 41.80ms, mfu 2.57%
+iter 3926: loss 3.7861, time 42.24ms, mfu 2.60%
+iter 3927: loss 3.5852, time 42.17ms, mfu 2.63%
+iter 3928: loss 3.5998, time 42.80ms, mfu 2.66%
+iter 3929: loss 3.7171, time 43.10ms, mfu 2.68%
+step 3930: train loss 3.7359, val loss 4.9832
+saving checkpoint to out-wikipedia-shards
+iter 3930: loss 3.7803, time 1499.06ms, mfu 2.42%
+iter 3931: loss 3.4037, time 43.14ms, mfu 2.46%
+iter 3932: loss 3.5271, time 42.46ms, mfu 2.50%
+iter 3933: loss 3.2526, time 42.65ms, mfu 2.54%
+iter 3934: loss 4.0742, time 42.83ms, mfu 2.57%
+iter 3935: loss 3.9806, time 42.92ms, mfu 2.60%
+iter 3936: loss 3.8687, time 42.65ms, mfu 2.63%
+iter 3937: loss 4.1611, time 42.82ms, mfu 2.65%
+iter 3938: loss 3.8141, time 42.68ms, mfu 2.67%
+iter 3939: loss 4.1689, time 42.52ms, mfu 2.69%
+step 3940: train loss 3.7078, val loss 4.9809
+saving checkpoint to out-wikipedia-shards
+iter 3940: loss 4.0856, time 1517.14ms, mfu 2.43%
+iter 3941: loss 3.6657, time 42.52ms, mfu 2.48%
+iter 3942: loss 3.8998, time 43.69ms, mfu 2.51%
+iter 3943: loss 3.7004, time 43.21ms, mfu 2.54%
+iter 3944: loss 3.7680, time 41.40ms, mfu 2.58%
+iter 3945: loss 4.2737, time 42.81ms, mfu 2.61%
+iter 3946: loss 3.9038, time 43.12ms, mfu 2.64%
+iter 3947: loss 3.5699, time 43.77ms, mfu 2.65%
+iter 3948: loss 4.1348, time 44.09ms, mfu 2.66%
+iter 3949: loss 4.3587, time 44.46ms, mfu 2.67%
+step 3950: train loss 3.6648, val loss 5.0311
+saving checkpoint to out-wikipedia-shards
+iter 3950: loss 3.4237, time 1515.84ms, mfu 2.41%
+iter 3951: loss 3.8582, time 42.77ms, mfu 2.46%
+iter 3952: loss 4.0762, time 47.64ms, mfu 2.47%
+iter 3953: loss 4.2335, time 41.12ms, mfu 2.52%
+iter 3954: loss 3.2911, time 43.13ms, mfu 2.55%
+iter 3955: loss 3.7557, time 42.89ms, mfu 2.58%
+iter 3956: loss 3.4812, time 42.27ms, mfu 2.62%
+iter 3957: loss 3.7463, time 42.90ms, mfu 2.64%
+iter 3958: loss 3.8024, time 43.07ms, mfu 2.66%
+iter 3959: loss 3.6723, time 42.40ms, mfu 2.68%
+step 3960: train loss 3.7162, val loss 4.9585
+saving checkpoint to out-wikipedia-shards
+iter 3960: loss 3.1210, time 1527.57ms, mfu 2.42%
+iter 3961: loss 3.8037, time 44.93ms, mfu 2.45%
+iter 3962: loss 3.3396, time 42.02ms, mfu 2.50%
+iter 3963: loss 4.1867, time 42.18ms, mfu 2.54%
+iter 3964: loss 4.2700, time 43.09ms, mfu 2.57%
+iter 3965: loss 3.9318, time 43.29ms, mfu 2.60%
+iter 3966: loss 3.6011, time 43.03ms, mfu 2.62%
+iter 3967: loss 3.8913, time 41.62ms, mfu 2.65%
+iter 3968: loss 3.0984, time 42.29ms, mfu 2.68%
+iter 3969: loss 3.5562, time 43.71ms, mfu 2.69%
+step 3970: train loss 3.6838, val loss 5.0146
+saving checkpoint to out-wikipedia-shards
+iter 3970: loss 4.1617, time 1530.35ms, mfu 2.43%
+iter 3971: loss 4.0899, time 43.26ms, mfu 2.47%
+iter 3972: loss 4.2414, time 41.87ms, mfu 2.52%
+iter 3973: loss 3.6251, time 45.15ms, mfu 2.54%
+iter 3974: loss 3.8049, time 46.98ms, mfu 2.54%
+iter 3975: loss 4.1537, time 39.37ms, mfu 2.60%
+iter 3976: loss 3.4929, time 43.23ms, mfu 2.62%
+iter 3977: loss 4.0129, time 42.47ms, mfu 2.65%
+iter 3978: loss 3.4460, time 41.43ms, mfu 2.68%
+iter 3979: loss 3.9748, time 43.41ms, mfu 2.69%
+step 3980: train loss 3.6535, val loss 4.9353
+saving checkpoint to out-wikipedia-shards
+iter 3980: loss 4.2168, time 1630.97ms, mfu 2.43%
+iter 3981: loss 3.9360, time 47.88ms, mfu 2.45%
+iter 3982: loss 3.5374, time 49.62ms, mfu 2.45%
+iter 3983: loss 4.0435, time 48.85ms, mfu 2.45%
+iter 3984: loss 3.9313, time 49.50ms, mfu 2.46%
+iter 3985: loss 4.1304, time 53.83ms, mfu 2.44%
+iter 3986: loss 3.5482, time 48.92ms, mfu 2.45%
+iter 3987: loss 4.0700, time 44.55ms, mfu 2.48%
+iter 3988: loss 4.1592, time 49.17ms, mfu 2.48%
+iter 3989: loss 3.6880, time 46.59ms, mfu 2.49%
+step 3990: train loss 3.7127, val loss 5.0202
+saving checkpoint to out-wikipedia-shards
+iter 3990: loss 3.2203, time 1665.82ms, mfu 2.25%
+iter 3991: loss 3.6891, time 42.40ms, mfu 2.31%
+iter 3992: loss 3.8982, time 43.51ms, mfu 2.36%
+iter 3993: loss 3.8434, time 42.39ms, mfu 2.42%
+iter 3994: loss 3.8548, time 43.08ms, mfu 2.46%
+iter 3995: loss 3.9016, time 43.20ms, mfu 2.50%
+iter 3996: loss 3.3661, time 43.30ms, mfu 2.53%
+iter 3997: loss 4.2480, time 43.95ms, mfu 2.56%
+iter 3998: loss 4.2453, time 44.62ms, mfu 2.58%
+iter 3999: loss 3.6774, time 44.42ms, mfu 2.59%
+step 4000: train loss 3.6743, val loss 4.9690
+saving checkpoint to out-wikipedia-shards
+iter 4000: loss 4.1597, time 1497.71ms, mfu 2.34%
+iter 4001: loss 3.6340, time 42.40ms, mfu 2.40%
+iter 4002: loss 3.9237, time 42.31ms, mfu 2.45%
+iter 4003: loss 3.8637, time 42.91ms, mfu 2.49%
+iter 4004: loss 3.5623, time 42.72ms, mfu 2.53%
+iter 4005: loss 3.5457, time 42.16ms, mfu 2.56%
+iter 4006: loss 4.1842, time 45.00ms, mfu 2.58%
+iter 4007: loss 3.7796, time 47.32ms, mfu 2.58%
+iter 4008: loss 4.2361, time 45.15ms, mfu 2.59%
+iter 4009: loss 3.9739, time 42.99ms, mfu 2.62%
+step 4010: train loss 3.6701, val loss 4.9929
+saving checkpoint to out-wikipedia-shards
+iter 4010: loss 4.0677, time 1498.08ms, mfu 2.37%
+iter 4011: loss 4.4504, time 40.50ms, mfu 2.43%
+iter 4012: loss 3.9733, time 41.14ms, mfu 2.49%
+iter 4013: loss 3.2325, time 42.25ms, mfu 2.53%
+iter 4014: loss 3.4816, time 42.78ms, mfu 2.56%
+iter 4015: loss 3.2182, time 42.52ms, mfu 2.59%
+iter 4016: loss 3.9730, time 42.58ms, mfu 2.62%
+iter 4017: loss 4.1804, time 42.82ms, mfu 2.65%
+iter 4018: loss 3.6645, time 42.78ms, mfu 2.67%
+iter 4019: loss 3.4885, time 44.81ms, mfu 2.68%
+step 4020: train loss 3.6086, val loss 5.0138
+saving checkpoint to out-wikipedia-shards
+iter 4020: loss 3.7370, time 1511.36ms, mfu 2.42%
+iter 4021: loss 4.4653, time 49.75ms, mfu 2.42%
+iter 4022: loss 3.4668, time 36.53ms, mfu 2.51%
+iter 4023: loss 3.7520, time 43.30ms, mfu 2.55%
+iter 4024: loss 3.9023, time 45.23ms, mfu 2.56%
+iter 4025: loss 3.9121, time 47.52ms, mfu 2.56%
+iter 4026: loss 3.7267, time 49.96ms, mfu 2.55%
+iter 4027: loss 3.8386, time 43.24ms, mfu 2.58%
+iter 4028: loss 3.7701, time 46.62ms, mfu 2.59%
+iter 4029: loss 4.0410, time 49.15ms, mfu 2.58%
+step 4030: train loss 3.6572, val loss 4.9404
+saving checkpoint to out-wikipedia-shards
+iter 4030: loss 3.5629, time 1575.88ms, mfu 2.33%
+iter 4031: loss 3.8448, time 45.56ms, mfu 2.36%
+iter 4032: loss 3.7592, time 48.03ms, mfu 2.38%
+iter 4033: loss 3.9871, time 45.53ms, mfu 2.41%
+iter 4034: loss 3.8142, time 45.45ms, mfu 2.44%
+iter 4035: loss 3.2932, time 45.14ms, mfu 2.47%
+iter 4036: loss 4.1471, time 44.51ms, mfu 2.50%
+iter 4037: loss 4.4644, time 44.06ms, mfu 2.53%
+iter 4038: loss 3.9727, time 46.42ms, mfu 2.54%
+iter 4039: loss 3.7460, time 45.94ms, mfu 2.55%
+step 4040: train loss 3.7178, val loss 5.0231
+saving checkpoint to out-wikipedia-shards
+iter 4040: loss 3.8904, time 1660.84ms, mfu 2.30%
+iter 4041: loss 3.5797, time 48.03ms, mfu 2.33%
+iter 4042: loss 4.0148, time 47.20ms, mfu 2.35%
+iter 4043: loss 3.6617, time 46.05ms, mfu 2.38%
+iter 4044: loss 3.6102, time 45.73ms, mfu 2.41%
+iter 4045: loss 3.6985, time 47.91ms, mfu 2.43%
+iter 4046: loss 4.4042, time 47.09ms, mfu 2.45%
+iter 4047: loss 3.7348, time 49.30ms, mfu 2.45%
+iter 4048: loss 3.9465, time 46.62ms, mfu 2.47%
+iter 4049: loss 3.9484, time 47.53ms, mfu 2.48%
+step 4050: train loss 3.6784, val loss 4.9636
+saving checkpoint to out-wikipedia-shards
+iter 4050: loss 3.8336, time 1831.77ms, mfu 2.24%
+iter 4051: loss 3.9970, time 41.84ms, mfu 2.31%
+iter 4052: loss 3.5638, time 46.97ms, mfu 2.34%
+iter 4053: loss 3.5852, time 53.56ms, mfu 2.33%
+iter 4054: loss 3.6351, time 58.67ms, mfu 2.31%
+iter 4055: loss 3.5222, time 60.19ms, mfu 2.28%
+iter 4056: loss 3.9168, time 53.62ms, mfu 2.28%
+iter 4057: loss 3.7189, time 44.70ms, mfu 2.33%
+iter 4058: loss 3.6190, time 45.57ms, mfu 2.36%
+iter 4059: loss 3.5847, time 45.57ms, mfu 2.40%
+step 4060: train loss 3.6279, val loss 4.9834
+saving checkpoint to out-wikipedia-shards
+iter 4060: loss 3.8410, time 1601.45ms, mfu 2.16%
+iter 4061: loss 3.8624, time 42.87ms, mfu 2.23%
+iter 4062: loss 3.7556, time 44.16ms, mfu 2.29%
+iter 4063: loss 3.4082, time 42.29ms, mfu 2.35%
+iter 4064: loss 3.7486, time 43.39ms, mfu 2.40%
+iter 4065: loss 4.0471, time 42.79ms, mfu 2.44%
+iter 4066: loss 3.7027, time 43.06ms, mfu 2.48%
+iter 4067: loss 3.8545, time 43.14ms, mfu 2.52%
+iter 4068: loss 3.3967, time 43.43ms, mfu 2.55%
+iter 4069: loss 3.4536, time 43.28ms, mfu 2.58%
+Traceback (most recent call last):
+  File "/home/arian/projects/curricular_learning/nanoGPT/train.py", line 261, in <module>
+    losses = estimate_loss()
+             ^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/projects/curricular_learning/nanoGPT/train.py", line 221, in estimate_loss
+    logits, loss = model(X, Y)
+                   ^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_dynamo/eval_frame.py", line 328, in _fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/projects/curricular_learning/nanoGPT/model.py", line 170, in forward
+    def forward(self, idx, targets=None):
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_dynamo/eval_frame.py", line 328, in _fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_dynamo/external_utils.py", line 17, in inner
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_functorch/aot_autograd.py", line 3905, in forward
+    return compiled_fn(full_args)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_functorch/aot_autograd.py", line 1482, in g
+    return f(*args)
+           ^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_functorch/aot_autograd.py", line 2533, in runtime_wrapper
+    all_outs = call_func_with_args(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_functorch/aot_autograd.py", line 1506, in call_func_with_args
+    out = normalize_as_list(f(args))
+                            ^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_functorch/aot_autograd.py", line 1594, in rng_functionalization_wrapper
+    return compiled_fw(args)
+           ^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_inductor/codecache.py", line 374, in __call__
+    return self.get_current_callable()(inputs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_inductor/compile_fx.py", line 628, in run
+    return model(new_inputs)
+           ^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_inductor/codecache.py", line 401, in _run_from_cache
+    return compiled_graph.compiled_artifact(inputs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/torchinductor_arian/v3/cv3mcak3nrko5g72xshexe4h4n2lkatdmljflblfhhhdpwexbxwm.py", line 1060, in call
+    extern_kernels.mm(reinterpret_tensor(buf93, (2048, 384), (384, 1), 0), reinterpret_tensor(buf94, (384, 1152), (1, 384), 0), out=buf95)
+KeyboardInterrupt

@@ -1,0 +1,331 @@
+
+step 0: train loss 10.8457, val loss 10.8826
+iter 0: loss 10.8540, time 19565.02ms, mfu -100.00%
+iter 5: loss 10.1931, time 10.55ms, mfu 11.62%
+step 10: train loss 7.3892, val loss 8.7279
+saving checkpoint to out-wikipedia-shards
+iter 10: loss 7.5304, time 1589.06ms, mfu 10.46%
+iter 15: loss 6.4476, time 9.57ms, mfu 10.70%
+step 20: train loss 6.0447, val loss 8.5073
+saving checkpoint to out-wikipedia-shards
+iter 20: loss 5.7836, time 1546.05ms, mfu 9.63%
+iter 25: loss 6.2325, time 9.40ms, mfu 9.98%
+step 30: train loss 5.7682, val loss 8.4462
+saving checkpoint to out-wikipedia-shards
+iter 30: loss 5.3370, time 1533.04ms, mfu 8.99%
+iter 35: loss 5.5844, time 9.47ms, mfu 9.38%
+step 40: train loss 5.4622, val loss 8.2803
+saving checkpoint to out-wikipedia-shards
+iter 40: loss 5.9127, time 1542.60ms, mfu 8.45%
+iter 45: loss 5.5110, time 9.19ms, mfu 8.94%
+step 50: train loss 5.2265, val loss 8.1856
+saving checkpoint to out-wikipedia-shards
+iter 50: loss 5.5512, time 1550.14ms, mfu 8.05%
+iter 55: loss 5.0437, time 9.83ms, mfu 8.50%
+step 60: train loss 4.9880, val loss 8.1416
+saving checkpoint to out-wikipedia-shards
+iter 60: loss 4.9401, time 1555.28ms, mfu 7.65%
+iter 65: loss 5.3648, time 9.91ms, mfu 8.12%
+step 70: train loss 4.8652, val loss 7.9277
+saving checkpoint to out-wikipedia-shards
+iter 70: loss 4.7637, time 1542.30ms, mfu 7.32%
+iter 75: loss 4.9020, time 9.73ms, mfu 7.85%
+step 80: train loss 4.7288, val loss 7.8888
+saving checkpoint to out-wikipedia-shards
+iter 80: loss 4.4933, time 1601.45ms, mfu 7.07%
+iter 85: loss 4.0130, time 9.07ms, mfu 7.71%
+step 90: train loss 4.5774, val loss 7.7711
+saving checkpoint to out-wikipedia-shards
+iter 90: loss 4.7319, time 1558.78ms, mfu 6.95%
+iter 95: loss 4.9098, time 9.00ms, mfu 7.62%
+step 100: train loss 4.4090, val loss 7.7096
+saving checkpoint to out-wikipedia-shards
+iter 100: loss 4.9051, time 1539.30ms, mfu 6.86%
+iter 105: loss 4.9443, time 8.96ms, mfu 7.55%
+step 110: train loss 4.3430, val loss 7.5988
+saving checkpoint to out-wikipedia-shards
+iter 110: loss 4.3156, time 1555.05ms, mfu 6.80%
+iter 115: loss 4.2358, time 9.19ms, mfu 7.45%
+step 120: train loss 4.2135, val loss 7.5490
+saving checkpoint to out-wikipedia-shards
+iter 120: loss 4.4139, time 1570.76ms, mfu 6.71%
+iter 125: loss 3.9864, time 9.66ms, mfu 7.31%
+step 130: train loss 4.1719, val loss 7.5976
+iter 130: loss 4.4043, time 1140.01ms, mfu 6.59%
+iter 135: loss 4.7205, time 8.84ms, mfu 7.32%
+step 140: train loss 4.1429, val loss 7.4942
+saving checkpoint to out-wikipedia-shards
+iter 140: loss 3.2442, time 1549.58ms, mfu 6.60%
+iter 145: loss 4.1592, time 9.39ms, mfu 7.24%
+step 150: train loss 4.0953, val loss 7.4440
+saving checkpoint to out-wikipedia-shards
+iter 150: loss 4.0584, time 1566.59ms, mfu 6.52%
+iter 155: loss 4.2919, time 9.32ms, mfu 7.19%
+step 160: train loss 4.0408, val loss 7.3403
+saving checkpoint to out-wikipedia-shards
+iter 160: loss 3.6978, time 1553.65ms, mfu 6.48%
+iter 165: loss 3.9072, time 8.63ms, mfu 7.25%
+step 170: train loss 4.0496, val loss 7.5493
+iter 170: loss 4.0819, time 1418.43ms, mfu 6.53%
+iter 175: loss 4.0921, time 12.00ms, mfu 6.90%
+step 180: train loss 3.9959, val loss 7.5824
+iter 180: loss 3.4774, time 1212.36ms, mfu 6.22%
+iter 185: loss 3.9369, time 9.59ms, mfu 6.88%
+step 190: train loss 3.8198, val loss 7.4618
+iter 190: loss 3.7653, time 1313.88ms, mfu 6.20%
+iter 195: loss 3.7239, time 10.64ms, mfu 6.73%
+step 200: train loss 3.8832, val loss 7.4037
+iter 200: loss 4.3000, time 1186.13ms, mfu 6.07%
+iter 205: loss 4.2316, time 10.14ms, mfu 6.67%
+step 210: train loss 3.7807, val loss 7.3783
+iter 210: loss 3.6085, time 1299.29ms, mfu 6.01%
+iter 215: loss 3.4590, time 10.74ms, mfu 6.55%
+step 220: train loss 3.7729, val loss 7.3887
+iter 220: loss 2.9686, time 1207.89ms, mfu 5.91%
+iter 225: loss 3.4131, time 9.09ms, mfu 6.66%
+step 230: train loss 3.7287, val loss 7.3192
+saving checkpoint to out-wikipedia-shards
+iter 230: loss 4.0524, time 1869.66ms, mfu 6.00%
+iter 235: loss 3.9954, time 8.84ms, mfu 6.79%
+step 240: train loss 3.7226, val loss 7.3347
+iter 240: loss 4.2512, time 1192.91ms, mfu 6.12%
+iter 245: loss 3.9129, time 9.80ms, mfu 6.76%
+step 250: train loss 3.6342, val loss 7.3263
+iter 250: loss 4.4013, time 1195.74ms, mfu 6.09%
+iter 255: loss 3.9959, time 9.02ms, mfu 6.84%
+step 260: train loss 3.6177, val loss 7.2662
+saving checkpoint to out-wikipedia-shards
+iter 260: loss 3.6374, time 1577.38ms, mfu 6.17%
+iter 265: loss 3.5187, time 10.68ms, mfu 6.70%
+step 270: train loss 3.5524, val loss 7.2150
+saving checkpoint to out-wikipedia-shards
+iter 270: loss 4.5076, time 1645.04ms, mfu 6.03%
+iter 275: loss 3.2118, time 10.23ms, mfu 6.63%
+step 280: train loss 3.5179, val loss 7.3717
+iter 280: loss 3.4482, time 1146.03ms, mfu 5.98%
+iter 285: loss 3.6043, time 9.67ms, mfu 6.65%
+step 290: train loss 3.5037, val loss 7.3242
+iter 290: loss 3.5411, time 1144.80ms, mfu 5.99%
+iter 295: loss 2.8011, time 8.98ms, mfu 6.76%
+step 300: train loss 3.5054, val loss 7.1938
+saving checkpoint to out-wikipedia-shards
+iter 300: loss 3.5519, time 1544.47ms, mfu 6.09%
+iter 305: loss 3.1994, time 8.59ms, mfu 6.91%
+step 310: train loss 3.3875, val loss 7.2570
+iter 310: loss 3.4804, time 1150.34ms, mfu 6.23%
+iter 315: loss 3.0875, time 10.01ms, mfu 6.83%
+step 320: train loss 3.3920, val loss 7.2688
+iter 320: loss 3.7928, time 1213.81ms, mfu 6.16%
+iter 325: loss 3.6554, time 16.44ms, mfu 6.29%
+step 330: train loss 3.3640, val loss 7.3282
+iter 330: loss 3.6344, time 1232.57ms, mfu 5.67%
+iter 335: loss 3.6340, time 9.95ms, mfu 6.33%
+step 340: train loss 3.3334, val loss 7.2129
+iter 340: loss 3.6270, time 1202.48ms, mfu 5.71%
+iter 345: loss 3.1516, time 13.33ms, mfu 6.06%
+step 350: train loss 3.2590, val loss 7.2046
+iter 350: loss 2.8578, time 1386.40ms, mfu 5.46%
+iter 355: loss 3.2974, time 11.57ms, mfu 5.98%
+step 360: train loss 3.2630, val loss 7.1887
+saving checkpoint to out-wikipedia-shards
+iter 360: loss 2.8010, time 1644.03ms, mfu 5.39%
+iter 365: loss 3.6467, time 10.42ms, mfu 6.02%
+step 370: train loss 3.1755, val loss 7.1561
+saving checkpoint to out-wikipedia-shards
+iter 370: loss 3.2813, time 1635.96ms, mfu 5.43%
+iter 375: loss 2.6723, time 9.76ms, mfu 6.14%
+step 380: train loss 3.1914, val loss 7.3333
+iter 380: loss 3.1351, time 1178.16ms, mfu 5.54%
+iter 385: loss 3.1039, time 10.10ms, mfu 6.20%
+step 390: train loss 3.0932, val loss 7.1665
+iter 390: loss 3.1140, time 1245.64ms, mfu 5.59%
+iter 395: loss 3.0627, time 9.33ms, mfu 6.34%
+step 400: train loss 3.1249, val loss 7.1097
+saving checkpoint to out-wikipedia-shards
+iter 400: loss 3.2015, time 1675.71ms, mfu 5.71%
+iter 405: loss 3.0566, time 12.15ms, mfu 6.15%
+step 410: train loss 3.1093, val loss 7.1801
+iter 410: loss 2.6021, time 1219.52ms, mfu 5.55%
+iter 415: loss 3.3285, time 9.42ms, mfu 6.29%
+step 420: train loss 3.0800, val loss 7.1788
+iter 420: loss 3.0356, time 1147.44ms, mfu 5.67%
+iter 425: loss 3.4488, time 9.21ms, mfu 6.44%
+step 430: train loss 3.0739, val loss 7.0800
+saving checkpoint to out-wikipedia-shards
+iter 430: loss 3.5727, time 1558.52ms, mfu 5.80%
+iter 435: loss 2.8461, time 9.47ms, mfu 6.52%
+step 440: train loss 3.0036, val loss 7.0077
+saving checkpoint to out-wikipedia-shards
+iter 440: loss 3.5456, time 1551.05ms, mfu 5.87%
+iter 445: loss 3.1157, time 9.28ms, mfu 6.61%
+step 450: train loss 3.0752, val loss 6.9988
+saving checkpoint to out-wikipedia-shards
+iter 450: loss 3.1803, time 1550.87ms, mfu 5.95%
+iter 455: loss 3.1223, time 9.57ms, mfu 6.64%
+step 460: train loss 2.9873, val loss 7.1394
+iter 460: loss 2.9823, time 1147.38ms, mfu 5.99%
+iter 465: loss 3.4862, time 9.76ms, mfu 6.64%
+step 470: train loss 2.9984, val loss 7.0767
+iter 470: loss 2.2290, time 1152.46ms, mfu 5.99%
+iter 475: loss 3.7476, time 12.04ms, mfu 6.41%
+step 480: train loss 2.9980, val loss 7.0234
+iter 480: loss 2.6564, time 1145.07ms, mfu 5.78%
+iter 485: loss 2.8719, time 10.77ms, mfu 6.34%
+step 490: train loss 2.9456, val loss 7.0569
+iter 490: loss 3.2089, time 1153.40ms, mfu 5.71%
+iter 495: loss 3.2848, time 10.16ms, mfu 6.35%
+step 500: train loss 2.9122, val loss 7.0931
+iter 500: loss 3.3240, time 1143.73ms, mfu 5.73%
+iter 505: loss 2.8592, time 10.57ms, mfu 6.31%
+step 510: train loss 2.9746, val loss 6.9548
+saving checkpoint to out-wikipedia-shards
+iter 510: loss 2.7922, time 1575.01ms, mfu 5.69%
+iter 515: loss 2.6592, time 9.20ms, mfu 6.45%
+step 520: train loss 2.9291, val loss 7.0470
+iter 520: loss 2.8951, time 1153.87ms, mfu 5.82%
+iter 525: loss 3.3360, time 8.79ms, mfu 6.63%
+step 530: train loss 2.8558, val loss 7.1043
+iter 530: loss 2.5247, time 1134.72ms, mfu 5.98%
+iter 535: loss 3.3247, time 9.10ms, mfu 6.73%
+step 540: train loss 2.8567, val loss 7.0496
+iter 540: loss 2.7261, time 1151.63ms, mfu 6.07%
+iter 545: loss 3.2300, time 11.23ms, mfu 6.55%
+step 550: train loss 2.8068, val loss 7.0941
+iter 550: loss 2.9401, time 1138.58ms, mfu 5.91%
+iter 555: loss 3.2284, time 8.81ms, mfu 6.71%
+step 560: train loss 2.8344, val loss 7.0427
+iter 560: loss 2.7742, time 1151.14ms, mfu 6.05%
+iter 565: loss 3.4980, time 12.17ms, mfu 6.45%
+step 570: train loss 2.7901, val loss 7.0620
+iter 570: loss 3.1984, time 1145.21ms, mfu 5.81%
+iter 575: loss 2.6551, time 8.93ms, mfu 6.61%
+step 580: train loss 2.8314, val loss 7.1060
+iter 580: loss 2.6712, time 1146.56ms, mfu 5.96%
+iter 585: loss 3.5759, time 10.57ms, mfu 6.52%
+step 590: train loss 2.7525, val loss 7.1143
+iter 590: loss 2.4611, time 1155.99ms, mfu 5.88%
+iter 595: loss 3.2053, time 9.44ms, mfu 6.59%
+step 600: train loss 2.7742, val loss 7.1103
+iter 600: loss 2.7178, time 1151.32ms, mfu 5.94%
+iter 605: loss 2.8786, time 9.40ms, mfu 6.65%
+step 610: train loss 2.7466, val loss 7.0843
+iter 610: loss 2.9721, time 1157.71ms, mfu 6.00%
+iter 615: loss 2.6053, time 8.77ms, mfu 6.79%
+step 620: train loss 2.6901, val loss 7.0330
+iter 620: loss 2.6751, time 1179.65ms, mfu 6.13%
+iter 625: loss 2.9771, time 10.91ms, mfu 6.64%
+step 630: train loss 2.7232, val loss 6.9342
+saving checkpoint to out-wikipedia-shards
+iter 630: loss 3.0346, time 1759.21ms, mfu 5.98%
+iter 635: loss 3.0784, time 11.63ms, mfu 6.44%
+step 640: train loss 2.7481, val loss 7.1873
+iter 640: loss 3.1830, time 2080.30ms, mfu 5.80%
+iter 645: loss 2.6908, time 11.91ms, mfu 6.25%
+step 650: train loss 2.6637, val loss 6.9990
+iter 650: loss 3.1067, time 1305.64ms, mfu 5.63%
+iter 655: loss 2.5725, time 9.34ms, mfu 6.38%
+step 660: train loss 2.6846, val loss 6.9615
+iter 660: loss 2.2713, time 1167.72ms, mfu 5.75%
+iter 665: loss 2.8106, time 10.69ms, mfu 6.32%
+step 670: train loss 2.6156, val loss 7.0869
+iter 670: loss 2.7316, time 1152.72ms, mfu 5.70%
+iter 675: loss 3.0963, time 9.60ms, mfu 6.41%
+step 680: train loss 2.6663, val loss 6.9763
+iter 680: loss 2.5869, time 1146.24ms, mfu 5.78%
+iter 685: loss 2.3772, time 9.94ms, mfu 6.43%
+step 690: train loss 2.5930, val loss 6.9756
+iter 690: loss 2.8861, time 1144.32ms, mfu 5.80%
+iter 695: loss 2.5982, time 10.96ms, mfu 6.34%
+step 700: train loss 2.6150, val loss 7.0135
+iter 700: loss 2.6914, time 1149.78ms, mfu 5.72%
+iter 705: loss 3.0200, time 11.23ms, mfu 6.24%
+step 710: train loss 2.5864, val loss 7.0030
+iter 710: loss 2.7548, time 1163.08ms, mfu 5.62%
+iter 715: loss 2.9717, time 10.47ms, mfu 6.23%
+step 720: train loss 2.5930, val loss 6.9999
+iter 720: loss 3.0339, time 1168.72ms, mfu 5.62%
+iter 725: loss 2.6408, time 10.75ms, mfu 6.20%
+step 730: train loss 2.6036, val loss 6.8963
+saving checkpoint to out-wikipedia-shards
+iter 730: loss 2.8622, time 1571.86ms, mfu 5.58%
+iter 735: loss 2.5653, time 8.97ms, mfu 6.39%
+step 740: train loss 2.5682, val loss 6.9197
+iter 740: loss 3.2698, time 1149.28ms, mfu 5.76%
+iter 745: loss 3.2209, time 9.39ms, mfu 6.49%
+step 750: train loss 2.6128, val loss 7.0110
+iter 750: loss 3.0623, time 1161.62ms, mfu 5.85%
+iter 755: loss 2.3600, time 9.98ms, mfu 6.50%
+step 760: train loss 2.6019, val loss 6.8794
+saving checkpoint to out-wikipedia-shards
+iter 760: loss 2.9666, time 1581.49ms, mfu 5.85%
+iter 765: loss 2.5585, time 8.77ms, mfu 6.67%
+step 770: train loss 2.5419, val loss 6.9124
+iter 770: loss 2.8251, time 1158.60ms, mfu 6.01%
+iter 775: loss 3.0333, time 8.99ms, mfu 6.77%
+step 780: train loss 2.5525, val loss 6.8820
+iter 780: loss 2.7819, time 1161.28ms, mfu 6.11%
+iter 785: loss 2.5902, time 9.63ms, mfu 6.77%
+Traceback (most recent call last):
+  File "/home/arian/projects/curricular_learning/nanoGPT/train.py", line 261, in <module>
+    losses = estimate_loss()
+             ^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/projects/curricular_learning/nanoGPT/train.py", line 221, in estimate_loss
+    logits, loss = model(X, Y)
+                   ^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_dynamo/eval_frame.py", line 328, in _fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/projects/curricular_learning/nanoGPT/model.py", line 170, in forward
+    def forward(self, idx, targets=None):
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_dynamo/eval_frame.py", line 328, in _fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_dynamo/external_utils.py", line 17, in inner
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_functorch/aot_autograd.py", line 3905, in forward
+    return compiled_fn(full_args)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_functorch/aot_autograd.py", line 1482, in g
+    return f(*args)
+           ^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_functorch/aot_autograd.py", line 2533, in runtime_wrapper
+    all_outs = call_func_with_args(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_functorch/aot_autograd.py", line 1506, in call_func_with_args
+    out = normalize_as_list(f(args))
+                            ^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_functorch/aot_autograd.py", line 1594, in rng_functionalization_wrapper
+    return compiled_fw(args)
+           ^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_inductor/codecache.py", line 374, in __call__
+    return self.get_current_callable()(inputs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_inductor/compile_fx.py", line 628, in run
+    return model(new_inputs)
+           ^^^^^^^^^^^^^^^^^
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_inductor/codecache.py", line 401, in _run_from_cache
+    return compiled_graph.compiled_artifact(inputs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/torchinductor_arian/v3/cv3mcak3nrko5g72xshexe4h4n2lkatdmljflblfhhhdpwexbxwm.py", line 1131, in call
+    triton_poi_fused__to_copy_4.run(arg37_1, buf130, 589824, grid=grid(589824), stream=stream0)
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_inductor/triton_heuristics.py", line 433, in run
+    return launcher(
+           ^^^^^^^^^
+  File "<string>", line 13, in launcher
+KeyboardInterrupt

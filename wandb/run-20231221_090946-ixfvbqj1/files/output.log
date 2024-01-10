@@ -1,0 +1,42 @@
+
+step 0: train loss 10.8454, val loss 10.8835
+iter 0: loss 10.8572, time 24076.49ms, mfu -100.00%
+iter 5: loss 8.7047, time 4865.24ms, mfu 0.20%
+iter 10: loss 7.0685, time 4846.78ms, mfu 0.20%
+iter 15: loss 6.0262, time 5331.48ms, mfu 0.20%
+iter 20: loss 5.9364, time 5177.56ms, mfu 0.20%
+iter 25: loss 5.9002, time 5287.59ms, mfu 0.20%
+iter 30: loss 5.6535, time 4975.79ms, mfu 0.20%
+iter 35: loss 5.3274, time 4857.55ms, mfu 0.20%
+iter 40: loss 5.2247, time 4923.90ms, mfu 0.20%
+iter 45: loss 5.0374, time 4876.63ms, mfu 0.20%
+iter 50: loss 4.7733, time 4924.10ms, mfu 0.20%
+iter 55: loss 4.9607, time 5136.26ms, mfu 0.20%
+iter 60: loss 4.8208, time 5138.36ms, mfu 0.20%
+iter 65: loss 4.4994, time 4855.74ms, mfu 0.20%
+iter 70: loss 4.3911, time 6635.49ms, mfu 0.19%
+iter 75: loss 4.2957, time 6103.87ms, mfu 0.19%
+iter 80: loss 4.3874, time 5390.83ms, mfu 0.19%
+iter 85: loss 4.2186, time 6886.01ms, mfu 0.18%
+iter 90: loss 4.2619, time 5379.21ms, mfu 0.18%
+iter 95: loss 3.9366, time 4840.48ms, mfu 0.19%
+iter 100: loss 3.9959, time 4845.99ms, mfu 0.19%
+iter 105: loss 3.8896, time 5021.90ms, mfu 0.19%
+iter 110: loss 3.7226, time 5628.75ms, mfu 0.19%
+iter 115: loss 3.8880, time 4881.90ms, mfu 0.19%
+iter 120: loss 3.8243, time 5016.82ms, mfu 0.19%
+iter 125: loss 3.6731, time 4856.92ms, mfu 0.19%
+iter 130: loss 3.5460, time 4871.70ms, mfu 0.19%
+iter 135: loss 3.6990, time 5633.97ms, mfu 0.19%
+iter 140: loss 3.6031, time 4917.62ms, mfu 0.19%
+iter 145: loss 3.5361, time 5051.72ms, mfu 0.19%
+iter 150: loss 3.3812, time 45675.79ms, mfu 0.17%
+iter 155: loss 3.4717, time 10227.47ms, mfu 0.17%
+Traceback (most recent call last):
+  File "/home/arian/projects/curricular_learning/nanoGPT/train.py", line 302, in <module>
+    scaler.scale(loss).backward()
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/_tensor.py", line 492, in backward
+    torch.autograd.backward(
+  File "/home/arian/miniconda3/envs/nanoGPT/lib/python3.11/site-packages/torch/autograd/__init__.py", line 251, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt
