@@ -34,7 +34,3 @@ Now rename current shrad to be trained on to `train.bin` and remember to chang n
 ```
 $ python train.py config/train_wikipedia_shards.py
 ```
-
-## acknowledgements
-
-All nanoGPT experiments are powered by GPUs on [Lambda labs](https://lambdalabs.com), my favorite Cloud GPU provider. Thank you Lambda labs for sponsoring nanoGPT!
