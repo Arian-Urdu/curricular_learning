@@ -3,6 +3,8 @@
 
 Fork of [nanoGPT](https://github.com/karpathy/nanoGPT) to experiment on with  Curricular Learning
 
+![result](assets/result_val_loss.png)
+
 ## Install
 
 ```
@@ -25,8 +27,9 @@ Dependencies:
 $ python data/sorted_wikipedia_dataset/prepare.py
 ```
 
-This creates a `shards.bin` and `val.bin` in that data directory.
+This creates a 5x Shards and `val.bin` in that data directory.
 
+![setup](assets/experiment_sketch.png)
 
 ## Train
 
